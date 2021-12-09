@@ -90,3 +90,7 @@ Inteligência artificial: é capaz de avaliar a capacidade operacional da equipe
  ### Canais de Suporte
 
 <!--Serão de responsabilidade do Ministério da Economia e poderão ser acessados via portal e telefone. Maiores detalhes poderão ser consultados na página...-->
+
+
+cd C:\Users\oscarhenrique\Documents\GitHub\supp-administrativo-docs\docs
+make.bat html
