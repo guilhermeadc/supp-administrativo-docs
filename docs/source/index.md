@@ -1,4 +1,4 @@
-# Sistema Único de Processo Eletrônico em Rede
+![GOV.BR](_static/images/logo-original.png)
 
 ```{toctree}
 :maxdepth: 2
