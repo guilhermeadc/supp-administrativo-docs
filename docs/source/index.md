@@ -1,4 +1,4 @@
-![GOV.BR](_static/images/logo-original.png)
+![SUPER.BR](_static/images/logo-original.png)
 
 ```{toctree}
 :maxdepth: 2
