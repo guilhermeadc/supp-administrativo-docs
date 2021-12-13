@@ -32,7 +32,7 @@ Nessa etapa, a equipe de Tecnologia do Órgão e o Comitê de implantação test
 
 O objetivo dessa fase é aprovar as funcionalidades do Super.BR ou solicitar possíveis correções. 
 
-O próximo passo é *(inserir link)* a Implantação do Sistema – Toda instituição. 
+O próximo passo é *(inserir link)* a Implantação do Sistema – Toda instituição. ![teste](../_static/images/teste.jpg)
 
-![GOV.BR](_static/images/gov_br.jpeg)
+
 
