@@ -1,4 +1,14 @@
-# Preparação para iniciar as Configurações
+# Configurações
+
+```{toctree}
+:maxdepth: 2
+:caption: Conteúdo
+
+configuracao_preparacao
+configuracao_sistema
+```
+
+
 
 Estágio do projeto que haverá a preparação e levantamento prévio de todas as informações que serão configuradas no SUPER.br. Será realizado conforme os passo indicados abaixo: 
 

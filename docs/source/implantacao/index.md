@@ -1,14 +1,14 @@
 # Implantação
 
 ```{toctree}
-:maxdepth: 1
+:maxdepth: 2
 :numbered:
 :caption: Conteúdo
 
 iniciacao
 planejamento
 provisionamento
-configuracao
+configuracao/index
 capacitacao
 implantacao_piloto
 migracao
