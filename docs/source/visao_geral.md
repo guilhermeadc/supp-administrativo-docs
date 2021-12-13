@@ -38,15 +38,24 @@ Assim, o SUPER.BR se tornará um sistema estruturante, cujo objetivo será aprim
 
 ### Principais Benefícios do SUPER.BR
 
-● Baseada na lógica de estrutura de tarefas, possibilitando a medição de produtividade; 
-● Possui modo de acompanhamento (notificação de resposta) e distribuição automática de processos. 
-● Atende aos requisitos de expedição e tramitação de documentos avulsos e processos, conforme o normativo atual – Portaria Interministerial (MJ e ME) nº 11, de 25.11.2019; 
-● Contém modelos padronizados de documentos, seguindo o Manual da Presidência da República; 
-● Possibilita a criação de modelos de documentos pelos usuários. 
-● Possui interface moderna e responsiva; 
-● Utiliza inteligência artificial, gerando aprendizado no sistema; 
-● Possibilita a assinatura via NeoID; 
-● Dispõe de módulo de “ajuda” de forma interativa no sistema, o que substitui os extensos manuais. 
+● Baseada na lógica de estrutura de tarefas, possibilitando a medição de produtividade;
+
+● Possui modo de acompanhamento (notificação de resposta) e distribuição automática de processos;
+
+● Atende aos requisitos de expedição e tramitação de documentos avulsos e processos, conforme o normativo atual – Portaria Interministerial (MJ e ME) nº 11, de 25.11.2019;
+
+● Contém modelos padronizados de documentos, seguindo o Manual da Presidência da República;
+
+● Possibilita a criação de modelos de documentos pelos usuários.;
+
+● Possui interface moderna e responsiva;
+
+● Utiliza inteligência artificial, gerando aprendizado no sistema;
+
+● Possibilita a assinatura via NeoID;
+
+● Dispõe de módulo de “ajuda” de forma interativa no sistema, o que substitui os extensos manuais;
+
 ● Agrega um conjunto de funcionalidades previstas no e-ARQ Brasil, modelo de requisitos para os sistemas informatizados de gestão arquivística de documentos. 
 
 ### Objetivos do SUPER.BR
@@ -57,22 +66,30 @@ Destacamos ainda como objetivos do SUPER.br:
 
 Unicidade: a Administração Pública utiliza diversos sistemas de processos administrativos eletrônicos. O SUPER.br surge como um sistema estruturante que visa padronização de tais sistemas, além de possibilitar: 
 
-● Cogestão em comunidade; 
-● Múltiplas instâncias; 
+● Cogestão em comunidade;
+
+● Múltiplas instâncias;
+
 ● Gestão do sigilo legal e controle de acesso. 
 
 Automatização: proporcionará a padronização do fluxo de tramitação dos processos de trabalho tendo como efeitos: 
 
-● Redução de erros de tramitação e tempo do processo; 
-● Eliminação de equipes específicas de distribuição; 
-● Mensuração de produtividade do processo; 
+● Redução de erros de tramitação e tempo do processo;
+
+● Eliminação de equipes específicas de distribuição;
+
+● Mensuração de produtividade do processo;
+
 ● Transparência e segurança na tramitação dos processos. 
 
 Inteligência artificial: é capaz de avaliar a capacidade operacional da equipe e realizar a distribuição automática. Dessa forma, irá proporcionar: 
 
 ● Redução do tempo do processo; 
-● Aumento da qualidade da execução das atividades; 
-● Monitoramento dos processos de trabalho; 
+
+● Aumento da qualidade da execução das atividades;
+
+● Monitoramento dos processos de trabalho;
+
 ● Otimização do aprendizado a cada uso. 
 
 ### Estrutura de Governança
@@ -90,7 +107,3 @@ Inteligência artificial: é capaz de avaliar a capacidade operacional da equipe
  ### Canais de Suporte
 
 <!--Serão de responsabilidade do Ministério da Economia e poderão ser acessados via portal e telefone. Maiores detalhes poderão ser consultados na página...-->
-
-
-cd C:\Users\oscarhenrique\Documents\GitHub\supp-administrativo-docs\docs
-make.bat html
