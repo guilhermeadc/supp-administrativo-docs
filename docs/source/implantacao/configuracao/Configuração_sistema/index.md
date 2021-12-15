@@ -1,7 +1,7 @@
 # Configurações
 
 ```{toctree}
-:maxdepth: 2
+:maxdepth: 3
 :numbered:
 :caption: Conteúdo
 
@@ -24,6 +24,5 @@ Unidades
 Usuarios_Externos
 Usuarios
 Workflow
-configuracao_sistema/index
 ```
 
