@@ -1,2 +1,2 @@
-# Configuração do Sistema
+# Tipos de Relatórios
 
