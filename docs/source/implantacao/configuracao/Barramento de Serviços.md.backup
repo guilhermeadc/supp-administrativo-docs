@@ -173,5 +173,5 @@ Para o FAQ de problemas, temos os dois casos possíveis de recebimento:
 O Super por padrão tentará entregar o tramite vindo do Barramento em uma unidade dentro do Super com a mesma sigla de unidade cadastrada no barramento, Ex: usuário escolhe a unidade CGPRO-DELOG no sistema de origem, o super destinatário tentara criar o processo dentro do Setor de Protocolo na Unidade CGPRO-DELOG, gerando esta recusa caso esta unidade não exista dentro do SuperBr de destino 
 
 
-2. 'Não há usuário apto a receber tarefa neste setor!'
+2. Não há usuário apto a receber tarefa neste setor! 
  é necessário ir no menu Administração->Unidade->Setor->Lotações e adicionar permissão a um usuário no setor de Protocolo para que alguém possa receber uma tarefa referente a este processo recebido do Barramento 

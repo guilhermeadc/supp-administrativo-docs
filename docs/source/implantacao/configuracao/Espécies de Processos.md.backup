@@ -59,7 +59,7 @@ Nota: O “Código de classificação de documentos de arquivo para a administra
 * **Modalidade Meio:** campo opcional de seleção para indicação do meio de tramitação das tarefas e/ou documentos ligados à espécie de processo. Podendo ser em meio Físico, Eletrônico ou Híbrido.
 
 * **Título:** campo opcional para indicação de um título para compor o cadastro da espécie de processo.
-```{warning}
+```Nota
 Nota: Os campos Título, Modalidade Meio e Classificação Processo preenchidos no cadastro de espécie de processo serão apresentadas na tela de criação de um processo como sugestões, podendo ser alterado pelo usuário conforme o contexto e a necessidade do processo criado.
 ```
 * **Ativo:** Flag que indicará se a espécie está disponível para uso no cadastro de setores ou não. 
