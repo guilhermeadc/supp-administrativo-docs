@@ -45,9 +45,9 @@ Nota: Todos os campos marcados com * são de preenchimento obrigatório.
 ```
 
 
-**Valor:** Campo obrigatório, destinado ao preenchimento à Sigla do nome do Órgão; 
+**Valor*:** Campo obrigatório, destinado ao preenchimento à Sigla do nome do Órgão; 
 
-**Descrição:** Campo obrigatório, destinado ao preenchimento do nome do Órgão; 
+**Descrição*:** Campo obrigatório, destinado ao preenchimento do nome do Órgão; 
 
 **Ativo:** A habilitação desse campo indicará que o Órgão está ativo;
 
