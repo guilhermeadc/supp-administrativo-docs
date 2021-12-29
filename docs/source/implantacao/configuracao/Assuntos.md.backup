@@ -36,11 +36,12 @@ O usuário com perfil de Administrador SUPER.br terá as autorizações necessá
 
 2. Em seguida, deverá ser preenchido os campos disponíveis no formulário para cadastro de Assunto. 
 
-```Nota
+```{Note}
 Nota: Todos os campos marcados com * (asterísco) são de preenchimento obrigatório.
 ```
 
-img src="../../_static/images/Assuntos - Tela com a Lista de Campos.png)
+<img src="../../_static/images/Assuntos - Tela com a Lista de Campos.png)/>
+![](../../_static/images/Assuntos - Tela com a Lista de Campos.png)
 
 
 * **Nome:** campo obrigatório para registro nome do Assunto em questão;

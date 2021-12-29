@@ -36,7 +36,7 @@ O usuário com perfil de Administrador SUPER.br terá as autorizações necessá
 
 2. Em seguida, deverá ser preenchido os campos disponíveis no formulário para cadastro de Assunto. 
 
-```Nota
+```{Note}
 Nota: Todos os campos marcados com * (asterísco) são de preenchimento obrigatório.
 ```
 
