@@ -9,7 +9,7 @@ O usuário com perfil de Administrador SUPER.br terá as autorizações necessá
 
 ## Tela Assuntos No SUPER.br
 
-![Assuntos - Tela principal](../../_static/images/Assuntos - Tela principal.png)
+![](../../_static/images/Assuntos - Tela principal.png)
 
 
 1) Novo. Utilizado para criar um registro de Assuntos;
@@ -40,7 +40,8 @@ O usuário com perfil de Administrador SUPER.br terá as autorizações necessá
 Nota: Todos os campos marcados com * (asterísco) são de preenchimento obrigatório.
 ```
 
-![Assuntos - Tela com a Lista de Campos](../../_static/images/Assuntos - Tela com a Lista de Campos.png)
+<img src="../../_static/images/Assuntos - Tela com a Lista de Campos.png)/>
+
 
 
 * **Nome:** campo obrigatório para registro nome do Assunto em questão;
