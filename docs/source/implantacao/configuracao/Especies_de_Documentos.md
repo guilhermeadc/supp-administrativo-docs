@@ -18,7 +18,7 @@ Leia mais sobre ações em documentos (juntadas, vinculações, tramitações, t
 
 Além dos tipos de Documentos já descritos anteriormente, faz se necessária a criação de novos tipos de documentos, de acordo com as necessidades do Órgão. 
 
-![Figura 1 – Tela de Tipos de Documentos - Tela Principal do Super.BR](../../_static/images/Tipos de Documentos - Tela Principal.png)
+<img src="../../_static/images/Tipos de Documentos - Tela Principal.png)"/>
 
 
 Para criação de um novo tipo de Documento no Super.BR, o usuário com perfil de Administrador do Sistema deverá acessar o Menu Administrador > Tipos de Documentos e clicar no botão “+” no canto superior esquerdo da lista de tipos de documentos. 

@@ -18,7 +18,7 @@ As espécies “Protocolo” e “Arquivo” estão disponíveis por padrão na 
 ## Tela Espécies de Setores No SUPER.br 
 
  
-![Espécies de Setores - Tela Principal](../../_static/images/Espécies de Setores - Tela Principal.png)
+<img src="../../_static/images/Espécies de Setores - Tela Principal.png"/>
  
 
 1) Novo. Utilizado para criar um registro de Espécie de Setor; 
@@ -29,15 +29,15 @@ As espécies “Protocolo” e “Arquivo” estão disponíveis por padrão na 
 
  
 
-3) Recarregar. Opção permite a atualização dos registros apresentados em tela;  
+3) Recarregar. Opção permite a atualização dos registros apresentados em tela;
 
  
 
-4) Filtro. Opção possibilita filtrar um intervalo de dados com base em critérios definidos. 
+4) Filtro. Opção possibilita filtrar um intervalo de dados com base em critérios definidos; 
 
  
 
-5) Mostrar Inativos. Permite configura a visão da tela para mostrar, também, registros inativos. 
+5) Mostrar Inativos. Permite configura a visão da tela para mostrar, também, registros inativos; 
 
  
 
@@ -45,7 +45,7 @@ As espécies “Protocolo” e “Arquivo” estão disponíveis por padrão na 
 
  
 
-7) Opção permite configurar a quantidade de registro a serem mostrados em tela;  
+7) Opção permite configurar a quantidade de registro a serem mostrados em tela;
 
  
 
@@ -57,7 +57,7 @@ As espécies “Protocolo” e “Arquivo” estão disponíveis por padrão na 
 
  
 
-1. Para criação de uma nova Espécie de Setor no Super.BR, o usuário deverá acessar o Menu “Espécie de Setores”, existente na visão Administrador, e clicar no botão “Novo” , localizado na parte superior esquerda da tela. 
+1. Para criação de uma nova Espécie de Setor no Super.BR, o usuário deverá acessar o Menu “Espécie de Setores”, existente na visão Administrador, e clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" style="zoom: 50%;"/>, localizado na parte superior esquerda da tela. 
 
  
 

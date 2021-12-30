@@ -1,11 +1,11 @@
 # Espécies de Atividades
 
 
-Atividades são os produtos base das ações do workflow do Super.BR.  
+Atividades são os produtos base das ações do workflow do Super.BR.
 
 Espécies de Atividades são um montante de produtos que um setor é designado a produzir, conforme cada uma das tarefas. Essas espécies de atividades possuem dois gêneros: Administrativo e Arquivístico. 
 
-Mais informações sobre Atividades são abordadas em clique aqui.  
+Mais informações sobre Atividades são abordadas em clique aqui.
 
  
 
@@ -15,7 +15,8 @@ Com o perfil de Administrador, a tela de Espécie de Atividades permite visualiz
 
  
 
-![Figura 1 – Tela de Espécies de Atividades do Super.BR](../../_static/images/Espécies de Atividades - Tela Principal.png)
+<img src="../../_static/images/Espécies de Atividades - Tela Principal.png"/>
+
 Figura 1 – Tela de Espécies de Atividades do Super.BR 
 
 Seguem indicadores dos botões na Tela de Usuários : 

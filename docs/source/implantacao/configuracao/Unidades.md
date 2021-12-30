@@ -18,7 +18,7 @@ Toda unidade:
 
 Abaixo segue figura que demonstra o relacionamento entre Órgãos, Unidades e Setores. 
 
-![Unidades - Figura Demonstrativa](../../_static/images/Unidades - Figura Demonstrativa.png)
+<img src="../../_static/images/Unidades - Figura Demonstrativa.png"/>
 
  
 
@@ -40,7 +40,7 @@ Também é possível visualizar os setores de cada Unidade e acrescentar novas c
 
 Ao optar por visualizar os setores, uma grid é aberto, onde é possível editar o Setor, manipular lotações e localizadores, além da possibilidade de remover o Setor. 
 
-![Unidades - Tela Principal](../../_static/images/Unidades - Tela Principal.png)
+<img src="../../_static/images/Unidades - Tela Principal.png"/>
 
 
 1) Criar um registro de Unidade; 
@@ -71,7 +71,7 @@ Ao optar por visualizar os setores, uma grid é aberto, onde é possível editar
 Nota: Todos os campos marcados com * são de preenchimento obrigatório. 
 ```
 
-![Unidades - Tela com a Lista de Campos](../../_static/images/Unidades - Tela com a Lista de Campos.png)
+<img src="../../_static/images/Unidades - Tela com a Lista de Campos.png"/>
 
  
 

@@ -7,17 +7,17 @@ A liderança do Órgão Central está a cargo do Coordenador de Órgão Central 
 Acima de todos os tipos de acesso, temos o de Administrador do Sistema. Ele tem, dentre outras atribuições, ser responsável pela criação de um Órgão Central. A criação do Órgão Central será descrita a seguir e é a que permitirá desencadear outras ações. 
 
 
-##Tela de Órgãos
+## Tela de Órgãos
 
 
 Com o perfil de Administrador, a tela de Órgãos permite visualizar os Órgãos já cadastrados no Sistema, além de editar os já existentes. 
 
  
-![Órgãos - Tela principal](../../_static/images/Órgãos - Tela principal.png)
+<img src="../../_static/images/Órgãos - Tela principal.png"/>
 Figura 1 – Tela dos Órgãos Centrais
 
 
-Seguem indicadores dos botões na Tela de Órgãos
+Seguem indicadores dos botões na Tela de Órgãos:
 
 1) Novo. Utilizado para criar um Órgão; 
 
@@ -37,7 +37,6 @@ Seguem indicadores dos botões na Tela de Órgãos
 Com acesso de Administrador de sistema, acessar a lista de Órgãos Centrais e para criar, deve-se seguir a descrição abaixo:  
 
 
-
 1. Clicar em  "Novo" <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> e preencher todos os campos que aparecerem na tela subsequente:  
 
 ```{note}
@@ -45,9 +44,9 @@ Nota: Todos os campos marcados com * são de preenchimento obrigatório.
 ```
 
 
-**Valor*:** Campo obrigatório, destinado ao preenchimento à Sigla do nome do Órgão; 
+**Valor:** Campo obrigatório, destinado ao preenchimento à Sigla do nome do Órgão; 
 
-**Descrição*:** Campo obrigatório, destinado ao preenchimento do nome do Órgão; 
+**Descrição:** Campo obrigatório, destinado ao preenchimento do nome do Órgão; 
 
 **Ativo:** A habilitação desse campo indicará que o Órgão está ativo;
 
