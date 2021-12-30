@@ -9,8 +9,7 @@ O usuário com perfil de Administrador SUPER.br terá as autorizações necessá
 
 ## Tela Assuntos No SUPER.br
 
-![](../../_static/images/Assuntos - Tela principal.png)
-
+<img src="../../_static/images/Assuntos - Tela principal.png"/>
 
 1) Novo. Utilizado para criar um registro de Assuntos;
 
@@ -40,8 +39,7 @@ O usuário com perfil de Administrador SUPER.br terá as autorizações necessá
 Nota: Todos os campos marcados com * (asterísco) são de preenchimento obrigatório.
 ```
 
-<img src="../../_static/images/Assuntos - Tela com a Lista de Campos.png)/>
-
+<img src="../../_static/images/Assuntos - Tela com a Lista de Campos.png"/>
 
 
 * **Nome:** campo obrigatório para registro nome do Assunto em questão;
@@ -63,8 +61,7 @@ Caso esteja marcada estará ativa e disponível. Caso contrário, estará inativ
 
 ### Aba Árvore
 
-![Assuntos - Tela aba árvore](../../_static/images/Assuntos - Tela aba árvore.png)
-
+<img src="../../_static/images/Assuntos - Tela aba árvore.png"/>
 
 1) Botão para maximizar a árvore de assuntos.
 
