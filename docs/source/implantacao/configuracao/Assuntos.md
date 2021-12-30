@@ -73,7 +73,7 @@ Caso esteja marcada estará ativa e disponível. Caso contrário, estará inativ
 
 * Este botão ficará disponível em todos os níveis da árvore de assuntos.
 
-![Assuntos - Tela aba árvore - campos para cadastro](../../_static/images/Assuntos - Tela aba árvore - campos para cadastro.png)
+<img src="../../_static/images/Assuntos - Tela aba árvore - campos para cadastro.png"/>
 
 
 
