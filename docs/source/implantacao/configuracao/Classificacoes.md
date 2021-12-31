@@ -30,19 +30,24 @@ Onde levantar o código arquivístico?
 
 5) Recarregar. Opção permite a atualização dos registros apresentados em tela; 
 
-6) Filtro. Opção possibilita filtrar um intervalo de dados com base em critérios definidos.
+6) Filtro. Opção possibilita filtrar um intervalo de dados com base em critérios definidos;
 
-7) Mostrar Inativos. Permite configura a visão da tela para mostrar, também, registros inativos.
+7) Mostrar Inativos. Permite configura a visão da tela para mostrar, também, registros inativos;
 
 8) Editar o cadastro de uma Classificação;
+
+9) Acessos. 
+
+```{comm}
+Dúvida: Para que serve esta funcionalidade? Quando tento acessá-la fica com carregamento infinito;
+```
+
+10) Remover. Opção permite à exclusão do registro.
 
 ```{Note}
 Nota: Ao editar um registro de classificação, o botão Histórico, existente do lado direito de cada campo, ficará disponível para visualização do histórico de alterações do campo, indicando quando o conteúdo foi alterado e quem o alterou.
 ```
 
-9) Acessos. Dúvida: Para que serve esta funcionalidade? Quando tento acessá-la fica com carregamento infinito.
-
-10) Remover. Opção permite à exclusão do registro; 
 
 ## Como Cadastrar uma Classificação
 

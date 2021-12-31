@@ -21,17 +21,17 @@ O cadastro dos Templates poderá ser realizado pelo Administrador do Super.br.
 
 2) Colunas. Por esta opção será possível gerenciar as colunas que serão disponibilizadas na tela; 
 
-3) Recarregar. Opção permite a atualização dos registros apresentados em tela;  
+3) Recarregar. Opção permite a atualização dos registros apresentados em tela;
 
-4) Filtro. Opção possibilita filtrar um intervalo de dados com base em critérios definidos. 
+4) Filtro. Opção possibilita filtrar um intervalo de dados com base em critérios definidos; 
 
-5) Mostrar Inativos. Permite configura a visão da tela para mostrar, também, registros inativos. 
+5) Mostrar Inativos. Permite configura a visão da tela para mostrar, também, registros inativos;
 
 6) Editar o cadastro de um Template; 
 
-7) Editar conteúdo. Opção utilizada para edição do Template cadastrado. 
+7) Editar conteúdo. Opção utilizada para edição do Template cadastrado;
 
-8) Opção permite configurar a quantidade de registro a serem mostrados em tela;  
+8) Opção permite configurar a quantidade de registro a serem mostrados em tela;
 
 9) Tarja indica a quantidade de páginas relacionadas a consulta em tela. A navegação entre as páginas poderá ser feita por meio do uso das setas disponíveis. 
  
@@ -49,21 +49,21 @@ Nota: Todos os campos marcados com * são de preenchimento obrigatório.
  
 <img src="../../_static/images/Templates - Tela com a Lista de Campos.png"/>
 
-**Nome:** Campo obrigatório destinado ao cadastro do nome/qualificação do tipo de processo a ser executada por um setor. 
+* **Nome:** Campo obrigatório destinado ao cadastro do nome/qualificação do tipo de processo a ser executada por um setor. 
 
-**Descrição:** Campo obrigatório destinado a inclusão de uma breve descrição sobre o tipo de atividade relacionada à espécie de setor. 
+* **Descrição:** Campo obrigatório destinado a inclusão de uma breve descrição sobre o tipo de atividade relacionada à espécie de setor. 
 
 ```{note}
 Nota: Os campos “Nome” e “Descrição” são de livre preenchimento, com limitação de 255 caracteres. 
 ```
 
-**Modalidade Template:** Campo obrigatório destinado a indicação do módulo em que o template será utilizado. Ex.: Administrativo. 
+* **Modalidade Template:** Campo obrigatório destinado a indicação do módulo em que o template será utilizado. Ex.: Administrativo. 
 
-**Tipo de Documento:** Campo obrigatório destinado a indicação do tipo de documento ao qual o template será associado. 
+* **Tipo de Documento:** Campo obrigatório destinado a indicação do tipo de documento ao qual o template será associado. 
 
-**Ativo:** Flag que indicará se o Template está disponível para uso ou não. Caso esteja marcada estará ativa e disponível. Caso contrário, estará inativa e indisponível no cadastro de setores. 
+* **Ativo:** Flag que indicará se o Template está disponível para uso ou não. Caso esteja marcada estará ativa e disponível. Caso contrário, estará inativa e indisponível no cadastro de setores. 
  
-3. Após o cadastro do Template, o usuário poderá editar a mascará do template criado, por meio do botão “Editar Conteúdo”; 
+3. Após o cadastro do Template, o usuário poderá editar a mascará do template criado, por meio do botão “Editar Conteúdo”;
 
 Nesta opção será possível criar/editar o modelo de documento relacionado ao Template criado. 
 

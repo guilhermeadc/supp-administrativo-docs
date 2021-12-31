@@ -14,9 +14,9 @@
 
 3) Recarregar. Opção permite a atualização dos registros apresentados em tela; 
 
-4) Filtro. Opção possibilita filtrar um intervalo de dados com base em critérios definidos.
+4) Filtro. Opção possibilita filtrar um intervalo de dados com base em critérios definidos;
 
-5) Mostrar Inativos. Permite configura a visão da tela para mostrar, também, registros inativos.
+5) Mostrar Inativos. Permite configura a visão da tela para mostrar, também, registros inativos;
 
 6) Editar o cadastro de uma Espécie de Processo;
 
@@ -27,6 +27,7 @@
 ### Como Cadastrar uma Espécie de Processo
 
 1. Para criação de uma nova Espécie de Processo no Super.BR, o usuário deverá acessar o Menu “Espécies de Processos”, existente na visão Administrador, e clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom:50%;" />  , localizado na parte superior esquerda da tela.
+
 
 2. Em seguida, deverá preencher os campos disponíveis no formulário de cadastro de espécie de Processo.
  
