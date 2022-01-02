@@ -5,17 +5,13 @@ Definição de Usuário pode ser de uma pessoa que utiliza um Sistema de Informa
 
 O acesso e utilização do sistema é feita por meio de Login (CPF do Usuário) e uma senha. 
 
-![Usuários - Tela de Login Super](../../_static/images/Usuários - Tela de Login Super.png)
+<img src="../../_static/images/Usuários - Tela de Login Super.png"/>
 
-Figura 1 – Tela de Acesso do Usuário do Super.BR 
-
- 
 
 ## Níveis de Acesso/Perfis e Privilégios 
 
 Em sistemas operacionais multi-usuário, costuma-se utilizar a separação de privilégios. Cada usuário executa com seus privilégios específicos e pode executar apenas um número limitado de tarefas. Isso também ocorre no Super.BR, onde podemos ter os seguintes perfis, cada um com sua respectiva gama de responsabilidades e níveis de acesso. 
 
- 
 
 O sistema contempla 5 Níveis de Acesso, variando de 0 a 4, de acordo com a responsabilidade do Usuário: 
 
@@ -112,37 +108,32 @@ Com o perfil de Administrador, a tela Usuários permite visualizar os Usuários 
 
  
 
-![Usuários - Tela principal](../../_static/images/Usuários - Tela principal.png)
+<img src="../../_static/images/Usuários - Tela principal.png"/>
 
-Figura 2 – Tela de Usuários do Super.BR 
 
- 
+Seguem indicadores dos botões na Tela de Usuários: 
 
- 
-
-Seguem indicadores dos botões na Tela de Usuários (Figura 2): 
-
-1) Criar um registro de novo Usuário 
+1) Criar um registro de novo Usuário;
 
 2) Colunas. Por esta opção será possível gerenciar as colunas que serão disponibilizadas na tela; 
 
-3) Recarregar. Opção permite a atualização dos registros apresentados em tela;  
+3) Recarregar. Opção permite a atualização dos registros apresentados em tela;
 
-4) Filtro. Opção possibilita filtrar um intervalo de dados com base em critérios definidos. 
+4) Filtro. Opção possibilita filtrar um intervalo de dados com base em critérios definidos;
 
-5) Editar o cadastro de um Usuário 
+5) Editar o cadastro de um Usuário;
 
-6) Lotações. Opção permite abrir a tela de Lotações de Usuários dentro dos Setores. 
+6) Lotações. Opção permite abrir a tela de Lotações de Usuários dentro dos Setores;
 
-7) Afastamentos. Opção permite abrir a tela de Afastamento de Usuários. 
+7) Afastamentos. Opção permite abrir a tela de Afastamento de Usuários;
 
-8) Reseta Senha. Opção permite resetar a senha do Usuário para o Super.BR 
+8) Reseta Senha. Opção permite resetar a senha do Usuário para o Super.BR;
 
-9) Coordenações. Opção permite abrir a tela de Coordenadores de Usuários. 
+9) Coordenações. Opção permite abrir a tela de Coordenadores de Usuários;
 
-10) Distribuir Tarefas. Opção permite abrir a tela de Coordenadores de Usuários. 
+10) Distribuir Tarefas. Opção permite abrir a tela de Coordenadores de Usuários;
 
-11) Vincular Role. Opção permite abrir a tela de Roles.  
+11) Vincular Role. Opção permite abrir a tela de Roles.
 
  
 

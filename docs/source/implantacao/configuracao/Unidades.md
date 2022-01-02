@@ -103,7 +103,7 @@ Notas:
 
 * **Órgão Central:** Campo obrigatório. Órgão ao qual a Unidade está vinculada. Só é possível vincular a Unidade a um Órgão Central. 
 
-**Unidade Pai:** campo opcional, utilizado para o cadastro de estrutura aglutinadora de unidades. Usado, exclusivamente, para fins de consumo de ferramentas de BI.  
+**Unidade Pai:** campo opcional, utilizado para o cadastro de estrutura aglutinadora de unidades. Usado, exclusivamente, para fins de consumo de ferramentas de BI.
 
 
 ```{note}
