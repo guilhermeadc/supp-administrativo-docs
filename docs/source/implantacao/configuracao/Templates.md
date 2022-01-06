@@ -68,6 +68,6 @@ Nota: Os campos “Nome” e “Descrição” são de livre preenchimento, com 
 Nesta opção será possível criar/editar o modelo de documento relacionado ao Template criado. 
 
 
-<img src="../../_static/images/Templates - Tela de exemplo de documento.png)"/>
+<img src="../../_static/images/Templates - Tela de exemplo de documento.png"/>
 <p style="text-align: center;">Figura 3 – Tela com Exemplo de Template Documento Criado SUPP</p> 
 
