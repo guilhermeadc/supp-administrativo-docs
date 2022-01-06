@@ -4,13 +4,13 @@ Tarefas são as ações base do workflow do Super.BR.
 
 Espécies de Tarefas são um montante de todas as ações de processos a executar. Esse montante é definido pelos fluxos de trabalho que cada processo detém para a produção de atividades. Essas espécies de tarefas possuem dois gêneros: Administrativo e Arquivístico. 
 
-Mais informações sobre Tarefas são abordadas em clique aqui.  
+Mais informações sobre Tarefas são abordadas em clique aqui.
 
  
 
-Tela de Espécies de Tarefas 
+## Tela de Espécies de Tarefas 
 
-Com o perfil de Administrador, a tela de Espécie de Tarefas permite visualizar as Espécies de Tarefas cadastradas no Sistema, além de editar suas informações. 
+Com o perfil de Administrador, a tela de Espécie de Tarefas permite visualizar as Espécies de Tarefas cadastradas no Sistema, além de criar novas e editar suas informações. 
 
  
 ![Espécies de Tarefas - Tela Principal](../../_static/images/Espécies de Tarefas - Tela Principal.png)

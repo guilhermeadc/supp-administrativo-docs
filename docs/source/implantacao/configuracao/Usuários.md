@@ -9,7 +9,10 @@ O acesso e utilização do sistema é feita por meio de Login (CPF do Usuário) 
 
 Figura 1 – Tela de Acesso do Usuário do Super.BR 
 
- 
+
+
+A criação do Usuário, bem como a permissão de acesso e senha é concedida pelo Administrador do Super.BR, cujo procedimento será detalhado a seguir. É necessário também reforçar a importância de realizar o cadastro de [Pessoas](configuraçao/Pessoas.md) antes de realizar o cadastro de Usuário.
+  
 
 ## Níveis de Acesso/Perfis e Privilégios 
 
@@ -44,14 +47,18 @@ O sistema contempla 5 Níveis de Acesso, variando de 0 a 4, de acordo com a resp
 Toda a unidade do SUPER.BR deve possuir um administrador, responsável pela gestão dos usuários, dos setores e seus Localizadores, bem como das Lotações. 
 
 Para maiores informações sobre as funções do Administrador de Sistemas, clique aqui.
-```Inserir Hyperlink após criação do manual do Administrador```
+``` {warning}
+Inserir Hyperlink após criação do manual do Administrador
+```
 
 ### Coordenador de Unidade 
 
 Esse perfil possibilita a criação e gestão de modelos nacionais de documentos, bem como dos repositórios nacionais de conhecimento do SUPER.BR.  
 
 Para maiores informações sobre as funções do Coordenador de Unidade, clique aqui. 
-```Inserir Hyperlink após criação do manual do Coordenador de Unidade```
+``` {warning}
+Inserir Hyperlink após criação do manual do Coordenador de Unidade
+```
  
 
 ### Coordenador de Setor 
@@ -59,7 +66,9 @@ Para maiores informações sobre as funções do Coordenador de Unidade, clique 
 Não é exatamente um perfil, mas sim um atributo da lotação. Cada setor deve ter ao menos um coordenador, responsável pela gestão dos modelos locais de documentos, dos repositórios locais de conhecimento e dos critérios de visibilidade dos processos/documentos avulsos.  
 
 Para maiores informações sobre as funções do Coordenador de Setor, clique aqui. 
-```Inserir Hyperlink após criação do manual do Coordenador de Setor```
+``` {warning}
+Inserir Hyperlink após criação do manual do Coordenador de Setor
+```
  
 
 ### Arquivista 
@@ -67,7 +76,10 @@ Para maiores informações sobre as funções do Coordenador de Setor, clique aq
 Todo setor de arquivo, de cada uma das unidades do SUPER.BR, deve possuir ao menos um usuário com perfil arquivista, responsável por fazer as transições arquivísticas dos processos/documentos avulsos (transferência, desarquivamento, etc.). 
 
 Para maiores informações sobre as funções do Arquivista, clique aqui. 
-```Inserir Hyperlink após criação do manual do Arquivista```
+```{warning}
+
+Inserir Hyperlink após criação do manual do Arquivista
+```
  
 
 ### Distribuidor 
@@ -75,7 +87,9 @@ Para maiores informações sobre as funções do Arquivista, clique aqui.
 Não é exatamente um perfil, mas sim um atributo da lotação. O papel do usuário distribuidor é centralizar o recebimento de tarefas oriundas de outras unidades ou setores, de modo a, posteriormente, efetuar a redistribuição internamente.  
 
 Para maiores informações sobre as funções do Distribuidor, clique aqui. 
-```Inserir Hyperlink após criação do manual do Distribuidor```
+```{warning}
+Inserir Hyperlink após criação do manual do Distribuidor
+```
  
 
 ### Servidor 
@@ -91,7 +105,9 @@ Para maiores informações sobre as funções do Servidor, clique aqui.
 Perfil para acesso dos estagiários.  
 
 Para maiores informações sobre as funções do Estagiário, clique aqui. 
-```Inserir Hyperlink após criação do manual do Estagiário```
+``` {warning}
+Inserir Hyperlink após criação do manual do Estagiário
+```
  
 
 ### Usuário Externo 
@@ -99,7 +115,9 @@ Para maiores informações sobre as funções do Estagiário, clique aqui.
 Perfil para acesso dos Usuários Externos.  
 
 Para maiores informações sobre as funções do Usuário Externo, clique aqui. 
-```Inserir Hyperlink após criação do manual do Usuário Externo```
+``` {warning}
+Inserir Hyperlink após criação do manual do Usuário Externo
+```
  
 ```{note}
 Nota: Nível de Acesso e Perfil de Usuário são conceitos diferentes:  O primeiro é relacionado a possibilidade de acesso à informação. O segundo é voltado a responsabilidade dentro do sistema.  
@@ -132,7 +150,7 @@ Seguem indicadores dos botões na Tela de Usuários (Figura 2):
 
 5) Editar o cadastro de um Usuário 
 
-6) Lotações. Opção permite abrir a tela de Lotações de Usuários dentro dos Setores. 
+6) Lotações. Opção permite abrir a tela de Lotações de Usuários dentro dos Setores. Maiores detalhes no documento de [Setores](configuraçao/Setor.md)
 
 7) Afastamentos. Opção permite abrir a tela de Afastamento de Usuários. 
 
@@ -142,17 +160,23 @@ Seguem indicadores dos botões na Tela de Usuários (Figura 2):
 
 10) Distribuir Tarefas. Opção permite abrir a tela de Coordenadores de Usuários. 
 
-11) Vincular Role. Opção permite abrir a tela de Roles.  
+11) Vincular Role. Opção permite abrir a tela de Roles.
+
+12) Opção permite configurar a quantidade de registros a serem mostrados em tela.
+
+13) Tarja indica a quantidade de páginas relacionadas a consulta em tela. A navegação entre as páginas poderá ser feita por meio do uso das setas disponíveis.
 
  
 
 ## Como Criar um novo USUÁRIO no Super.BR 
 
-Para criar um novo usuário, o Administrador de Sistemas deve seguir os seguintes passos:  
+Antes da criação de um novo Usuário, é preciso fazer a criação de Pessoas. Para isso, o procedimento se encontra neste [link](configuraçao/Pessoas.md).
 
-1. Acessar o menu de Usuários e clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> localizado na parte superior esquerda da tela; 
+Feito isso, para criar um novo usuário, o Administrador de Sistemas deve seguir os seguintes passos:  
 
-2. Em seguida, deverá preencher os campos disponíveis no formulário com as informações referentes ao Usuário a ser cadastrado; 
+01\. Acessar o menu de Usuários e clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> localizado na parte superior esquerda da tela; 
+
+02\. Em seguida, deverá preencher os campos disponíveis no formulário com as informações referentes ao Usuário a ser cadastrado; 
 
 ```{note}
 Nota: Todos os campos marcados com * são de preenchimento obrigatório. 
@@ -162,28 +186,34 @@ Nota: Todos os campos marcados com * são de preenchimento obrigatório.
 
  
 
-Tela de Usuário: 
+- Tela de Usuário: 
 
 **Nome:** Campo obrigatório, destinado ao preenchimento do nome do Usuário;  
 
 **Email:** Campo obrigatório, destinado à indicação do e-mail do Usuário. 
 
-**Ativo:** Flag que indica se o registro do Usuário está Ativo ou Inativo. Usuário Ativo é aquele que XXXXX e Usuário inativo é aquele que não XXXXX.
+**Ativo:** Flag que indica se o registro do Usuário está Ativo ou Inativo. Usuário Ativo é aquele que continua exercendo as suas funções dentro do órgão.
 
- 
 
-Após salvar os campos preenchidos, um novo campo é habilitado:  
 
-**Nível de Acesso:** Campo Opcional, numérico (de 0 a 4) que mostra o nível de Acesso que o Usuário criado poderá ter de privilégios, conforme descrito na seção Nível de Acesso.  
-```Erro: O Super.BR apresenta números negativos```
- 
+03\. Após salvar os campos preenchidos, um novo campo é habilitado:  
 
-Após salvar novamente, a tela de colaborador é habilitada com novos campos:  
+**Nível de Acesso:** Campo Opcional, numérico (de 0 a 4) que mostra o nível de Acesso que o Usuário criado poderá ter de privilégios, conforme descrito na seção Nível de Acesso.
 
- 
+```{warning}
+Erro: O Super.BR apresenta números negativos para esses níveis de acesso
+```
+
+
+04\. Após salvar novamente, a Tela de Colaborador é habilitada com novos campos:  
 
 **Modalidade:** Campo obrigatório, destinado à modalidade que o usuário lhe é atribuída (Membro, Servidor, Estagiário, Terceirizado); 
 
 **Cargo:** Campo obrigatório, destinado ao Cargo que o Usuário possui dentro do Órgão. 
 
-O flag Ativo também está disponível para seleção. 
+O flag Ativo também está disponível para seleção.
+
+
+Pronto, o novo Usuário está criado. Após esse cadastro, está habilitado a seguir os próximos passos da Configuração Inicial do Super.BR.
+
+É sugerido continuar com a criação de Lotações (que é um segmento do documento inserido em [Setores](configuraçao/Setor.md).

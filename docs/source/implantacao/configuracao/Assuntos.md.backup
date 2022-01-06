@@ -4,7 +4,7 @@ O campo Assunto servirá para indicar o tema sobre o qual um processo ou documen
 
 Todos os processos protocolados devem, obrigatoriamente, conter ao menos um assunto. Este registro possibilitará a extração de relatórios mais fidedignos, além de aumentar o grau de identificação do processo/documento avulso.
 
-O usuário com perfil de Administrador SUPER.br terá as autorizações necessários para cadastrar os Assuntos utilizados em seu Órgão de atuação.
+O usuário com perfil de Administrador SUPER.br terá as autorizações necessários para cadastrar'' os Assuntos utilizados em seu Órgão de atuação.
 
 
 ## Tela Assuntos No SUPER.br
@@ -32,9 +32,9 @@ O usuário com perfil de Administrador SUPER.br terá as autorizações necessá
 
 ## Como Cadastrar um Assunto
 
-1. Para criação de um Assunto no Super.BR, o usuário deverá acessar o Menu “Assuntos”, existente na visão Administrador, selecionar a guia “Lista” e clicar no botão “Novo”  <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> , localizado na parte superior esquerda da tela.
+01\. Para criação de um Assunto no Super.BR, o usuário  do Super deverá acessar o Menu “Assuntos”, existente na visão Administrador, selecionar a guia “Lista” e clicar no botão “Novo”  <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> , localizado na parte superior esquerda da tela.
 
-2. Em seguida, deverá ser preenchido os campos disponíveis no formulário para cadastro de Assunto. 
+02\. Em seguida, deverá ser preenchido os campos disponíveis no formulário para cadastro de Assunto. 
 
 ```Nota
 Nota: Todos os campos marcados com * (asterísco) são de preenchimento obrigatório.
@@ -60,6 +60,12 @@ Dúvida: Este campo é somente utilizado para fins de consumo de ferramentas de 
 * **Ativo:** Flag que indicará se o Assunto está disponível para uso ou não do Usuário.
 Caso esteja marcada estará ativa e disponível. Caso contrário, estará inativa e indisponível.
 
+
+03\.Clicar em Salvar
+
+Pronto, o seu Assunto está cadastrado. Após essa criação, os processos protocolados podem ser associados àquele novo assunto cadastrado.
+
+
 ### Aba Árvore
 
 ![Assuntos - Tela aba árvore](../../_static/images/Assuntos - Tela aba árvore.png)
@@ -76,6 +82,3 @@ Caso esteja marcada estará ativa e disponível. Caso contrário, estará inativ
 * Este botão ficará disponível em todos os níveis da árvore de assuntos.
 
 ![Assuntos - Tela aba árvore - campos para cadastro](../../_static/images/Assuntos - Tela aba árvore - campos para cadastro.png)
-
-
-

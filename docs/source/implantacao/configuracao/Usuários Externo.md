@@ -1,18 +1,26 @@
 # Usuários Externos
 
-O Usuário Externo é um usuário fora do domínio do Órgão, mas que possui interações com o Órgão. 
+O Usuário Externo é um usuário fora do domínio do Órgão, mas que possui interações com o Órgão e precisam ter funções (ainda que limitadas) dentro do Super.BR.
 
-Para informações detalhadas sobre os Usuários não-Externos, [clique aqui](configuraçao/Usuários .md). 
+Para informações detalhadas sobre o Usuário não-Externo (ou Usuário ou Usuário Comum), [clique aqui](configuraçao/Usuários.md). 
 
-A criação de um Usuário Externo segue os seguintes passos:  
 
- 
 
-1. Acessar [o site do Super.BR](configuraçao/https://superbr-dev.dth.nuvem.gov.br/auth/login)  
+## Criação de Usuário Externo
 
-2. Clicar no “Criar uma conta”; 
+A criação de um Usuário Externo deve seguir os seguintes passos:
 
-3. Preencher todos os campos requeridos: 
+
+1\. Acessar [o site do Super.BR](configuraçao/https://superbr-dev.dth.nuvem.gov.br/auth/login)  
+
+```{warning}
+Verificar a atualização do link: 
+```
+
+
+2\. Clicar no “Criar uma conta”; 
+
+3\. Preencher todos os campos requeridos: 
 
 **Nome:** Campo obrigatório, destinado ao preenchimento do nome do Usuário Externo; 
 
@@ -28,18 +36,25 @@ A criação de um Usuário Externo segue os seguintes passos:
 
  
 
-4. O Usuário Externo irá receber um e-mail de confirmação de cadastro pelo e-mail fornecido no campo preenchido. 
-```Esse item acima está no arquivo MD como 4, como deveria ser, porém na Previsão HTML, consta como 1```
+4\. O Usuário Externo irá receber um e-mail de confirmação de cadastro pelo e-mail fornecido no campo preenchido. 
+
+
+Pronto, o Usuário Externo está criado.
+O Administrador do Super.BR já poderá acessar, editar e limitar as concessões que o Usuário Externo poderá exercer dentro do Super.BR, como se pode verificar adiante.
  
+
+ 
+
+## Tela de Usuário Externo
+
+
+Após a criação do Usuário Externo, o Administrador do Sistema poderá ter acesso à tela de Usuários Externos criados e realizar comandos de gestão. 
+
+
 ![Usuário Externo - Tela Principal](../../_static/images/Usuário Externo - Tela Principal.png)
 
 Figura 3 – Tela de Usuários Externos do Super.BR 
 
- 
-
- 
-
-Após a criação do Usuário Externo, o Administrador do Sistema poderá ter acesso à tela de Usuários Externos criados e realizar comandos de gestão. 
 
 Seguem indicadores dos botões na Tela de Usuários (Figura 3):
 
@@ -51,7 +66,13 @@ Seguem indicadores dos botões na Tela de Usuários (Figura 3):
 
 4) Editar o cadastro de um Usuário Externo 
 
-5) Vincular Pessoa. Opção permite abrir a tela de vincular pessoa.  
+5) Vincular Pessoa. Opção permite abrir a tela de vincular pessoa. Para o cadastro de uma pessoa, deve seguir os procedimentos por meio do [link](configuraçao/Pessoas.md).
+
+6) Opção permite configurar a quantidade de registros a serem mostrados em tela.
+
+7) Tarja indica a quantidade de páginas relacionadas a consulta em tela. A navegação entre as páginas poderá ser feita por meio do uso das setas disponíveis
+
+
 
  
 
@@ -60,7 +81,9 @@ O Administrador de Sistema, para editar as informações do Usuário Externo pod
 **Nível de Acesso:** Campo opcional que determina o tipo de acesso que aquele Usuário Externo pode ter; 
 
 **Ativo:** Flag que indica se o Usuário Externo está Ativo ou Inativo. 
+Usuário Externo Ativo indica se este continua exercendo suas funções.
 
-**Validado:** Flag que indica se o Usuário foi validado. 
+**Validado:** Flag que indica se o Usuário Externo foi validado.
 
- 
+
+

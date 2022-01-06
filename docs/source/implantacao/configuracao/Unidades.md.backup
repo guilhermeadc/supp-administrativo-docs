@@ -38,7 +38,8 @@ O menu Unidades permite visualizar as Unidades cadastradas no sistema, além da 
 
 Também é possível visualizar os setores de cada Unidade e acrescentar novas competências (Municípios) àquela Unidade. 
 
-Ao optar por visualizar os setores, uma grid é aberto, onde é possível editar o Setor, manipular lotações e localizadores, além da possibilidade de remover o Setor. 
+Ao optar por visualizar os setores, uma grid é aberto, onde é possível editar o Setor, manipular lotações e localizadores, além da possibilidade de remover o Setor.
+
 
 ![Unidades - Tela Principal](../../_static/images/Unidades - Tela Principal.png)
 
@@ -59,13 +60,13 @@ Ao optar por visualizar os setores, uma grid é aberto, onde é possível editar
 
 ## Como Criar uma nova UNIDADE no Super.BR 
 
-1. Para criação de uma nova unidade, o usuário deverá acessar o Menu Unidade e clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> localizado na parte superior esquerda da tela. 
+1\. Para criação de uma nova unidade, o usuário deverá acessar o Menu Unidade e clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> localizado na parte superior esquerda da tela. 
 
  
 
  
 
-2. Em seguida, deverá preencher os campos disponíveis no formulário com as informações referentes à Unidade a ser cadastrada.  
+2\. Em seguida, deverá preencher os campos disponíveis no formulário com as informações referentes à Unidade a ser cadastrada.  
 
 ```{note}
 Nota: Todos os campos marcados com * são de preenchimento obrigatório. 
@@ -146,4 +147,9 @@ Caso não esteja marcada, significa que outras Unidades poderão encaminhar dema
 ```{note}
 Nota: Os documentos gerados nesta Unidade terão uma numeração sequencial baseada no ano e na própria Unidade.  
 ```
- 
+
+03\. Clicar em Salvar
+
+Pronto, a nova Unidade está criada. Após esse cadastro, está habilitado a seguir os próximos passos da Configuração Inicial do Super.BR.
+
+É sugerido continuar com a criação de [Setores](configuraçao/Setor.md) e Lotações (que é um segmento do documento inserido em Setores).

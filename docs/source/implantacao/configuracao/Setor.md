@@ -1,8 +1,11 @@
 # Setor
 
+
 Entende-se por SETOR no Super.BR um grupo de usuários (membros/servidores) que trabalham, em equipe, para o exercício de um conjunto de atribuições. Um usuário pode ser lotado em mais de um setor, inclusive exercendo funções diferentes em cada um deles. Cada setor deve ter pelo menos um Coordenador, que será responsável pela gestão dos modelos locais de documentos, dos repositórios locais de conhecimento e dos critérios de visibilidade dos processos/documentos avulsos. O acesso de Coordenador de Setor é concedido pelo Administrador de Sistema.
 
-Relacionado à hierarquia dos grupos de pessoas, o Setor está abaixo da Unidade (e esta, por sua vez, abaixo de Órgão). 
+Relacionado à hierarquia dos grupos de pessoas, o Setor está abaixo da Unidade (e esta, por sua vez, abaixo de Órgão). Portanto, é sugerido a criação de Unidades, do Órgão Central, bem como, da Espécie de Setores. Essas etapas são detalhadas em [Unidade](configuraçao/Unidades.md) e em [Espécies de Setores](configuração/Espécies de Setores.md)
+
+
 
 ## Tela de Setores
 
@@ -64,7 +67,9 @@ Nota: Todos os campos marcados com * são de preenchimento obrigatório.
 
 **Setor Pai:** Campo opcional, destinado ao preenchimento de um possível setor Pai que o este setor pertence. Usado, exclusivamente, para fins de consumo de ferramentas de BI.
 
-**Ativo:** Seleção opcional, destinado a indicar se o setor está ativo ou não;
+**Ativo:** Seleção opcional, destinado a indicar se o setor está ativo ou não. Setor Ativo indica se o setor continua exercendo suas funções dentro do Órgão.
+<!--Dúvida: o que acontece se o Setor não está mais ativo, porém ele está inserido dentro de um workflow?-->
+
 
 **Distribuidor:** Seleção opcional, destinado se o setor terá usuários distribuidores ou não;
 
@@ -82,7 +87,7 @@ Para o Administrador do Sistema, o caminho a ser percorrido é Unidades > Setore
 
 - **Divergência Máxima Diária:** Pequena x Grande - A Divergência Máxima Diária é o volume da diferença entre as distribuições entre os usuários daquele setor. Caso a seleção seja pequena, o algoritmo da distribuição automática permite um maior transbordo das tarefas com determinado usuário, de forma a deixar a diferença pequena entre quantidades de tarefas dos usuários. Em casos de a seleção ser grande, a permissibilidade do transbordo é menor.
 	
-```Sugestão: Realizar testes para verificar o comportamento de cada um dos parâmetros```
+<!--Sugestão: Realizar testes para verificar o comportamento de cada um dos parâmetros-->
 
 **Desconsiderar Distribuição Manual:** Seleção que, se marcada a opção, o cálculo da média de tarefas distribuídas automaticamente não levará em conta a distribuição manual realizadas no período. Caso a opção não seja marcada, a Distribuição Manual será considerada. 
 
@@ -92,6 +97,8 @@ Para o Administrador do Sistema, o caminho a ser percorrido é Unidades > Setore
 ## Lotações
 
 As Lotações são designações de usuários para dentro dos setores para realização das tarefas daquele setor e sua configuração está sob responsabilidade do Coordenador de Unidade (ou perfil de acesso Superior). Naturalmente, para lotar usuários dentro dos setores, é necessário que Usuários já estejam cadastrados dentro da Unidade. Essa etapa é descrita em [Usuários](configuraçao/Usuários.md).
+
+Assim sendo, além de Setores, de Unidades e do Órgão central relacionados àquela lotação, é necessário cadastrar Pessoas e Usuários que serão lotados dentro do Setor.
 
 Para cada lotação, há configurações destinadas para cada usuário, descritas a seguir (boa parte delas, dependentes de outros conceitos que são abordados, como Distribuição Automática)
 
@@ -108,22 +115,23 @@ Figura 3 – Tela de Lotações
 
 01.	Clicar no botão de "Novo" <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" />, e preencher todos os campos que aparecerem na tela subsequente:
 
-**Unidade:** Campo obrigatório, destinado à seleção da unidade que será criada a lotação;
+    **Unidade:** Campo obrigatório, destinado à seleção da unidade que será criada a lotação;
 
-**Setor:** Campo obrigatório, destinado à seleção do setor que será criada a lotação;
+    **Setor:** Campo obrigatório, destinado à seleção do setor que será criada a lotação;
 
-**Usuário:** Campo obrigatório, destinado à seleção do usuário que será definida a lotação;
+	**Usuário:** Campo obrigatório, destinado à seleção do usuário que será definida a lotação;
 
-**Campos habilitáveis:**
+    **Campos habilitáveis:**
 
 - **Principal:** Campo obrigatório, referente se o setor é o principal do usuário
 
--**Distribuidor:** Campo opcional, mostrando se o usuário será o distribuidor de tarefas daquele setor
+- **Distribuidor:** Campo opcional, mostrando se o usuário será o distribuidor de tarefas daquele setor
 
-**Dígitos:** Campo opcional, mostra quais dígitos do NUP serão destinados ao usuário na distribuição automática;
+- **Dígitos:** Campo opcional, mostra quais dígitos do NUP serão destinados ao usuário na distribuição automática;
 
 ```{note}
-Nota: 
+Nota:
+
 É possível que ocorra intersecção ou lacunas de dígitos (ou centenas) para os usuários.
 Para esses casos, a prevenção absoluta da distribuição automática atua da seguinte forma:
 01.	O dígito/centena não tem dono: a tarefa é sorteada entre todos os usuários do setor;
@@ -133,11 +141,11 @@ Para esses casos, a prevenção absoluta da distribuição automática atua da s
 Lembrar que caso haja sorteio, é levado em conta o Peso, conceito explicado a seguir.
 ```
 
-**Peso:** Campo opcional, valor numérico compreendendo entre 0 (zero) e 100 (cem), com referência proporcional a um maior direcionamento para os usuários com maior peso, isto é, quanto maior o peso, maior o direcionamento de tarefas para aquele usuário.
+- **Peso:**	Campo opcional, valor numérico compreendendo entre 0 (zero) e 100 (cem), com referência proporcional a um maior direcionamento para os usuários com maior peso, isto é, quanto maior o peso, maior o direcionamento de tarefas para aquele usuário.
 
-02.	Clicar em Salvar.
-``` o item acima precisa de correção: no arquivo .md ele aparece com 02 e na previsão HTML volta à contagem 01
-```
+
+02\. Clicar em Salvar.
+
 
 Uma vez criadas as lotações, é possível editá-las ou excluí-las (respectivamente botões 2 e 3 da figura 3)
 
@@ -157,13 +165,11 @@ Figura 4 – Tela de Localizadores
 
 01.	Clicar no botão de "Novo" <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> (indicado como 1 na Figura 4), e preencher todos os campos que aparecerem na tela subsequente:
 
-**Nome:** Campo obrigatório, destinado ao nome do localizador do setor;
+    **Nome:** Campo obrigatório, destinado ao nome do localizador do setor;
 
-**Descrição:** Campo obrigatório, destinado à descrição do localizador do setor;
+    **Descrição:** Campo obrigatório, destinado à descrição do localizador do setor;
+
 
 02.	Clicar em Salvar.
-
-``` o item acima precisa de correção: no arquivo .md ele aparece com 02 e na previsão HTML volta à contagem 01
-```
 
 Uma vez criados os localizadores, é possível editá-los ou excluí-los (respectivamente botões 2 e 3 da figura 4)

@@ -30,6 +30,9 @@ Seguem indicadores dos botões na Tela de Órgãos
 5) Mostrar inativos. Opção habilita mostra de Aviso Ativos e Inativos; 
 
 6) Editar o cadastro de um Órgão.
+
+7) Opção permite configurar a quantidade de registros a serem mostrados em tela
+8) Tarja indica a quantidade de páginas relacionadas a consulta em tela. A navegação entre as páginas poderá ser feita por meio do uso das setas disponíveis
  
 
 ## Como Cadastrar um Órgão 
@@ -38,7 +41,7 @@ Com acesso de Administrador de sistema, acessar a lista de Órgãos Centrais e p
 
 
 
-1. Clicar em  "Novo" <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> e preencher todos os campos que aparecerem na tela subsequente:  
+1\. Clicar em  "Novo" <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> e preencher todos os campos que aparecerem na tela subsequente:  
 
 ```{note}
 Nota: Todos os campos marcados com * são de preenchimento obrigatório. 
@@ -49,6 +52,14 @@ Nota: Todos os campos marcados com * são de preenchimento obrigatório.
 
 **Descrição*:** Campo obrigatório, destinado ao preenchimento do nome do Órgão; 
 
-**Ativo:** A habilitação desse campo indicará que o Órgão está ativo;
+**Ativo:** A habilitação desse campo indicará que o Órgão está ativo. O Órgão Ativo indica se o Órgão continua exercendo suas funções.
 
-2. Clicar em Salvar
+
+<!--Dúvida: Faz sentido um Órgão não estar ativo? Uma vez que seria o Órgão Central que faria a instalação do Super.BR-->
+
+
+2\. Clicar em Salvar
+
+Pronto! O seu Órgão está criado. Após esse cadastro, está habilitado a seguir os próximos passos da Configuração Inicial do Super.BR.
+
+É sugerido continuar com a criação de [Unidades](configuraçao/Unidades.md), [Setores](configuraçao/Setor.md) e Lotações (que é um segmento do documento inserido em Setores).
