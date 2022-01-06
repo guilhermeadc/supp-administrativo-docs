@@ -11,14 +11,14 @@ Segue abaixo um tutorial para acrescentar um novo tipo de documento.
 Leia mais sobre maiores detalhes dos tipos de documentos clicando aqui.
 
 Leia mais sobre ações em documentos (juntadas, vinculações, tramitações, transições), clicando aqui.
- 
+
 
 ## Como criar um tipo de Documento no Super.BR 
 
 Além dos tipos de Documentos já descritos anteriormente, faz se necessária a criação de novos tipos de documentos, de acordo com as necessidades do Órgão. 
 
 <img src="../../_static/images/Tipos de Documentos - Tela Principal.png)"/>
-
+<p style="text-align: center;">Figura 1 – Tela de Cadastro de Tipo de Documentos SUPP</p>
 
 Para criação de um novo tipo de Documento no Super.BR, o usuário com perfil de Administrador do Sistema deverá acessar o Menu Administrador > Tipos de Documentos e clicar no botão “+” no canto superior esquerdo da lista de tipos de documentos. 
 

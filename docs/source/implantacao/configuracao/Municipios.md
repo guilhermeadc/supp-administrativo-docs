@@ -9,7 +9,8 @@ Essa funcionalidade será utilizada primordialmente para ajuste de possíveis er
 ## Tela Município no SUPER.br
 
 
-<img src="../../_static/images/Municípios - Tela Principal.png)"/>
+<img src="../../_static/images/Municípios - Tela Principal.png"/>
+<p style="text-align: center;">Figura 1 – Tela de Municípios SUPP</p>
 
 
 1)Novo. Utilizado para criar um registro de Município; 
@@ -41,6 +42,7 @@ Nota: Todos os campos marcados com * são de preenchimento obrigatório.
 ```
  
 <img src="../../_static/images/Municípios - Tela com a Lista de Campos.png"/>
+<p style="text-align: center;">Figura 2 – Tela de Cadastro de Municípios SUPP</p> 
 
 * **Nome:** campo obrigatório. Utilizado para registro do município a ser cadastrado; 
 

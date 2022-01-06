@@ -1,7 +1,5 @@
 # Templates
 
- 
-
 Template é um modelo que poderá ser utilizado na elaboração de documentos. Contém uma estrutura predefinida que facilitará o desenvolvimento dos trabalhos no dia a dia. 
 
 É um documento de conteúdo, com apresentação visual (cabeçalho por exemplo) e poderá conter instruções sobre onde e qual tipo de conteúdo deve ser utilizado na construção do documento. 
@@ -15,6 +13,7 @@ O cadastro dos Templates poderá ser realizado pelo Administrador do Super.br.
 
 
 <img src="../../_static/images/Templates - Tela Principal.png"/>
+<p style="text-align: center;">Figura 1 – Tela de Templates SUPP</p> 
  
 
 1) Novo. Utilizado para criar um Template; 
@@ -48,6 +47,7 @@ Nota: Todos os campos marcados com * são de preenchimento obrigatório.
 ```
  
 <img src="../../_static/images/Templates - Tela com a Lista de Campos.png"/>
+<p style="text-align: center;">Figura 2 – Tela de Cadastro de Templates SUPP</p> 
 
 * **Nome:** Campo obrigatório destinado ao cadastro do nome/qualificação do tipo de processo a ser executada por um setor. 
 
@@ -69,4 +69,5 @@ Nesta opção será possível criar/editar o modelo de documento relacionado ao 
 
 
 <img src="../../_static/images/Templates - Tela de exemplo de documento.png)"/>
+<p style="text-align: center;">Figura 3 – Tela com Exemplo de Template Documento Criado SUPP</p> 
 

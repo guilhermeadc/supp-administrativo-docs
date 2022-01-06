@@ -20,7 +20,7 @@ Municipios
 Orgaos
 Pessoas
 Setor
-Temaplates
+Templates
 Tipos_de_Relatorios
 Unidades
 Usuarios_Externos

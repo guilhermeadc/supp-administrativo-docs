@@ -19,6 +19,7 @@ Onde levantar o código arquivístico?
 ## Tela Classificações no SUPER.br
 
 <img src="../../_static/images/Classificações - Tela Principal.png"/>
+<p style="text-align: center;">Figura 1 – Tela de Classificações SUPP</p>
 
 1) Novo. Utilizado para criar um registro de Classificação;
 
@@ -36,13 +37,18 @@ Onde levantar o código arquivístico?
 
 8) Editar o cadastro de uma Classificação;
 
-9) Acessos. 
+9) Acessos.
+
+10) Opção permite configurar a quantidade de registro a serem mostrados em tela;
+
+11) Tarja indica a quantidade de páginas relacionadas a consulta em tela. A navegação entre as páginas poderá ser feita por meio do uso das setas disponíveis. 
+
 
 ```{comm}
 Dúvida: Para que serve esta funcionalidade? Quando tento acessá-la fica com carregamento infinito;
 ```
 
-10) Remover. Opção permite à exclusão do registro.
+12) Remover. Opção permite à exclusão do registro.
 
 ```{Note}
 Nota: Ao editar um registro de classificação, o botão Histórico, existente do lado direito de cada campo, ficará disponível para visualização do histórico de alterações do campo, indicando quando o conteúdo foi alterado e quem o alterou.
@@ -102,3 +108,4 @@ Nota:O preenchimento dos campos seguirá os mesmos critérios indicados no item 
 ```
 
 <img src="../../_static/images/Classificações - Tela aba árvore - campos para cadastro.png"/>
+<p style="text-align: center;">Figura 1 – Tela de Cadastro, Visão em Árvore SUPP</p>

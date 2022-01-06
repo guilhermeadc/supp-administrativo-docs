@@ -7,6 +7,7 @@
 ### Tela Espécies de Processos No SUPER.br
 
 <img src="../../_static/images/Especies_Processos - Tela principal.png"/>
+<p style="text-align: center;">Figura 1 – Tela Espécies de Processos SUPP</p>
 
 1) Novo. Utilizado para criar um registro de Espécie de Processo;
 
@@ -36,6 +37,7 @@ Nota:  Todos os campos marcados com * são de preenchimento obrigatório.
 ```
 
 <img src="../../_static/images/Especies_Processos - Tela aba árvore - campos para cadastro.png"/>
+<p style="text-align: center;">Figura 2 – Tela de Cadastro de Espécie de Processo SUPP</p> 
 
 
 ```{waring}

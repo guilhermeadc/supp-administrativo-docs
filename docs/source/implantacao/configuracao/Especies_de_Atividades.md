@@ -14,21 +14,25 @@ Com o perfil de Administrador, a tela de Espécie de Atividades permite visualiz
  
 
 <img src="../../_static/images/Espécies de Atividades - Tela Principal.png"/>
-
+<p style="text-align: center;">Figura 1 – Tela de Espécie de Atividades SUPP</p> 
 
 Seguem indicadores dos botões na Tela de Usuários: 
 
-1. Criar um registro de nova Espécie de Atividades;
+1) Criar um registro de nova Espécie de Atividades;
 
-2. Colunas. Por esta opção será possível gerenciar as colunas que serão disponibilizadas na tela do grid;
+2) Colunas. Por esta opção será possível gerenciar as colunas que serão disponibilizadas na tela do grid;
 
-3. Recarregar. Opção permite a atualização dos registros apresentados em tela;
+3) Recarregar. Opção permite a atualização dos registros apresentados em tela;
 
-4. Filtro. Opção possibilita filtrar um intervalo de dados com base em critérios definidos;
+4) Filtro. Opção possibilita filtrar um intervalo de dados com base em critérios definidos;
 
-5. Mostrar Inativas. Opção possibilita mostrar/Ocultar as Espécies de Atividades;
+5) Mostrar Inativas. Opção possibilita mostrar/Ocultar as Espécies de Atividades;
 
-6. Editar o cadastro de uma Espécie de Atividades. 
+6) Editar o cadastro de uma Espécie de Atividades;
+
+7) Opção permite configurar a quantidade de registro a serem mostrados em tela;
+
+8) Tarja indica a quantidade de páginas relacionadas a consulta em tela. A navegação entre as páginas poderá ser feita por meio do uso das setas disponíveis. 
  
 
 ## Como criar uma Espécie de Atividade no Super.BR 

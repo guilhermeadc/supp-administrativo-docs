@@ -4,12 +4,14 @@ O campo Assunto servirá para indicar o tema sobre o qual um processo ou documen
 
 Todos os processos protocolados devem, obrigatoriamente, conter ao menos um assunto. Este registro possibilitará a extração de relatórios mais fidedignos, além de aumentar o grau de identificação do processo/documento avulso.
 
-O usuário com perfil de Administrador SUPER.br terá as autorizações necessários para cadastrar'' os Assuntos utilizados em seu Órgão de atuação.
+O usuário com perfil de Administrador SUPER.br terá as autorizações necessários para cadastrar os Assuntos utilizados em seu Órgão de atuação.
 
 
 ## Tela Assuntos No SUPER.br
 
 <img src="../../_static/images/Assuntos - Tela principal.png"/>
+<p style="text-align: center;">Figura 1 – Tela de Assuntos SUPP</p>
+
 
 1) Novo. Utilizado para criar um registro de Assuntos;
 
@@ -40,7 +42,7 @@ Nota: Todos os campos marcados com * (asterísco) são de preenchimento obrigat�
 ```
 
 <img src="../../_static/images/Assuntos - Tela com a Lista de Campos.png"/>
-
+<p style="text-align: center;">Figura 2 – Tela de Cadastro de Assuntos SUPP</p>
 
 * **Nome:** campo obrigatório para registro nome do Assunto em questão;
 
@@ -56,12 +58,13 @@ Nota: Todos os campos marcados com * (asterísco) são de preenchimento obrigat�
 Dúvida: Este campo é somente utilizado para fins de consumo de ferramentas de BI?
 ```
 
-* **Ativo:** Flag que indicará se o Assunto está disponível para uso ou não do Usuário.
+* **Ativo:** Flag que indicará se o Assunto está disponível para uso ou não.
 Caso esteja marcada estará ativa e disponível. Caso contrário, estará inativa e indisponível.
 
 ### Aba Árvore
 
 <img src="../../_static/images/Assuntos - Tela aba árvore.png"/>
+<p style="text-align: center;">Figura 3 – Tela de Assuntos SUPP, Visão em Árvore</p>
 
 1) Botão para maximizar a árvore de assuntos.
 
@@ -74,6 +77,7 @@ Caso esteja marcada estará ativa e disponível. Caso contrário, estará inativ
 * Este botão ficará disponível em todos os níveis da árvore de assuntos.
 
 <img src="../../_static/images/Assuntos - Tela aba árvore - campos para cadastro.png"/>
+<p style="text-align: center;">Figura 4 – Tela de Cadastro de Assuntos SUPP, Visão em Árvore</p>
 
 
 

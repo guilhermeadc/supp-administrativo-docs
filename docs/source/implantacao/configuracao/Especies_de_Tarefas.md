@@ -12,7 +12,7 @@ Mais informações sobre Tarefas são abordadas em clique aqui.
 Com o perfil de Administrador, a tela de Espécie de Tarefas permite visualizar as Espécies de Tarefas cadastradas no Sistema, além de editar suas informações. 
 
 <img src="../../_static/images/Espécies de Tarefas - Tela Principal.png"/>
-
+<p style="text-align: center;">Figura 1 – Tela de Espécies de Tarefas SUPP</p> 
 
 Seguem indicadores dos botões na Tela de Usuários: 
 
@@ -27,7 +27,13 @@ Seguem indicadores dos botões na Tela de Usuários:
 
 5) Mostrar Inativas. Opção possibilita mostrar/Ocultar as Espécies de Tarefas da presente tarefa;  
 
-6) Editar o cadastro de uma Espécie de Tarefas.
+6) Editar o cadastro de uma Espécie de Tarefas;
+
+7) Opção permite configurar a quantidade de registro a serem mostrados em tela;
+
+8) Tarja indica a quantidade de páginas relacionadas a consulta em tela. A navegação entre as páginas poderá ser feita por meio do uso das setas disponíveis. 
+
+
 
  
 
@@ -48,7 +54,7 @@ Todos os campos marcados com * são de preenchimento obrigatório.
 ```
 
 
-* **Evento**: Flag que indica se a Espécie de Tarefas é um Evento ou não; 
+* **Evento**: Flag que indica se a Espécie de Tarefas é um Evento ou não;
 
 * **Nome**: Campo obrigatório, destinado ao preenchimento do nome de Espécie de Tarefas; 
 

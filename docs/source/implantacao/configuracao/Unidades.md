@@ -1,6 +1,5 @@
 # Unidades
 
- 
 
 Unidade é uma estrutura organizacional concentradora de setores, disposta por região, por matéria ou por especialidade.  
 
@@ -12,13 +11,13 @@ Toda unidade:
 
 - terá obrigatoriamente um setor de Arquivo e um setor de Protocolo, que serão gerados automaticamente pela ferramenta quando do seu cadastro; e 
 
-- terá ao menos um Coordenador, que será o responsável pela criação de modelos de documentos, liberação de permissões e demais definições administrativas da Unidade. 
+- terá ao menos um Coordenador, que será o responsável pela criação de modelos de documentos, liberação de permissões e demais definições administrativas da Unidade.
 
 
 Abaixo segue figura que demonstra o relacionamento entre Órgãos, Unidades e Setores. 
 
 <img src="../../_static/images/Unidades - Figura Demonstrativa.png"/>
-
+<p style="text-align: center;">Figura 1 – Modelo de Relacionamento entre Órgão, Unidades e Setores</p> 
 
 As demandas encaminhadas a uma Unidade poderão ser direcionadas ao protocolo desta unidade ou diretamente a um de seus setores. Esta definição ficará a cargo da Unidade demandada, e será concretizada via configuração no Super.BR.
 
@@ -39,7 +38,7 @@ Também é possível visualizar os setores de cada Unidade e acrescentar novas c
 Ao optar por visualizar os setores, uma grid é aberto, onde é possível editar o Setor, manipular lotações e localizadores, além da possibilidade de remover o Setor. 
 
 <img src="../../_static/images/Unidades - Tela Principal.png"/>
-
+<p style="text-align: center;">Figura 2 – Tela de Unidades SUPP</p> 
 
 1) Criar um registro de Unidade; 
 
@@ -51,8 +50,11 @@ Ao optar por visualizar os setores, uma grid é aberto, onde é possível editar
 
 5) Editar o cadastro de uma Unidade; 
 
-6) Cadastro de Setor. 
+6) Cadastro de Setor; 
 
+7) Opção permite configurar a quantidade de registro a serem mostrados em tela;
+
+8) Tarja indica a quantidade de páginas relacionadas a consulta em tela. A navegação entre as páginas poderá ser feita por meio do uso das setas disponíveis. 
  
 
 ## Como Criar uma nova UNIDADE no Super.BR 
@@ -67,7 +69,7 @@ Nota: Todos os campos marcados com * são de preenchimento obrigatório.
 ```
 
 <img src="../../_static/images/Unidades - Tela com a Lista de Campos.png"/>
-
+<p style="text-align: center;">Figura 3 – Tela de Cadastro de Unidades SUPP</p> 
 
 * **Nome:** Campo obrigatório, destinado ao preenchimento do nome da Unidade; (Existe algum link para o critério?) 
 

@@ -1,8 +1,5 @@
 # Espécies de Setores
 
-## Disposições Gerais 
- 
-
 A opção Espécie de Setor destina-se ao cadastro de categorias/tipos que qualificarão a atividade de um ou mais setores. 
 
 As espécies cadastradas estarão disponíveis para seleção na visão de cadastro de setores de uma unidade. 
@@ -14,6 +11,7 @@ As espécies “Protocolo” e “Arquivo” estão disponíveis por padrão na 
 
  
 <img src="../../_static/images/Espécies de Setores - Tela Principal.png"/>
+<p style="text-align: center;">Figura 1 – Tela Espécies de Setores SUPP</p>
  
 
 1) Novo. Utilizado para criar um registro de Espécie de Setor; 
@@ -60,7 +58,6 @@ Observação: Nenhum campo está marcado como obrigatório, no entanto, só é p
  
 
 **Nome**: Campo obrigatório destinado ao cadastro do nome/qualificação do tipo de atividade a ser executada por um setor. 
-
  
 
 **Descrição**: Campo obrigatório destinado a inclusão de uma breve descrição sobre o tipo de atividade relacionada à espécie de setor. 
