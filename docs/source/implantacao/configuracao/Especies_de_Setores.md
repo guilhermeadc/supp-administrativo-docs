@@ -1,75 +1,55 @@
 # Espécies de Setores
 
-## Disposições Gerais 
- 
-
 A opção Espécie de Setor destina-se ao cadastro de categorias/tipos que qualificarão a atividade de um ou mais setores. 
-
- 
 
 As espécies cadastradas estarão disponíveis para seleção na visão de cadastro de setores de uma unidade. 
 
- 
-
 As espécies “Protocolo” e “Arquivo” estão disponíveis por padrão na ferramenta e não poderão ser editados ou excluídos, tendo em vista que estas espécies fazem parte da estrutura básica de uma Unidade. Todo Unidade nasce automaticamente com um setor de protocolo e um setor de arquivo. 
-
  
 
 ## Tela Espécies de Setores No SUPER.br 
 
  
-![Espécies de Setores - Tela Principal](../../_static/images/Espécies de Setores - Tela Principal.png)
+<img src="../../_static/images/Espécies de Setores - Tela Principal.png"/>
+<p style="text-align: center;">Figura 1 – Tela Espécies de Setores SUPP</p>
  
 
 1) Novo. Utilizado para criar um registro de Espécie de Setor; 
-
  
 
 2) Colunas. Por esta opção será possível gerenciar as colunas que serão disponibilizadas na tela; 
-
  
 
-3) Recarregar. Opção permite a atualização dos registros apresentados em tela;  
-
+3) Recarregar. Opção permite a atualização dos registros apresentados em tela;
  
 
-4) Filtro. Opção possibilita filtrar um intervalo de dados com base em critérios definidos. 
-
+4) Filtro. Opção possibilita filtrar um intervalo de dados com base em critérios definidos; 
  
 
-5) Mostrar Inativos. Permite configura a visão da tela para mostrar, também, registros inativos. 
-
+5) Mostrar Inativos. Permite configura a visão da tela para mostrar, também, registros inativos; 
  
 
 6) Editar o cadastro de uma Espécie de Setor; 
-
  
 
-7) Opção permite configurar a quantidade de registro a serem mostrados em tela;  
-
+7) Opção permite configurar a quantidade de registro a serem mostrados em tela;
  
 
 8) Tarja indica a quantidade de páginas relacionadas a consulta em tela. A navegação entre as páginas poderá ser feita por meio do uso das setas disponíveis. 
-
  
 
 ## Como Cadastrar uma Espécie de Setor 
 
- 
 
-1. Para criação de uma nova Espécie de Setor no Super.BR, o usuário deverá acessar o Menu “Espécie de Setores”, existente na visão Administrador, e clicar no botão “Novo” , localizado na parte superior esquerda da tela. 
+1. Para criação de uma nova Espécie de Setor no Super.BR, o usuário deverá acessar o Menu “Espécie de Setores”, existente na visão Administrador, e clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" style="zoom: 50%;"/>, localizado na parte superior esquerda da tela;
 
- 
 
-2. Em seguida, deverá preencher os campos disponíveis no formulário de cadastro de espécie de setor.  
+2. Em seguida, deverá preencher os campos disponíveis no formulário de cadastro de espécie de setor.
 
  
 ````{note}
 Nota: Todos os campos marcados com * são de preenchimento obrigatório. 
 ````
- 
-
- 
 
  
 ```{warning}
@@ -78,7 +58,6 @@ Observação: Nenhum campo está marcado como obrigatório, no entanto, só é p
  
 
 **Nome**: Campo obrigatório destinado ao cadastro do nome/qualificação do tipo de atividade a ser executada por um setor. 
-
  
 
 **Descrição**: Campo obrigatório destinado a inclusão de uma breve descrição sobre o tipo de atividade relacionada à espécie de setor. 
@@ -98,5 +77,4 @@ Dúvida: Onde cadastramos os gêneros a serem disponibilizados neste campo? O g�
  
 
 **Ativo**: Flag que indicará se a espécie está disponível para uso no cadastro de setores ou não.  
-
 Caso esteja marcada estará ativa e disponível. Caso contrário, estará inativa e indisponível no cadastro de setores. 

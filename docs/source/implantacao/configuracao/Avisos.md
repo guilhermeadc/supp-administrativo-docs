@@ -1,20 +1,18 @@
 # Avisos
 
 
-Aviso é uma forma de comunicação que o Super.BR faz aos seus Usuários. Essas comunicações aparecem na caixa de Avisos no Painel dos Usuários e podem ser direcionadas aos grupos competentes de cada nível hierárquico do Super (Órgão, Unidade ou Setor) ou relacionados ao Sistema. Entre outros exemplos de avisos, temos atualização do sistema, novas funcionalidades, novos cadastros (áreas, documentos), facilitando e direcionando um melhor uso da ferramenta.  
-
+Aviso é uma forma de comunicação que o Super.BR faz aos seus Usuários. Essas comunicações aparecem na caixa de Avisos no Painel dos Usuários e podem ser direcionadas aos grupos competentes de cada nível hierárquico do Super (Órgão, Unidade ou Setor) ou relacionados ao Sistema. Entre outros exemplos de avisos, temos atualização do sistema, novas funcionalidades, novos cadastros (áreas, documentos), facilitando e direcionando um melhor uso da ferramenta.
  
 
-## Tela de Avisos 
+## Tela de Avisos
 
-Com o perfil de Administrador ou de Coordenador, a tela de Avisos permite visualizar os Avisos já cadastrados no Sistema, além de editar e remover os já existentes. 
+Com o perfil de Administrador ou de Coordenador, a tela de Avisos permite visualizar os Avisos já cadastrados no Sistema, além de editar e remover os já existentes.
 
- 
 
-![Figura 1 – Tela de Aviso do Super.BR](../../_static/images/Avisos - Tela Principal.png)
- 
+<img src="../../_static/images/Avisos - Tela Principal.png"/>
+<p style="text-align: center;">Figura 1 – Tela de Avisos SUPP</p> 
 
-Seguem indicadores dos botões na Tela de Aviso (Figura 1): 
+Seguem indicadores dos botões na Tela de Aviso:
 
 1. Criar um registro de novo Aviso; 
 
@@ -26,9 +24,11 @@ Seguem indicadores dos botões na Tela de Aviso (Figura 1):
 
 5. Mostrar inativos. Opção habilita mostra de Aviso Ativos e Inativos; 
 
-6. Editar o cadastro de um Aviso. 
+6. Editar o cadastro de um Aviso;
 
- 
+7. Opção permite configurar a quantidade de registro a serem mostrados em tela;
+
+8. Tarja indica a quantidade de páginas relacionadas a consulta em tela. A navegação entre as páginas poderá ser feita por meio do uso das setas disponíveis. 
 
 ## Como Criar umo novo Aviso no Super.BR 
 
@@ -36,7 +36,7 @@ Para criar novos avisos, os usuários com perfis de Administrador do Super.BR e 
 
 No caso do Administrador do Super.BR deve seguir os seguintes passos no Super.BR: 
 
-1. Acessar a tela  de Avisos (Menu Administrador > Avisos) e clicar no botão “Mais” localizado na parte superior esquerda da tela (indicado como 1 na Tela de Avisos); 
+1. Acessar a tela  de Avisos (Menu Administrador > Avisos) e clicar no botão “Mais” <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> ,  localizado na parte superior esquerda da tela (indicado como 1 na Tela de Avisos); 
 
 2. Em seguida, deverá preencher os campos disponíveis no formulário com as informações referentes à Aviso a ser cadastrada; 
 

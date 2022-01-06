@@ -12,13 +12,14 @@ O registro de Classificação é algo primordial no SUPER.br pois está relacion
 
  O “Código de classificação de documentos de arquivo para a administração pública: atividades-meio” e a “Tabela básica de temporalidade e destinação de documentos de arquivo relativos às atividades-meio da administração pública” aprovados pelo CONARQ são instrumentos fundamentais para a implementação da gestão arquivística de documentos e são utilizados pelo Sistema.
 
-```Observação_dúvida
+```{warning}
 Onde levantar o código arquivístico?
 ```
 
 ## Tela Classificações no SUPER.br
 
-![Classificações - Tela Principal](../../_static/images/Classificações - Tela Principal.png)
+<img src="../../_static/images/Classificações - Tela Principal.png"/>
+<p style="text-align: center;">Figura 1 – Tela de Classificações SUPP</p>
 
 1) Novo. Utilizado para criar um registro de Classificação;
 
@@ -30,19 +31,29 @@ Onde levantar o código arquivístico?
 
 5) Recarregar. Opção permite a atualização dos registros apresentados em tela; 
 
-6) Filtro. Opção possibilita filtrar um intervalo de dados com base em critérios definidos.
+6) Filtro. Opção possibilita filtrar um intervalo de dados com base em critérios definidos;
 
-7) Mostrar Inativos. Permite configura a visão da tela para mostrar, também, registros inativos.
+7) Mostrar Inativos. Permite configura a visão da tela para mostrar, também, registros inativos;
 
 8) Editar o cadastro de uma Classificação;
 
-```Nota
+9) Acessos.
+
+10) Opção permite configurar a quantidade de registro a serem mostrados em tela;
+
+11) Tarja indica a quantidade de páginas relacionadas a consulta em tela. A navegação entre as páginas poderá ser feita por meio do uso das setas disponíveis. 
+
+
+```{comm}
+Dúvida: Para que serve esta funcionalidade? Quando tento acessá-la fica com carregamento infinito;
+```
+
+12) Remover. Opção permite à exclusão do registro.
+
+```{Note}
 Nota: Ao editar um registro de classificação, o botão Histórico, existente do lado direito de cada campo, ficará disponível para visualização do histórico de alterações do campo, indicando quando o conteúdo foi alterado e quem o alterou.
 ```
 
-9) Acessos. Dúvida: Para que serve esta funcionalidade? Quando tento acessá-la fica com carregamento infinito.
-
-10) Remover. Opção permite à exclusão do registro; 
 
 ## Como Cadastrar uma Classificação
 
@@ -50,7 +61,7 @@ Nota: Ao editar um registro de classificação, o botão Histórico, existente d
 1. Para criação de uma nova Classificação no SUPER.br, o usuário deverá acessar o Menu “Classificações”, aba Lista, existente na visão Administrador, e clicar no botão “Novo”  <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom:50%;" /> , localizado na parte superior esquerda da tela.
 
 2. Em seguida, deverá preencher os campos disponíveis no formulário de cadastro.
-```Nota
+```{Note}
 Nota: Todos os campos marcados com * são de preenchimento obrigatório.
 ```
 * **Código:** Campo obrigatório destinado ao cadastro do código do Assunto da classificação arquivística definida pelo CONARQ.
@@ -58,12 +69,12 @@ Nota: Todos os campos marcados com * são de preenchimento obrigatório.
 * **Nome:** Campo obrigatório destinado ao cadastro do nome/qualificação do assunto arquivístico definido pelo CONARQ.
 
 * **Descrição:** Campo obrigatório destinado a inclusão da descrição da classificação arquivística.
-```Nota
+```{Note}
 Nota: Os campos “Nome” e “Descrição” são de livre preenchimento, com limitação de 255 caracteres.
 ```
 * **Classificação Pai:** campo opcional utilizado para associação do assunto a ser cadastrado com ou outro assunto de hierarquia superior. 
 
-```Nota
+```{Note}
 Nota: Tais associações irão definir a árvore de Classificações do SUPER.br. 
 ```
 * **Ativo:** Flag que indicará se o registro em questão está disponível para uso ou não. 
@@ -86,12 +97,15 @@ Dúvida: Este botão serve para isso mesmo? Não consegui testar.
    * Mês
    * Ano
    * Evento
-```Observação_Dúvida
+  
+```{warning}
 **Observação:** campo opcional utilizado para indicação de uma observação pertinente ao assunto da classificação.
 ```
-3. Por meio da Aba Árvore será possível visualizar a hierarquia entre as classificações existentes no SUPER.br. Caso seja necessário editar algum registro, será possível por meio de clique no botão  <img src="../../_static/images/Botão Mais - Árvore Classificação.png" alt="Botão Mais - Árvore Classificação"  /> , existente no lado direito de cada classificação;
-```Nota
+3. Por meio da Aba Árvore será possível visualizar a hierarquia entre as classificações existentes no SUPER.br. Caso seja necessário editar algum registro, será possível por meio de clique no botão  <img src="../../_static/images/Botão Mais - Árvore Classificação.png" alt="Botão Mais - Árvore Classificação"/> , existente no lado direito de cada classificação;
+
+```{Note}
 Nota:O preenchimento dos campos seguirá os mesmos critérios indicados no item 2 deste documento.
 ```
 
-![Classificações - Tela aba árvore - campos para cadastro](../../_static/images/Classificações - Tela aba árvore - campos para cadastro.png)
+<img src="../../_static/images/Classificações - Tela aba árvore - campos para cadastro.png"/>
+<p style="text-align: center;">Figura 1 – Tela de Cadastro, Visão em Árvore SUPP</p>

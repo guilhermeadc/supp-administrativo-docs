@@ -9,7 +9,7 @@ configuracao_preparacao
 configuracao_sistema
 Assuntos
 Avisos
-Barramento_de_Serviços
+Barramento_de_Servicos
 Classificacoes
 Especies_de_Processos
 Especies_de_Atividades
@@ -20,7 +20,7 @@ Municipios
 Orgaos
 Pessoas
 Setor
-Temaplates
+Templates
 Tipos_de_Relatorios
 Unidades
 Usuarios_Externos
