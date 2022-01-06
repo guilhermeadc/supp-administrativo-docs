@@ -28,7 +28,7 @@ Opção permite que o usuário administrador cadastre ou edite os relatórios qu
 
 8) Opção permite configurar a quantidade de registro a serem mostrados em tela;
 
-9) Tarja indica a quantidade de páginas relacionadas a consulta em tela. A navegação entre as páginas poderá ser feita por meio do uso das setas disponíveis. 
+9) Tarja indica a quantidade de páginas relacionadas a consulta em tela. A navegação entre as páginas poderá ser feita por meio do uso das setas disponíveis.
 
  
 
@@ -44,7 +44,7 @@ Nota: Todos os campos marcados com * são de preenchimento obrigatório.
 ```
 
 <img src="../../_static/images/Tipos de Relatórios - Tela com a Lista de Campos.png"/>
-
+<p style="text-align: center;">Figura 2 – Tela com os campos Tipos de Relatório SUPP</p> 
 
 * **Nome:** campo obrigatório para registro nome do Tipo de Relatório em questão; 
 
