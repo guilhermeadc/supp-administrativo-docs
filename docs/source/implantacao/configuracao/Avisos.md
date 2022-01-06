@@ -9,8 +9,8 @@ Aviso é uma forma de comunicação que o Super.BR faz aos seus Usuários. Essas
 Com o perfil de Administrador ou de Coordenador, a tela de Avisos permite visualizar os Avisos já cadastrados no Sistema, além de editar e remover os já existentes.
 
 
-<img src="../../_static/images/Avisos - Tela Principal.png)"/>
-
+<img src="../../_static/images/Avisos - Tela Principal.png"/>
+<p style="text-align: center;">Figura 1 – Tela de Avisos SUPP</p> 
 
 Seguem indicadores dos botões na Tela de Aviso:
 
@@ -24,8 +24,11 @@ Seguem indicadores dos botões na Tela de Aviso:
 
 5. Mostrar inativos. Opção habilita mostra de Aviso Ativos e Inativos; 
 
-6. Editar o cadastro de um Aviso. 
+6. Editar o cadastro de um Aviso;
 
+7. Opção permite configurar a quantidade de registro a serem mostrados em tela;
+
+8. Tarja indica a quantidade de páginas relacionadas a consulta em tela. A navegação entre as páginas poderá ser feita por meio do uso das setas disponíveis. 
 
 ## Como Criar umo novo Aviso no Super.BR 
 
