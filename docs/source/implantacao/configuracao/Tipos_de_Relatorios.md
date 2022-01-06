@@ -9,28 +9,27 @@ Opção permite que o usuário administrador cadastre ou edite os relatórios qu
 
 
 <img src="../../_static/images/Tipos de Relatórios - Tela Principal.png"/>
- 
+ <p style="text-align: center;">Figura 1 – Tela Tipos de Relatório SUPP</p>
 
 1) Novo. Utilizado para criar um registro de Tipo de Relatório; 
 
-
 2) Colunas. Por esta opção será possível gerenciar as colunas que serão disponibilizadas na tela;
- 
 
 3) Recarregar. Opção permite a atualização dos registros apresentados em tela;  
 
-
 4) Filtro. Opção possibilita filtrar um intervalo de dados com base em critérios definidos; 
- 
 
 5) Mostrar inativos. Se selecionada, a opção permite que os cadastros inativos fiquem visíveis em tela. 
- 
 
 6) Editar o cadastro de Tipo de Relatório; 
- 
 
-7) Visibilidade. 
+7) Visibilidade;
 ```Dúvida: Para que serve este botão? Sempre que clico nele retorna uma mensagem de acesso negado.
+
+8) Opção permite configurar a quantidade de registro a serem mostrados em tela;
+
+9) Tarja indica a quantidade de páginas relacionadas a consulta em tela. A navegação entre as páginas poderá ser feita por meio do uso das setas disponíveis. 
+
  
 
 ## Como Cadastrar um Tipo de Relatório
