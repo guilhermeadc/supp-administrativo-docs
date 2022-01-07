@@ -20,14 +20,16 @@ Abaixo segue figura que demonstra o relacionamento entre Órgãos, Unidades e Se
 
 ![Unidades - Figura Demonstrativa](../../_static/images/Unidades - Figura Demonstrativa.png)
 
- 
+<p style="text-align: center;">Figura 1 - Esquema relacional entre Órgão Central, Unidade e Setores</p> 
+
 
 As demandas encaminhadas a uma Unidade poderão ser direcionadas ao protocolo desta unidade ou diretamente a um de seus setores. Esta definição ficará a cargo da Unidade demandada, e será concretizada via configuração no Super.BR.  
 
-Somente os usuários com perfil Administrador no Super.BR têm autorização para criação ou edição de uma Unidade. 
+Somente os usuários com perfil Administrador no Super.BR têm autorização para criação ou edição de uma Unidade. Para ter acesso à criação e edição de Unidade, é necessária a criação inicial do Órgão Central. O procedimento da criação do Órgão pode ser encontrado clicando [aqui](configuraçao/Orgaos.md).
+
+
 
 ```{note}
-
 Nota: Não é recomendada a exclusão do registro de Unidade no sistema. Caso uma Unidade deixe de existir na estrutura do governo, recomenda-se a inativação desta no sistema. Desta forma, será garantida a preservação do histórico de atividades da Unidade. 
 ```
 
@@ -42,6 +44,7 @@ Ao optar por visualizar os setores, uma grid é aberto, onde é possível editar
 
 
 ![Unidades - Tela Principal](../../_static/images/Unidades - Tela Principal.png)
+<p style="text-align: center;"> Figura 2 - Tela Principal da Unidade </p> 
 
 
 1) Criar um registro de Unidade; 
@@ -60,20 +63,22 @@ Ao optar por visualizar os setores, uma grid é aberto, onde é possível editar
 
 ## Como Criar uma nova UNIDADE no Super.BR 
 
-1\. Para criação de uma nova unidade, o usuário deverá acessar o Menu Unidade e clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> localizado na parte superior esquerda da tela. 
+
+
+01\. Para criação de uma nova unidade, o usuário deverá acessar o Menu Unidade e clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> localizado na parte superior esquerda da tela. 
 
  
 
  
 
-2\. Em seguida, deverá preencher os campos disponíveis no formulário com as informações referentes à Unidade a ser cadastrada.  
+02\. Em seguida, deverá preencher os campos disponíveis no formulário com as informações referentes à Unidade a ser cadastrada.  
 
 ```{note}
 Nota: Todos os campos marcados com * são de preenchimento obrigatório. 
 ```
 
 ![Unidades - Tela com a Lista de Campos](../../_static/images/Unidades - Tela com a Lista de Campos.png)
-
+<p style="text-align: center;"> Figura 3 - Tela de Formulário de Criação de Unidade </p> 
  
 
 **Nome:** Campo obrigatório, destinado ao preenchimento do nome da Unidade; (Existe algum link para o critério?) 
