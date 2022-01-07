@@ -10,7 +10,6 @@ O acesso e utilização do sistema é feita por meio de Login (CPF do Usuário) 
 Figura 1 – Tela de Acesso do Usuário do Super.BR
 
 
-
 A criação do Usuário, bem como a permissão de acesso e senha é concedida pelo Administrador do Super.BR, cujo procedimento será detalhado a seguir. É necessário também reforçar a importância de realizar o cadastro de [Pessoas](configuraçao/Pessoas.md) antes de realizar o cadastro de Usuário.
   
 
@@ -51,7 +50,7 @@ Para maiores informações sobre as funções do Administrador de Sistemas, cliq
 Inserir Hyperlink após criação do manual do Administrador
 ```
 
-### Coordenador de Unidade 
+### Coordenador de Unidade
 
 Esse perfil possibilita a criação e gestão de modelos nacionais de documentos, bem como dos repositórios nacionais de conhecimento do SUPER.BR.  
 
