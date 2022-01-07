@@ -7,7 +7,7 @@ O acesso e utilização do sistema é feita por meio de Login (CPF do Usuário) 
 
 ![Usuários - Tela de Login Super](../../_static/images/Usuários - Tela de Login Super.png)
 
-Figura 1 – Tela de Acesso do Usuário do Super.BR 
+Figura 1 – Tela de Acesso do Usuário do Super.BR
 
 
 
