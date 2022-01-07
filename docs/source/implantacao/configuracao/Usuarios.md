@@ -5,6 +5,7 @@ Definição de Usuário pode ser de uma pessoa que utiliza um Sistema de Informa
 
 O acesso e utilização do sistema é feita por meio de Login (CPF do Usuário) e uma senha. 
 
+<<<<<<< HEAD
 ![Usuários - Tela de Login Super](../../_static/images/Usuários - Tela de Login Super.png)
 
 Figura 1 – Tela de Acesso do Usuário do Super.BR
@@ -12,6 +13,10 @@ Figura 1 – Tela de Acesso do Usuário do Super.BR
 
 A criação do Usuário, bem como a permissão de acesso e senha é concedida pelo Administrador do Super.BR, cujo procedimento será detalhado a seguir. É necessário também reforçar a importância de realizar o cadastro de [Pessoas](configuraçao/Pessoas.md) antes de realizar o cadastro de Usuário.
   
+=======
+<img src="../../_static/images/Usuários - Tela de Login Super.png"/>
+Figura 1 – Tela de Login SUPP
+>>>>>>> 10c2d9132b841953869255b0c5b3782306791612
 
 ## Níveis de Acesso/Perfis e Privilégios 
 
@@ -129,9 +134,14 @@ Com o perfil de Administrador, a tela Usuários permite visualizar os Usuários 
 
  
 
+<<<<<<< HEAD
 ![Usuários - Tela principal](../../_static/images/Usuários - Tela principal.png)
 
 Figura 2 – Tela de Usuários do Super.BR 
+=======
+<img src="../../_static/images/Usuários - Tela principal.png"/>
+<p style="text-align: center;">Figura 2 – Tela de Usuários SUPP</p> 
+>>>>>>> 10c2d9132b841953869255b0c5b3782306791612
 
  
 
