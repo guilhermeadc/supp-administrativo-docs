@@ -38,9 +38,9 @@ Seguem indicadores dos botões na Tela de Usuários:
 ## Como criar uma Espécie de Atividade no Super.BR 
 
 
-1. Para criação de uma nova Espécie de Atividades no Super.BR, o usuário com perfil de Administrador do Sistema deverá acessar o a tela de Espécie de Atividades por meio do Menu Administrador > Espécie de Atividades e clicar no botão <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> , no canto superior esquerdo da lista de tipos de documentos;
+01\. Para criação de uma nova Espécie de Atividades no Super.BR, o usuário com perfil de Administrador do Sistema deverá acessar o a tela de Espécie de Atividades por meio do Menu Administrador > Espécie de Atividades e clicar no botão <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> , no canto superior esquerdo da lista de tipos de documentos;
 
-2. Em seguida, deverá preencher os campos disponíveis no formulário com as informações referentes à Espécie de Atividade a ser cadastrada.   
+02\. Em seguida, deverá preencher os campos disponíveis no formulário com as informações referentes à Espécie de Atividade a ser cadastrada.   
 
 ```{note}
 Nota: Todos os campos marcados com * são de preenchimento obrigatório. 
@@ -55,7 +55,11 @@ Nota: Todos os campos marcados com * são de preenchimento obrigatório.
 * **Gênero Atividade**: Campo obrigatório, destinado à descrição do Gênero da espécie de atividade (Administrativo ou Arquivístico); 
 
 * **Ativo**: Flag que indica se o registro do tipo de Documento é Ativo ou Inativo. 
+Espécie de Atividade Ativa é caso essa categoria de atividade nos processos administrativos do Órgão têm utilidade.
 
+03\. Clicar em Salvar. 
+
+Pronto, a sua Espécie de Atividade está cadastrada.
 
 A partir dessa lista, o Administrador de Sistemas também consegue editar as informações das espécies de atividades já criadas, clicando no botão de Editar no grid das Espécies de Atividades.
 
