@@ -1,8 +1,5 @@
 # Workflow
 
-## Disposições Gerais 
- 
-
 Workflow é o método usado para organizar o fluxo de trabalho. Consiste na disposição e realização de tarefas em uma sequência lógica. Em outras palavras, é o passo a passo mais eficiente e prático para a execução de um trabalho. 
 
 
@@ -31,6 +28,7 @@ Essa forma de organizar o trabalho possibilita a utilização de fluxos pré-def
 
 
 <img src="../../_static/images/Workflow - Tela principal.png"/>
+<p style="text-align: center;">Figura 1 – Tela de Workflow SUPP</p>
 
 
 1) Novo. Utilizado para criar um Workflow; 
@@ -50,46 +48,36 @@ Essa forma de organizar o trabalho possibilita a utilização de fluxos pré-def
 
 6) Visualizar Transições – Esta opção possibilita a visualização do workflow desenhado por meio do cadastro das transições. Neste desenho, os Círculos representam as Tarefas e os Quadrados representam as Atividades;
 
-
-<img src="../../_static/images/Workflow - Exemplo fluxo.png"/>
-
-
 7) Transições – Opção de acesso ao cadastro das transições/fase do workflow;
-
 
 8) Editar o cadastro de um Workflow – Opção permite editar um Workflow anteriormente cadastrado;
 
-
 9) Remover – Opção possibilita a exclusão de um workflow anteriormente cadastrado;
-
 
 10) Opção permite configurar a quantidade de registros a serem mostrados em tela;
 
-
 11) Tarja indica a quantidade de páginas relacionadas a consulta em tela. A navegação entre as páginas poderá ser feita por meio do uso das setas disponíveis.
-
  
 
-### 1. Como Cadastrar um Workflow 
-
+### Como Cadastrar um Workflow 
  
 
-1.1 Para criação de um Workflow no SUPER.br, o usuário deverá acessar o Menu “Workflow”, existente na visão Administrador, e clicar no botão “Novo” , localizado na parte superior esquerda da tela. 
+1. Para criação de um Workflow no SUPER.br, o usuário deverá acessar o Menu “Workflow”, existente na visão Administrador, e clicar no botão “Novo” , localizado na parte superior esquerda da tela. 
  
 
-1.2 Em seguida, deverá preencher os campos disponíveis no formulário de cadastro, conforme orientações abaixo.  
+1. Em seguida, deverá preencher os campos disponíveis no formulário de cadastro, conforme orientações abaixo.  
 
 ```{note}
 Nota: Todos os campos marcados com * são de preenchimento obrigatório. 
 ```
 
-<img src="../../_static/images/Assuntos - Tela com a Lista de Campos.png"/>
+<img src="../../_static/images/Workflow - Tela com a Lista de Campos.png"/>
+<p style="text-align: center;">Figura 2 – Tela de Cadastro de Workflow SUPP</p>
 
 
 **Nome:** campo obrigatório para registro nome do Workflow em questão; 
 
 **Descrição:** campo obrigatório utilizado para inclusão de uma breve descrição do workflow em questão. 
-
 
 **Espécie de tarefa inicial:** campo obrigatório destinado à seleção da espécie de tarefa que irá iniciar o Workflow em questão.  
 
@@ -101,6 +89,7 @@ Nota: Todos os campos marcados com * são de preenchimento obrigatório.
 
  
 <img src="../../_static/images/Workflow - Visualizar Espécie de processo.png"/>
+<p style="text-align: center;">Figura 3 – Tela de vinculação à Espécie de Processo</p>
  
 
 Ao acessar a opção visualizar espécie de processo, poderá:  
@@ -130,72 +119,80 @@ Nota: As transições são a descrição da ordem lógica do Workflow desenhado 
 
 **Espécie Tarefa Para:** campo para registro da próxima tarefa a ser executada no Workflow. 
 
- 
+<img src="../../_static/images/Workflow - Exemplo fluxo.png"/>
+<p style="text-align: center;">Figura 4 – Exemplo de Workflow gerado no SUPP</p>
 
 3.2 Após a criação da transição, ficará disponível ao usuário 4 novas opções para gerenciamento do registro criado. 
 
 <img src="../../_static/images/Workflow - Transições_opções em tela.png"/>
-
+<p style="text-align: center;">Figura 5 – Tela Contendo as transições cadastradas para o Workflow</p>
 
 1) Editar. Permite editar a transição cadastrada. 
 
-2) Ações. Permite incluir ações relacionadas a “Tarefa DE” da transição. Abaixo seguem as ações disponíveis no SUPER.br. 
+2) Ações. Permite incluir ações relacionadas a “Tarefa DE” da transição. 
+
+**Abaixo seguem as ações disponíveis:**
+
 
 **OFÍCIO**
 
 - Gera automaticamente um ofício na tarefa
 
 <img src="../../_static/images/Workflow - Transições_Opções_Ofício.png"/>
-
+<p style="text-align: center;">Figura 6 – Tela Workflow - Ações - Configuração de Ofício</p>
 
 **COMPARTILHAMENTO**
 
 - Compartilha a tarefa entre usuários
 
 <img src="../../_static/images/Workflow - Transições_Opções_Compartilhamento.png"/>
-
+<p style="text-align: center;">Figura 7 – Tela Workflow - Ações - Configuração de Compartilhamento</p>
 
 **DISTRIBUIÇÃO AUTOMÁTICA**
 
 - Distribui as tarefas de forma automática ou por responsável
 
 <img src="../../_static/images/Workflow - Transições_Opções_Distribuição automática.png"/>
-
+<p style="text-align: center;">Figura 8 – Tela Workflow - Ações - Configuração de Distribuição Automática</p>
 
 **MINUTA**
 
 Gera automaticamente uma minuta na tarefa de acordo com o modelo pré-selecionado 
 
 <img src="../../_static/images/Workflow - Transições_Opções_Minuta.png"/>
+<p style="text-align: center;">Figura 9 – Tela Workflow - Ações - Configuração de Minuta</p>
 
 
 3) Remover. Permite excluir o registro. 
 
-4) Validações. Permite que o usuário indique se a tarefa DE deverá ser validada. Abaixo seguem as opções de validação disponíveis no SUPER.br.  
+4) Validações. Permite que o usuário indique se a tarefa DE deverá ser validada. 
+
+**Abaixo seguem as opções de validação disponíveis:**
 
 
 **UNIDADE**
 
 <img src="../../_static/images/Workflow - Transições_Validações_Unidade.png"/>
-
+<p style="text-align: center;">Figura 10 – Tela Workflow - Validações - Unidade</p>
 
 **ATRIBUIDO PARA**
 
 <img src="../../_static/images/Workflow - Transições_Validações_Atribuído para.png"/>
-
+<p style="text-align: center;">Figura 11 – Tela Workflow - Validações - Atribuído para</p>
  
 
 **CRIADO POR**
 
 <img src="../../_static/images/Workflow - Transições_Validações_Criado por.png"/>
-
+<p style="text-align: center;">Figura 12 – Tela Workflow - Validações - Criado por</p>
  
 **SETOR DE ORIGEM**
 
 <img src="../../_static/images/Workflow - Transições_Validações_Setor de Origem.png"/>
-
+<p style="text-align: center;">Figura 13 – Tela Workflow - Validações - Setor de Origem</p>
  
 
 **TIPO DE DOCUMENTO**
 
 <img src="../../_static/images/Workflow - Transições_Validações_Tipo de Documento.png"/>
+<p style="text-align: center;">Figura 14 – Tela Workflow - Validações - Tipo de Documento</p>
