@@ -24,12 +24,13 @@ Opção permite que o usuário administrador cadastre ou edite os relatórios qu
 6) Editar o cadastro de Tipo de Relatório; 
 
 7) Visibilidade;
-```Dúvida: Para que serve este botão? Sempre que clico nele retorna uma mensagem de acesso negado.
 
 8) Opção permite configurar a quantidade de registro a serem mostrados em tela;
 
 9) Tarja indica a quantidade de páginas relacionadas a consulta em tela. A navegação entre as páginas poderá ser feita por meio do uso das setas disponíveis.
 
+
+```Dúvida: Para que serve este botão? Sempre que clico nele retorna uma mensagem de acesso negado.```
  
 
 ## Como Cadastrar um Tipo de Relatório

@@ -14,7 +14,7 @@ Com o perfil de Administrador, a tela de Órgãos permite visualizar os Órgãos
 
  
 <img src="../../_static/images/Órgãos - Tela principal.png"/>
-
+<p style="text-align: center;">Figura 1 – Tela de Órgãos SUPP</p> 
 
 Seguem indicadores dos botões na Tela de Órgãos:
 
@@ -28,7 +28,11 @@ Seguem indicadores dos botões na Tela de Órgãos:
 
 5) Mostrar inativos. Opção habilita mostra de Aviso Ativos e Inativos; 
 
-6) Editar o cadastro de um Órgão.
+6) Editar o cadastro de um Órgão;
+
+7) Opção permite configurar a quantidade de registro a serem mostrados em tela;
+
+8) Tarja indica a quantidade de páginas relacionadas a consulta em tela. A navegação entre as páginas poderá ser feita por meio do uso das setas disponíveis.
  
 
 ## Como Cadastrar um Órgão 
