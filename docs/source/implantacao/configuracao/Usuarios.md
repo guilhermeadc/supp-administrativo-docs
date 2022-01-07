@@ -6,7 +6,7 @@ Definição de Usuário pode ser de uma pessoa que utiliza um Sistema de Informa
 O acesso e utilização do sistema é feita por meio de Login (CPF do Usuário) e uma senha. 
 
 <img src="../../_static/images/Usuários - Tela de Login Super.png"/>
-
+<p style="text-align: center;">Figura 1 – Tela de Login SUPP</p> 
 
 ## Níveis de Acesso/Perfis e Privilégios 
 
@@ -109,7 +109,7 @@ Com o perfil de Administrador, a tela Usuários permite visualizar os Usuários 
  
 
 <img src="../../_static/images/Usuários - Tela principal.png"/>
-
+<p style="text-align: center;">Figura 1 – Tela de Usuários SUPP</p> 
 
 Seguem indicadores dos botões na Tela de Usuários: 
 

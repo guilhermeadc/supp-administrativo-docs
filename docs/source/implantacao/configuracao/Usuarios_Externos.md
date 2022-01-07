@@ -4,9 +4,9 @@ O Usuário Externo é um usuário fora do domínio do Órgão, mas que possui in
 
 Para informações detalhadas sobre os Usuários não-Externos, [clique aqui](configuraçao/Usuários .md). 
 
+## Como Criar um Usuário Externo
+
 A criação de um Usuário Externo segue os seguintes passos:
-
-
 
 1. Acessar [o site do Super.BR](configuraçao/https://superbr-dev.dth.nuvem.gov.br/auth/login);
 
@@ -31,7 +31,7 @@ A criação de um Usuário Externo segue os seguintes passos:
 ```Esse item acima está no arquivo MD como 4, como deveria ser, porém na Previsão HTML, consta como 1```
  
 <img src="../../_static/images/Usuário Externo - Tela Principal.png"/>
-
+<p style="text-align: center;">Figura 1 – Tela de Usuário Externo SUPP</p> 
 
 Após a criação do Usuário Externo, o Administrador do Sistema poderá ter acesso à tela de Usuários Externos criados e realizar comandos de gestão. 
 
