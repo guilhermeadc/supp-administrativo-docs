@@ -38,17 +38,20 @@ Seguem indicadores dos botões na Tela de Usuários :
 
  
 
-Para criação de uma nova Espécie de Tarefas no Super.BR, o usuário com perfil de Administrador do Sistema deverá acessar o a tela de Espécie de Tarefas por meio do Menu Administrador > Espécie de Tarefas e clicar no botão “+” no canto superior esquerdo da lista de tipos de documentos. 
+01\.Para criação de uma nova Espécie de Tarefas no Super.BR, o usuário com perfil de Administrador do Sistema deverá acessar o a tela de Espécie de Tarefas por meio do Menu Administrador > Espécie de Tarefas e clicar no botão <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> no canto superior esquerdo da lista de tipos de documentos. 
 
-Em seguida, deverá preencher os campos disponíveis no formulário com as informações referentes à Unidade a ser cadastrada.   
+
+02\.Em seguida, deverá preencher os campos disponíveis no formulário com as informações referentes à Unidade a ser cadastrada.   
 
 
 ```{note}
 Nota: 
 Todos os campos marcados com * são de preenchimento obrigatório.
+```
 
+
+```{warning}
 (Os títulos dos campos precisam ser corrigidos com * para expressar quais campos são obrigatórios na criação da Espécie de Tarefas) 
-
 
 ```
 
@@ -65,7 +68,10 @@ Todos os campos marcados com * são de preenchimento obrigatório.
 **Ativo**: Flag que indica se o registro do tipo de Documento é Ativo ou Inativo. 
 
  
+03\. Clicar em Salvar
 
+
+Pronto, sua Espécie de Tarefa já criada!  
 A partir dessa lista, o Administrador de Sistemas também consegue editar as informações das espécies de tarefas já criadas, clicando no botão de Editar na grid das Espécies de Tarefas.  
 
 Cadastradas as Espécies de Tarefas, elas serão uteis para o cadastro e a construção das Espécies de Processos, que dão um direcionamento eficiente para cada uma das necessidades operacionais do Órgão. Para maiores informações sobre Espécies de Processos, clique aqui.  [clique aqui](../../source\implantacao\configuracao\Espécies de Processos.md)
