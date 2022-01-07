@@ -1,8 +1,5 @@
 # Planejamento da Implantação 
 
- 
-
-## Disposições Gerais 
 
 Basicamente a Implantação do Super.BR passa pelo seguinte processo:  
 

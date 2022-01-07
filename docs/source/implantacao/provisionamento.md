@@ -1,7 +1,5 @@
 # Provisionamento da Infraestrutura
 
-## Disposições Gerais
-
 O Provisionamento de Infraestrutura do Super.BR é feito pelo provedor contratado junto ao Ministério da Economia. 
 
 Serão disponibilizados 3 ambientes com os devidos serviços para devida utilização, em seus respectivos momentos do projeto. 
