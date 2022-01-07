@@ -105,4 +105,4 @@ Nota:O preenchimento dos campos seguirá os mesmos critérios indicados no item 
 ```
 
 <img src="../../_static/images/Classificações - Tela aba árvore - campos para cadastro.png"/>
-<p style="text-align: center;">Figura 1 – Tela de Cadastro, Visão em Árvore SUPP</p>
+<p style="text-align: center;">Figura 2 – Tela de Cadastro, Visão em Árvore SUPP</p>
