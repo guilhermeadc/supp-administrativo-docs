@@ -14,7 +14,7 @@ O Administrador tem o perfil para cadastro e manutenção do registro de Pessoas
 
 
 <img src="../../_static/images/Pessoas - Tela Principal.png"/>
-
+<p style="text-align: center;">Figura 1 – Tela de Pessoas SUPP</p> 
 
 1) Novo. Utilizado para criar um registro de Pessoa; 
 
@@ -44,6 +44,7 @@ Dúvida: O cadastro de pessoas será unificado para todo o SUPER.br ou cada Órg
 2. Em seguida, deverá preencher os campos disponíveis no formulário com as informações referentes à Pessoa a ser cadastrada.
 
 <img src="../../_static/images/Pessoas - Tela com a Lista de Campos.png"/>
+<p style="text-align: center;">Figura 2 – Tela de Cadastro de Pessoas SUPP</p> 
 
 ```{note}
 Nota: Todos os campos marcados com * são de preenchimento obrigatório. 
@@ -137,7 +138,7 @@ Após a criação da Pessoa, o Usuário Administrador poderá complementar o cad
 A edição dos dados básicos seguirá os mesmos passos e premissas descritos no item “Como Cadastrar uma pessoa”. 
 
 <img src="../../_static/images/Pessoas - Tela com a Lista de Campos _Dados Básicos.png"/>
- 
+<p style="text-align: center;">Figura 3 – Tela Pessoas - Cadastro de Dados Básicos SUPP</p> 
 
 ### Documentos
 
@@ -145,7 +146,7 @@ A edição dos dados básicos seguirá os mesmos passos e premissas descritos no
 Para cadastrar uma Documento relacionado a uma Pessoa no Super.BR, o usuário deverá clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> e em seguida preencher os campos: 
 
 <img src="../../_static/images/Pessoas - Tela com a Lista de Campos _Documentos.png"/>
-
+<p style="text-align: center;">Figura 4 – Tela Pessoas - Cadastro de Documentos SUPP</p> 
 
 * **Número:** Preencher o número/identificador do documento que deseja vincular à Pessoa; 
 
@@ -160,9 +161,10 @@ Para cadastrar uma Documento relacionado a uma Pessoa no Super.BR, o usuário de
 
 Para cadastrar um Endereço relacionado a uma Pessoa no Super.BR, o usuário deverá clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> e em seguida preencher os campos: 
 
-<img src="../../_static/images/Pessoas - Tela com a Lista de Campos _Endereço.png)"/>
+<img src="../../_static/images/Pessoas - Tela com a Lista de Campos _Endereço.png"/>
+<p style="text-align: center;">Figura 5 – Tela Pessoas - Cadastro de Endereços SUPP</p>
 
-* **Principal:** Flag a ser marcada para indicar se o endereço é o principal do grupo de endereços registrados para aquela pessoa.  
+* **Principal:** Flag a ser marcada para indicar se o endereço é o principal do grupo de endereços registrados para aquela pessoa.
  
 ```{comm}
 Dúvida: O primeiro endereço cadastrado será o principal? 
@@ -208,6 +210,7 @@ Nota: Este campo também conta com preenchimento inteligente, de forma que se à
 Para cadastrar Outros Nomes relacionados a uma Pessoa no Super.BR, o usuário deverá clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> e em seguida preencher o campo: 
  
 <img src="../../_static/images/Pessoas - Tela com a Lista de Campos _Outros Nomes.png"/>
+<p style="text-align: center;">Figura 6 – Tela Pessoas - Cadastro de Outros Nomes SUPP</p> 
 
 * **Nome:** Como o outro nome de identificação da pessoa. 
  
@@ -217,7 +220,7 @@ Para cadastrar Outros Nomes relacionados a uma Pessoa no Super.BR, o usuário de
 Para cadastrar os Relacionamentos relativos a uma Pessoa no Super.BR, o usuário deverá clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> e em seguida preencher o campo: 
 
 <img src="../../_static/images/Pessoas - Tela com a Lista de Campos _Relacionamentos.png"/>
-
+<p style="text-align: center;">Figura 7 – Tela Pessoas - Cadastro de Relacionamentos SUPP</p>
 
 * **Pessoa Relacionada:** campo destinado ao registro da pessoa relacionada, podendo ser física ou jurídica. O usuário poderá selecionar a pessoa relacionada por meio do botão “Procurar” (lado direito do campo) ou digitando o nome da pessoa no campo. 
  
@@ -241,6 +244,7 @@ Dúvida: Onde serão cadastradas as modalidades disponíveis neste campo?
 Para cadastrar a Vinculação de Pessoa ao Barramento no Super.BR, o usuário deverá clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> e em seguida preencher o campo: 
 
 <img src="../../_static/images/Pessoas - Tela com a Lista de Campos _Vinculo Pessoa Barramento.png"/>
+<p style="text-align: center;">Figura 8 – Tela Pessoas - Cadastro de Vinculação Pessoa Barramento SUPP</p>
 
 * **Nome do Repositório:** Campo destinado a indicação/seleção do nome do repositório de Barramento de Serviços em que o comitê gestor foi habilitado; 
 

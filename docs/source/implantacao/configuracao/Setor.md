@@ -9,16 +9,16 @@ Relacionado à hierarquia dos grupos de pessoas, o Setor está abaixo da Unidade
 
 Logo, para acessar um setor dentro do Super.BR, é necessário que o Órgão e a Unidade acima daquele Setor já tenham sido criados pelo Administrador do Sistema. O acesso à tela de Setor será descrito a seguir e permitirá desencadear outras ações.
 
-<img src="../../_static/images/Setores - Tela de acesso ao cadastro via Unidades.png"/>
+<img src="../../_static/images/Setores - Tela de acesso ao cadastro via Unidades.png"/><p style="text-align: center;">Figura 1 – Tela de Unidades SUPP</p> 
 
 Com acesso de Coordenador de Unidade (ou acesso superior Coordenador de Órgão ou de Administrador do sistema), acessar a lista de Unidades e, na respectiva Unidade que se deseja acessar o setor, clicar no botão de Setores. 
 
 A partir da tela de Setores, é possível realizar as ações de Criar, Editar, Lotar, Criar Localizador e Transferir Processos para o Protocolo.
 
 <img src="../../_static/images/Setores - Tela Principal.png"/>
+<p style="text-align: center;">Figura 2 – Tela de de Setores SUPP</p>
 
-
-1) Novo. Utilizado para criar um Workflow;
+1) Novo. Utilizado para criar um Setor;
 
 2) Colunas. Por esta opção será possível gerenciar as colunas que serão disponibilizadas em tela;
 
@@ -101,6 +101,13 @@ Para cada lotação, há configurações destinadas para cada usuário, descrita
 Dentro de um setor é possível criar, editar e remover as respectivas lotações para cada um dos usuários. Para isso, o Coordenador de unidade (ou o Administrador de Sistema) deve acessar a lotação respectiva ao setor, clicar no botão de Lotações <img src="../../_static/images/Botão de Lotação.png" alt="Botão de Lotação" style="zoom: 50%;" /> (indicado como 3 na Figura 2) referente ao setor a ser lotado. 
  
 <img src="../../_static/images/Setores - Tela de cadastro de Lotações.png"/>
+<p style="text-align: center;">Figura 3 – Tela de Cadastro de Lotações SUPP</p>
+
+1) Novo. Utilizado para criar uma lotação;
+
+2) Editar os dados de um setor;
+
+3) Excluir lotação. Ao excutar esta ação, a lotação não está mais disponível no setor.
 
 
 ### Criar Lotação
@@ -151,6 +158,7 @@ Os localizadores são configurações dos Setores destinadas a localizar fisicam
 Dentro de um setor é possível criar, editar e remover os respectivos localizadores. Para isso, deve-se acessar a lotação respectiva ao setor, clicar no botão de Localizadores (indicado como 4 na Figura 2) referente ao setor.
 
 <img src="../../_static/images/Setores - Tela de cadastro de Localizadores.png"/>
+<p style="text-align: center;">Figura 4 – Tela de Cadastro de Localizadores SUPP</p>
 
 ### Criar Localizadores: 
 
