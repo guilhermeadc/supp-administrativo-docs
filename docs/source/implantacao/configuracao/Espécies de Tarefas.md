@@ -30,7 +30,11 @@ Seguem indicadores dos botões na Tela de Usuários :
 
 5) Mostrar Inativas. Opção possibilita mostrar/Ocultar as Espécies de Tarefas da presente tarefa.  
 
-6) Editar o cadastro de uma Espécie de Tarefas 
+6) Editar o cadastro de uma Espécie de Tarefas
+
+7) Opção permite configurar a quantidade de registros a serem mostrados em tela
+
+8) Tarja indica a quantidade de páginas relacionadas a consulta em tela. A navegação entre as páginas poderá ser feita por meio do uso das setas disponíveis 
 
  
 
@@ -65,7 +69,7 @@ Todos os campos marcados com * são de preenchimento obrigatório.
 
 **Gênero Tarefa**: Campo obrigatório, destinado à descrição do Gênero da espécie de tarefa (Administrativo ou Arquivístico); 
 
-**Ativo**: Flag que indica se o registro do tipo de Documento é Ativo ou Inativo. 
+**Ativo**: Flag que indica se o registro do tipo de Documento é Ativo ou Inativo. Espécie de Tarefa Ativa é caso essa categoria de Tarefa nos processos administrativos do Órgão têm utilidade.
 
  
 03\. Clicar em Salvar
