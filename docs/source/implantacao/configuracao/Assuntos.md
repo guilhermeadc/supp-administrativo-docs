@@ -9,14 +9,15 @@ O usuário com perfil de Administrador SUPER.br terá as autorizações necessá
 
 ## Tela Assuntos No SUPER.br
 
-![Assuntos - Tela principal](../../_static/images/Assuntos - Tela principal.png)
+<img src="../../_static/images/Assuntos - Tela principal.png"/>
+<p style="text-align: center;">Figura 1 – Tela de Assuntos SUPP</p> 
 
 
 1) Novo. Utilizado para criar um registro de Assuntos;
 
 2) Aba Lista. Visão em lista dos cadastros de Assuntos;
 
-3) Aba Árvore: Visão que demonstra a árvore de associações entre os Assuntos cadastrados;
+3) Aba Árvore: Visão que demonstra a árvore de associações entre os Assuntos cadastrados. Por este caminho será possível cadastrar um assunto vinculado hierarquicamente a outro já cadastrado;
 
 4) Colunas. Por esta opção será possível gerenciar as colunas que serão disponibilizadas na tela;
 
@@ -40,8 +41,8 @@ O usuário com perfil de Administrador SUPER.br terá as autorizações necessá
 Nota: Todos os campos marcados com * (asterísco) são de preenchimento obrigatório.
 ```
 
-![Assuntos - Tela com a Lista de Campos](../../_static/images/Assuntos - Tela com a Lista de Campos.png)
-
+<img src="../../_static/images/Assuntos - Tela com a Lista de Campos.png"/>
+<p style="text-align: center;">Figura 2 – Tela de Cadastro de Assuntos SUPP</p>
 
 * **Nome:** campo obrigatório para registro nome do Assunto em questão;
 
@@ -69,8 +70,8 @@ Pronto, o seu Assunto está cadastrado. Após essa criação, os processos proto
 ### Aba Árvore
 
 
-![Assuntos - Tela aba árvore](../../_static/images/Assuntos - Tela aba árvore.png)
-
+<img src="../../_static/images/Assuntos - Tela aba árvore.png"/>
+<p style="text-align: center;">Figura 3 – Tela de Assuntos - Aba Árvore SUPP</p> 
 
 1) Botão para maximizar a árvore de assuntos.
 
@@ -82,4 +83,5 @@ Pronto, o seu Assunto está cadastrado. Após essa criação, os processos proto
 
 * Este botão ficará disponível em todos os níveis da árvore de assuntos.
 
-![Assuntos - Tela aba árvore - campos para cadastro](../../_static/images/Assuntos - Tela aba árvore - campos para cadastro.png)
+<img src="../../_static/images/Assuntos - Tela aba árvore - campos para cadastro.png"/>
+<p style="text-align: center;">Figura 4 – Tela de Assuntos - Aba Árvore - Cadastro de Assuntos SUPP</p> 
