@@ -13,12 +13,10 @@ Mais informações sobre Tarefas são abordadas em clique aqui.
 Com o perfil de Administrador, a tela de Espécie de Tarefas permite visualizar as Espécies de Tarefas cadastradas no Sistema, além de criar novas e editar suas informações. 
 
  
-![Espécies de Tarefas - Tela Principal](../../_static/images/Espécies de Tarefas - Tela Principal.png)
+<img src="../../_static/images/Espécies de Tarefas - Tela Principal.png"/>
+<p style="text-align: center;">Figura 1 – Tela Espécies de Tarefas SUPP</p> 
 
-
-Figura 1 – Tela de Espécies de Tarefas do Super.BR 
-
-Seguem indicadores dos botões na Tela de Usuários : 
+Seguem indicadores dos botões na Tela de Usuários: 
 
 1) Criar um registro de nova Espécie de Tarefas 
 
@@ -46,6 +44,9 @@ Seguem indicadores dos botões na Tela de Usuários :
 
 
 02\.Em seguida, deverá preencher os campos disponíveis no formulário com as informações referentes à Unidade a ser cadastrada.   
+
+<img src="../../_static/images/Espécies de Tarefas - Tela de Cadastro.png"/>
+<p style="text-align: center;">Figura 2 – Tela de Cadastro de Espécies de Tarefas SUPP</p>
 
 
 ```{note}

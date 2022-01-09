@@ -7,9 +7,8 @@ Categorizar as Relevâncias facilita a gestão dos processos que devem ser prior
 
 Com o perfil de Administrador, a tela Espécie de Relevância permite visualizar as Espécies de Relevância cadastradas no Sistema, além de editar as já existentes.
 
-![Espécie de Relevância - Tela principal](../../_static/images/Espécie de Relevância - Tela principal.png)
-
-Figura 1 – Tela de Espécie de Relevância do Super.BR
+<img src="../../_static/images/Espécie de Relevância - Tela principal.png"/>
+<p style="text-align: center;">Figura 1 – Tela de Espécie de Relevância SUPP</p> 
 
 Seguem indicadores dos botões na Tela de Espécie de Relevância (Figura 1):
 
@@ -36,17 +35,21 @@ Para criar uma nova Espécie de Relevância, o usuário com perfil de Administra
 
 01\.	Acessar a tela  de Espécie de Relevância (Menu Administrador > Espécie de Relevância) e clicar no botão Novo” <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" />  (indicado como 1 na Tela de Espécie de Relevância);
 
+<img src="../../_static/images/Espécie de Relevância - Tela de Cadastro.png"/>
+<p style="text-align: center;">Figura 2 – Tela de Cadastro de Espécie de Relevância SUPP</p> 
+
+
 02\.	Em seguida, deverá preencher os campos disponíveis no formulário com as informações referentes à Espécie de Relevância a ser cadastrada;
 
 ```{Note}
 Nota: Todos os campos marcados com * são de preenchimento obrigatório.
 ```
 
-**Nome*:** Campo obrigatório, destinado ao preenchimento do nome da Espécie de Relevância;
+**Nome:** Campo obrigatório, destinado ao preenchimento do nome da Espécie de Relevância;
 
-**Descrição*:** Campo obrigatório, destinado ao preenchimento da descrição da Espécie de Relevância;
+**Descrição:** Campo obrigatório, destinado ao preenchimento da descrição da Espécie de Relevância;
 
-**Gênero Relevância*:** Campo obrigatório, destinado ao preenchimento/seleção do Gênero da Espécie de Relevância; 
+**Gênero Relevância:** Campo obrigatório, destinado ao preenchimento/seleção do Gênero da Espécie de Relevância; 
 
 **Ativo:** Flag que indica se a Espécie de Relevância está Ativa ou Inativa. Espécie de Relevância Ativa é caso essa categoria de Relevância nos processos administrativos do Órgão têm validade e podem ser atestadas como relevantes. 
 

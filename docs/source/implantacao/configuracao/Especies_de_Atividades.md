@@ -11,7 +11,6 @@ Mais informações sobre Atividades são abordadas em clique aqui.
 ## Tela de Espécies de Atividades 
 
 Com o perfil de Administrador, a tela de Espécie de Atividades permite visualizar as Espécies de Atividades cadastradas no Sistema, além de editar suas informações. 
- 
 
 <img src="../../_static/images/Espécies de Atividades - Tela Principal.png"/>
 <p style="text-align: center;">Figura 1 – Tela de Espécie de Atividades SUPP</p> 
@@ -40,7 +39,10 @@ Seguem indicadores dos botões na Tela de Usuários:
 
 01\. Para criação de uma nova Espécie de Atividades no Super.BR, o usuário com perfil de Administrador do Sistema deverá acessar o a tela de Espécie de Atividades por meio do Menu Administrador > Espécie de Atividades e clicar no botão <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> , no canto superior esquerdo da lista de tipos de documentos;
 
-02\. Em seguida, deverá preencher os campos disponíveis no formulário com as informações referentes à Espécie de Atividade a ser cadastrada.   
+02\. Em seguida, deverá preencher os campos disponíveis no formulário com as informações referentes à Espécie de Atividade a ser cadastrada.
+
+<img src="../../_static/images/Espécies de Atividades - Tela de Cadastro.png"/>
+<p style="text-align: center;">Figura 2 – Tela de Cadastro de Espécie de Atividades SUPP</p>
 
 ```{note}
 Nota: Todos os campos marcados com * são de preenchimento obrigatório. 

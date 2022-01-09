@@ -7,15 +7,14 @@ A liderança do Órgão Central está a cargo do Coordenador de Órgão Central 
 Acima de todos os tipos de acesso, temos o de Administrador do Sistema. Ele tem, dentre outras atribuições, ser responsável pela criação de um Órgão Central. A criação do Órgão Central será descrita a seguir e é a que permitirá desencadear outras ações. 
 
 
-##Tela de Órgãos
+## Tela de Órgãos Centrais
 
 
 Com o perfil de Administrador, a tela de Órgãos permite visualizar os Órgãos já cadastrados no Sistema, além de editar os já existentes. 
 
  
-![Órgãos - Tela principal](../../_static/images/Órgãos - Tela principal.png)
-Figura 1 – Tela dos Órgãos Centrais
-
+<img src="../../_static/images/Órgãos - Tela principal.png"/>
+<p style="text-align: center;">Figura 1 – Tela de Órgãos Centrais SUPP</p>
 
 Seguem indicadores dos botões na Tela de Órgãos
 
@@ -35,22 +34,24 @@ Seguem indicadores dos botões na Tela de Órgãos
 8) Tarja indica a quantidade de páginas relacionadas a consulta em tela. A navegação entre as páginas poderá ser feita por meio do uso das setas disponíveis
  
 
-## Como Cadastrar um Órgão 
+## Como Cadastrar um Órgão Central
 
 Com acesso de Administrador de sistema, acessar a lista de Órgãos Centrais e para criar, deve-se seguir a descrição abaixo:  
 
+1\. Clicar em  "Novo" <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> e preencher todos os campos que aparecerem na tela subsequente:
 
+<img src="../../_static/images/Órgãos - Tela de Cadastro.png"/>
+<p style="text-align: center;">Figura 2 – Tela de Cadastro de Órgãos Centrais SUPP</p>
 
-1\. Clicar em  "Novo" <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> e preencher todos os campos que aparecerem na tela subsequente:  
 
 ```{note}
 Nota: Todos os campos marcados com * são de preenchimento obrigatório. 
 ```
 
 
-**Valor*:** Campo obrigatório, destinado ao preenchimento à Sigla do nome do Órgão; 
+**Valor**:** Campo obrigatório, destinado ao preenchimento à Sigla do nome do Órgão; 
 
-**Descrição*:** Campo obrigatório, destinado ao preenchimento do nome do Órgão; 
+**Descrição**:** Campo obrigatório, destinado ao preenchimento do nome do Órgão; 
 
 **Ativo:** A habilitação desse campo indicará que o Órgão está ativo. O Órgão Ativo indica se o Órgão continua exercendo suas funções.
 

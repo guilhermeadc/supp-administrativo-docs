@@ -18,7 +18,7 @@ Toda unidade:
 
 Abaixo segue figura que demonstra o relacionamento entre Órgãos, Unidades e Setores. 
 
-![Unidades - Figura Demonstrativa](../../_static/images/Unidades - Figura Demonstrativa.png)
+<img src="../../_static/images/Unidades - Figura Demonstrativa.png"/>
 
 <p style="text-align: center;">Figura 1 - Esquema relacional entre Órgão Central, Unidade e Setores</p> 
 
@@ -43,7 +43,7 @@ Também é possível visualizar os setores de cada Unidade e acrescentar novas c
 Ao optar por visualizar os setores, uma grid é aberto, onde é possível editar o Setor, manipular lotações e localizadores, além da possibilidade de remover o Setor.
 
 
-![Unidades - Tela Principal](../../_static/images/Unidades - Tela Principal.png)
+<img src="../../_static/images/Unidades - Tela Principal.png"/>
 <p style="text-align: center;"> Figura 2 - Tela Principal da Unidade </p> 
 
 
@@ -57,8 +57,11 @@ Ao optar por visualizar os setores, uma grid é aberto, onde é possível editar
 
 5) Editar o cadastro de uma Unidade; 
 
-6) Cadastro de Setor. 
+6) Cadastro de Setor;
 
+7) Opção permite configurar a quantidade de registro a serem mostrados em tela;
+
+8) Tarja indica a quantidade de páginas relacionadas a consulta em tela. A navegação entre as páginas poderá ser feita por meio do uso das setas disponíveis. 
  
 
 ## Como Criar uma nova UNIDADE no Super.BR 
@@ -68,25 +71,20 @@ Ao optar por visualizar os setores, uma grid é aberto, onde é possível editar
 01\. Para criação de uma nova unidade, o usuário deverá acessar o Menu Unidade e clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> localizado na parte superior esquerda da tela. 
 
  
-
- 
-
 02\. Em seguida, deverá preencher os campos disponíveis no formulário com as informações referentes à Unidade a ser cadastrada.  
 
 ```{note}
 Nota: Todos os campos marcados com * são de preenchimento obrigatório. 
 ```
 
-![Unidades - Tela com a Lista de Campos](../../_static/images/Unidades - Tela com a Lista de Campos.png)
+<img src="../../_static/images/Unidades - Tela com a Lista de Campos.png"/>
 <p style="text-align: center;"> Figura 3 - Tela de Formulário de Criação de Unidade </p> 
  
 
 **Nome:** Campo obrigatório, destinado ao preenchimento do nome da Unidade; (Existe algum link para o critério?) 
 
- 
 
 **Sigla:** Campo obrigatório, destinado ao preenchimento da SIGLA da Unidade; (Existe algum link para o critério?) 
-
  
 
 **Prefixo NUP:** campo obrigatório, destinado à inclusão do código único que identificará a Unidade e fará parte da numeração única processual (NUP) dos processos criados pela Unidade; 
@@ -109,14 +107,12 @@ Notas:
 ```
 
 
-
 **Endereço:** campo opcional, destinado à indicação do endereço físico da Unidade. 
 ```(Qual a utilidade deste campo?) ```
  
 
 **E-mail:** Campo opcional, destinado à indicação do email da Unidade. ```(Qual a utilidade deste campo?)```
 
- 
 
 **Órgão Central:** Campo obrigatório. Órgão ao qual a Unidade está vinculada. Só é possível vincular a Unidade a um Órgão Central. 
 

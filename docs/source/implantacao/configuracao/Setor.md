@@ -49,7 +49,10 @@ Nota: Todos os campos marcados com * são de preenchimento obrigatório.
 ```
 
 
-01.	Clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> e preencher todos os campos que aparecerem na tela subsequente: 
+01.	Clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> e preencher todos os campos que aparecerem na tela subsequente:
+
+<img src="../../_static/images/Setores - Tela de Cadsatro de Setores.png"/>
+<p style="text-align: center;">Figura 3 – Tela de Cadastro de Setores SUPP</p>
 
 **Nome:** Campo obrigatório, destinado ao preenchimento do nome do Setor;
 
@@ -108,7 +111,7 @@ Para cada lotação, há configurações destinadas para cada usuário, descrita
 Dentro de um setor é possível criar, editar e remover as respectivas lotações para cada um dos usuários. Para isso, o Coordenador de unidade (ou o Administrador de Sistema) deve acessar a lotação respectiva ao setor, clicar no botão de Lotações <img src="../../_static/images/Botão de Lotação.png" alt="Botão de Lotação" style="zoom: 50%;" /> (indicado como 3 na Figura 2) referente ao setor a ser lotado. 
  
 <img src="../../_static/images/Setores - Tela de cadastro de Lotações.png"/>
-<p style="text-align: center;">Figura 3 – Tela de Lotações SUPP</p> 
+<p style="text-align: center;">Figura 4 – Tela de Lotações SUPP</p> 
 
 
 ### Criar Lotação
@@ -147,7 +150,7 @@ Lembrar que caso haja sorteio, é levado em conta o Peso, conceito explicado a s
 02\. Clicar em Salvar.
 
 
-Uma vez criadas as lotações, é possível editá-las ou excluí-las (respectivamente botões 2 e 3 da figura 3)
+Uma vez criadas as lotações, é possível editá-las ou excluí-las (respectivamente botões 2 e 3 da figura 4)
 
 
 ## Localizadores
@@ -159,7 +162,7 @@ Os localizadores são configurações dos Setores destinadas a localizar fisicam
 Dentro de um setor é possível criar, editar e remover os respectivos localizadores. Para isso, deve-se acessar a lotação respectiva ao setor, clicar no botão de Localizadores (indicado como 4 na Figura 2) referente ao setor.
 
 <img src="../../_static/images/Setores - Tela de cadastro de Localizadores.png"/>
-<p style="text-align: center;">Figura 4 – Tela de Localizadores SUPP</p>
+<p style="text-align: center;">Figura 5 – Tela de Localizadores SUPP</p>
 
 ### Criar Localizadores: 
 
@@ -172,4 +175,4 @@ Dentro de um setor é possível criar, editar e remover os respectivos localizad
 
 02.	Clicar em Salvar.
 
-Uma vez criados os localizadores, é possível editá-los ou excluí-los (respectivamente botões 2 e 3 da figura 4)
+Uma vez criados os localizadores, é possível editá-los ou excluí-los (respectivamente botões 2 e 3 da figura 5)
