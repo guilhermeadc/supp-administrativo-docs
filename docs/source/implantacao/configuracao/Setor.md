@@ -6,20 +6,18 @@ Entende-se por SETOR no Super.BR um grupo de usuários (membros/servidores) que 
 Relacionado à hierarquia dos grupos de pessoas, o Setor está abaixo da Unidade (e esta, por sua vez, abaixo de Órgão). Portanto, é sugerido a criação de Unidades, do Órgão Central, bem como, da Espécie de Setores. Essas etapas são detalhadas em [Unidade](configuraçao/Unidades.md) e em [Espécies de Setores](configuração/Espécies de Setores.md)
 
 
-
 ## Tela de Setores
 
 Logo, para acessar um setor dentro do Super.BR, é necessário que o Órgão e a Unidade acima daquele Setor já tenham sido criados pelo Administrador do Sistema. O acesso à tela de Setor será descrito a seguir e permitirá desencadear outras ações.
 
-![Setores - Tela de acesso ao cadastro via Unidades](../../_static/images/Setores - Tela de acesso ao cadastro via Unidades.png)
-Figura 1 – Lista das Unidades
+<img src="../../_static/images/Setores - Tela de acesso ao cadastro via Unidades.png"/>
+<p style="text-align: center;">Figura 1 – Tela  Unidades SUPP</p>
 
 Com acesso de Coordenador de Unidade (ou acesso superior Coordenador de Órgão ou de Administrador do sistema), acessar a lista de Unidades e, na respectiva Unidade que se deseja acessar o setor, clicar no botão de Setores (Número 1, indicado na Figura 1). 
 A partir da tela de Setores, é possível realizar as ações de Criar, Editar, Lotar, Criar Localizador e Transferir Processos para o Protocolo.
 
-![Setores - Tela Principal](../../_static/images/Setores - Tela Principal.png)
-
-Figura 2 – Lista dos Setores
+<img src="../../_static/images/Setores - Tela Principal.png"/>
+<p style="text-align: center;">Figura 2 – Tela Setores SUPP</p>
 
 
 1) Novo. Utilizado para criar um Workflow;
@@ -68,6 +66,8 @@ Nota: Todos os campos marcados com * são de preenchimento obrigatório.
 **Setor Pai:** Campo opcional, destinado ao preenchimento de um possível setor Pai que o este setor pertence. Usado, exclusivamente, para fins de consumo de ferramentas de BI.
 
 **Ativo:** Seleção opcional, destinado a indicar se o setor está ativo ou não. Setor Ativo indica se o setor continua exercendo suas funções dentro do Órgão.
+
+
 <!--Dúvida: o que acontece se o Setor não está mais ativo, porém ele está inserido dentro de um workflow?-->
 
 
@@ -107,9 +107,9 @@ Para cada lotação, há configurações destinadas para cada usuário, descrita
 
 Dentro de um setor é possível criar, editar e remover as respectivas lotações para cada um dos usuários. Para isso, o Coordenador de unidade (ou o Administrador de Sistema) deve acessar a lotação respectiva ao setor, clicar no botão de Lotações <img src="../../_static/images/Botão de Lotação.png" alt="Botão de Lotação" style="zoom: 50%;" /> (indicado como 3 na Figura 2) referente ao setor a ser lotado. 
  
-![Setores - Tela de cadastro de Lotações](../../_static/images/Setores - Tela de cadastro de Lotações.png)
+<img src="../../_static/images/Setores - Tela de cadastro de Lotações.png"/>
+<p style="text-align: center;">Figura 3 – Tela de Lotações SUPP</p> 
 
-Figura 3 – Tela de Lotações
 
 ### Criar Lotação
 
@@ -151,15 +151,15 @@ Uma vez criadas as lotações, é possível editá-las ou excluí-las (respectiv
 
 
 ## Localizadores
+
 Os localizadores são configurações dos Setores destinadas a localizar fisicamente do Setor.
 
 ### Tela de Localizadores
 
 Dentro de um setor é possível criar, editar e remover os respectivos localizadores. Para isso, deve-se acessar a lotação respectiva ao setor, clicar no botão de Localizadores (indicado como 4 na Figura 2) referente ao setor.
 
-![Setores - Tela de cadastro de Localizadores](../../_static/images/Setores - Tela de cadastro de Localizadores.png)
-
-Figura 4 – Tela de Localizadores
+<img src="../../_static/images/Setores - Tela de cadastro de Localizadores.png"/>
+<p style="text-align: center;">Figura 4 – Tela de Localizadores SUPP</p>
 
 ### Criar Localizadores: 
 
