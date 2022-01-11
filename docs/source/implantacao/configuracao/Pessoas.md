@@ -14,6 +14,8 @@ O Administrador tem o perfil para cadastro e manutenção do registro de Pessoas
 
 
 <img src="../../_static/images/Pessoas - Tela Principal.png"/>
+<p style="text-align: center;"> Figura 1 - Tela de Pessoas </p> 
+
 
 
 1) Novo. Utilizado para criar um registro de Pessoa; 
@@ -34,16 +36,17 @@ O Administrador tem o perfil para cadastro e manutenção do registro de Pessoas
 ## Como Cadastrar uma pessoa 
 
 
-1. Para criação de uma nova Pessoa no Super.BR, o usuário deverá acessar o Menu Pessoa, existente na visão Administrador, e clicar no botão “Novo” <img src="../../_static/images/Botão lápis (inclusão pessoas).png" style="zoom: 50%"/>, localizado na parte superior esquerda da tela. 
+01\. Para criação de uma nova Pessoa no Super.BR, o usuário deverá acessar o Menu Pessoa, existente na visão Administrador, e clicar no botão “Novo” <img src="../../_static/images/Botão lápis (inclusão pessoas).png" style="zoom: 50%"/>, localizado na parte superior esquerda da tela. 
 
  
 ```{note}
 Dúvida: O cadastro de pessoas será unificado para todo o SUPER.br ou cada Órgão fará o seu cadastro? 
 ```
 
-2. Em seguida, deverá preencher os campos disponíveis no formulário com as informações referentes à Pessoa a ser cadastrada.
+02\. Em seguida, deverá preencher os campos disponíveis no formulário com as informações referentes à Pessoa a ser cadastrada.
 
 <img src="../../_static/images/Pessoas - Tela com a Lista de Campos.png"/>
+<p style="text-align: center;"> Figura 2 - Tela de Cadastro de Pessoas </p> 
 
 ```{note}
 Nota: Todos os campos marcados com * são de preenchimento obrigatório. 
@@ -107,17 +110,23 @@ Dúvida: Há interesse em ampliar este campo para registro da natureza de ativid
 * **Pessoa Conveniada:** O convênio permite que seja possível vincular usuários externos a uma Pessoa. Esses usuários externos visualizarão no seu painel os ofícios enviados para a Pessoa, além de poder responder esses ofícios. 
 
 * **Pessoa Validada:** A validação de um usuário externo permite que, sem Certificado Digital, estes utilizem o Protocolo Eletrônico do sistema, podendo provocar a ação do órgão ao realizar requisições. 
- 
+
+03\. Clicar em Salvar.
+Pronto. o nova Pessoa está cadastrada. Após esse cadastro, está habilitado a seguir os próximos passos da Configuração Inicial do Super.BR.
+
+É sugerido continuar com a criação de [Usuário](configuraçao/Usuarios.md), bem como complementar o dados da pessoa seguindo os passos abaixo.
+
+
 
 ## Como Editar o Cadastro de Pessoa 
 
 Após a criação da Pessoa, o Usuário Administrador poderá complementar o cadastro da Pessoa, incluindo informações/parâmetros como: 
  
 
-1. Para edição de uma Pessoa no Super.BR, o usuário deverá acessar o Menu Pessoa, existente na visão Administrador, e clicar no botão “Editar” <img src="../../_static/images/Botão lápis (editar).png" style=" zoom: 75%"/> , localizado na parte direita do registro da pessoa; 
+01\. Para edição de uma Pessoa no Super.BR, o usuário deverá acessar o Menu Pessoa, existente na visão Administrador, e clicar no botão “Editar” <img src="../../_static/images/Botão lápis (editar).png" style=" zoom: 75%"/> , localizado na parte direita do registro da pessoa; 
 
 
-2. Será possível editar e/ou inserir os dados relativos podendo incluir informações/parâmetros como: 
+02\. Será possível editar e/ou inserir os dados relativos podendo incluir informações/parâmetros como: 
 
 - Dados Básicos – permite a alteração ou complementação dos dados básicos da Pessoa; 
 
@@ -137,7 +146,8 @@ Após a criação da Pessoa, o Usuário Administrador poderá complementar o cad
 A edição dos dados básicos seguirá os mesmos passos e premissas descritos no item “Como Cadastrar uma pessoa”. 
 
 <img src="../../_static/images/Pessoas - Tela com a Lista de Campos _Dados Básicos.png"/>
- 
+
+<p style="text-align: center;"> Figura 3 - Tela de Edição de Dados Básicos de Pessoas </p> 
 
 ### Documentos
 
@@ -145,6 +155,8 @@ A edição dos dados básicos seguirá os mesmos passos e premissas descritos no
 Para cadastrar uma Documento relacionado a uma Pessoa no Super.BR, o usuário deverá clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> e em seguida preencher os campos: 
 
 <img src="../../_static/images/Pessoas - Tela com a Lista de Campos _Documentos.png"/>
+
+<p style="text-align: center;"> Figura 4 - Tela de Edição de Documentos de Pessoas </p> 
 
 
 * **Número:** Preencher o número/identificador do documento que deseja vincular à Pessoa; 
@@ -158,9 +170,12 @@ Para cadastrar uma Documento relacionado a uma Pessoa no Super.BR, o usuário de
 
 ### Endereços
 
-Para cadastrar um Endereço relacionado a uma Pessoa no Super.BR, o usuário deverá clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> e em seguida preencher os campos: 
+Para cadastrar um Endereço relacionado a uma Pessoa no Super.BR, o usuário deverá clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> e em seguida preencher os campos:
 
-<img src="../../_static/images/Pessoas - Tela com a Lista de Campos _Endereço.png)"/>
+<img src="../../_static/images/Pessoas - Tela com a Lista de Campos _Endereço.png"/>
+
+<p style="text-align: center;"> Figura 5 - Tela de Edição de Endereços de Pessoas </p>
+
 
 * **Principal:** Flag a ser marcada para indicar se o endereço é o principal do grupo de endereços registrados para aquela pessoa.  
  
@@ -208,6 +223,8 @@ Nota: Este campo também conta com preenchimento inteligente, de forma que se à
 Para cadastrar Outros Nomes relacionados a uma Pessoa no Super.BR, o usuário deverá clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> e em seguida preencher o campo: 
  
 <img src="../../_static/images/Pessoas - Tela com a Lista de Campos _Outros Nomes.png"/>
+<p style="text-align: center;"> Figura 6 - Tela de Edição de Outros Nomes de Pessoas </p>
+
 
 * **Nome:** Como o outro nome de identificação da pessoa. 
  
@@ -217,6 +234,7 @@ Para cadastrar Outros Nomes relacionados a uma Pessoa no Super.BR, o usuário de
 Para cadastrar os Relacionamentos relativos a uma Pessoa no Super.BR, o usuário deverá clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> e em seguida preencher o campo: 
 
 <img src="../../_static/images/Pessoas - Tela com a Lista de Campos _Relacionamentos.png"/>
+<p style="text-align: center;"> Figura 7 - Tela de Relacionamentos de Pessoas </p>
 
 
 * **Pessoa Relacionada:** campo destinado ao registro da pessoa relacionada, podendo ser física ou jurídica. O usuário poderá selecionar a pessoa relacionada por meio do botão “Procurar” (lado direito do campo) ou digitando o nome da pessoa no campo. 
@@ -241,6 +259,7 @@ Dúvida: Onde serão cadastradas as modalidades disponíveis neste campo?
 Para cadastrar a Vinculação de Pessoa ao Barramento no Super.BR, o usuário deverá clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> e em seguida preencher o campo: 
 
 <img src="../../_static/images/Pessoas - Tela com a Lista de Campos _Vinculo Pessoa Barramento.png"/>
+<p style="text-align: center;"> Figura 8 - Tela de Edição Vinculação de Pessoas com o Barramento</p>
 
 * **Nome do Repositório:** Campo destinado a indicação/seleção do nome do repositório de Barramento de Serviços em que o comitê gestor foi habilitado; 
 
@@ -249,3 +268,5 @@ Para cadastrar a Vinculação de Pessoa ao Barramento no Super.BR, o usuário de
 * **Nome da Estrutura:** Campo destinado à seleção/indicação do nome da Unidade cadastrada no Barramento de Serviços que será vinculada a pessoa. 
 
 * **ID da Estrutura:** Campo destinado à indicação do número do ID da Estrutura (Unidade) cadastrada no Barramento de Serviços. Será preenchida automaticamente após à inclusão do nome da estrutura. 
+
+03\. Após complementar as informações relevantes da pessoa, cliar em Salvar.
