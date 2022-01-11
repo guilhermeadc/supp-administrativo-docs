@@ -4,7 +4,7 @@ Template é um modelo que poderá ser utilizado na elaboração de documen
 
 É um documento de conteúdo, com apresentação visual (cabeçalho por exemplo) e poderá conter instruções sobre onde e qual tipo de conteúdo deve ser utilizado na construção do documento. 
 
-Todo Template ficará associado a pelo menos um tipo de documento. 
+Todo Template ficará associado a pelo menos um tipo de documento, assim sendo, é preciso realizar cadastro dos tipos de documentos. Maiores informações sobre cadastro de tipos de documentos, [clique aqui](configuraçao/Especies_de_Documentos.md)
 
 O cadastro dos Templates poderá ser realizado pelo Administrador do Super.br. 
  
@@ -37,10 +37,10 @@ O cadastro dos Templates poderá ser realizado pelo Administrador do Super.br.
 
 ## Como Cadastrar um Template 
  
-1. Para criação de um novo Template no Super.BR, o usuário deverá acessar o Menu “Templates”, existente na visão Administrador, e clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> , localizado na parte superior esquerda da tela. 
+01\. Para criação de um novo Template no Super.BR, o usuário deverá acessar o Menu “Templates”, existente na visão Administrador, e clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> , localizado na parte superior esquerda da tela. 
  
 
-2. Em seguida, deverá preencher os campos disponíveis no formulário de cadastro.
+02\. Em seguida, deverá preencher os campos disponíveis no formulário de cadastro.
 
 ```{note}
 Nota: Todos os campos marcados com * são de preenchimento obrigatório. 
@@ -63,7 +63,7 @@ Nota: Os campos “Nome” e “Descrição” são de livre preenchimento, com 
 
 * **Ativo:** Flag que indicará se o Template está disponível para uso ou não. Caso esteja marcada estará ativa e disponível. Caso contrário, estará inativa e indisponível no cadastro de setores. 
  
-3. Após o cadastro do Template, o usuário poderá editar a mascará do template criado, por meio do botão “Editar Conteúdo”;
+03\. Após o cadastro do Template, o usuário poderá editar a mascará do template criado, por meio do botão “Editar Conteúdo”;
 
 Nesta opção será possível criar/editar o modelo de documento relacionado ao Template criado. 
 
