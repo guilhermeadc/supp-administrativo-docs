@@ -32,9 +32,9 @@ Essa funcionalidade será utilizada primordialmente para ajuste de possíveis er
 
 ## Como Cadastrar um Município 
 
-Para cadastrar um Município no SUPER.BR, o usuário deverá acessar o Menu “Municípios”, existente na visão Administrador, e clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" />  , localizado na parte superior esquerda da tela.
+01\. Para cadastrar um Município no SUPER.BR, o usuário deverá acessar o Menu “Municípios”, existente na visão Administrador, e clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" />  , localizado na parte superior esquerda da tela.
 
-Em seguida, deverão ser preenchidos os campos disponíveis no formulário de cadastro.
+02\.Em seguida, deverão ser preenchidos os campos disponíveis no formulário de cadastro.
 
  
 ```{Note} 
@@ -54,4 +54,6 @@ Nota: Todos os campos marcados com * são de preenchimento obrigatório.
 
 Caso esteja marcada estará ativa e disponível. Caso contrário, estará inativa e indisponível. 
 
- 
+03\.Clicar em Salvar
+
+Pronto, o seu Município está cadastrado. Após esse cadastro, está habilitado para essa informação nos processos.
