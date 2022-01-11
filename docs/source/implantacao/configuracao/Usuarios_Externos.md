@@ -20,7 +20,12 @@ Verificar a atualização do link:
 
 2\. Clicar no “Criar uma conta”; 
 
-3\. Preencher todos os campos requeridos: 
+3\. Preencher todos os campos requeridos:
+
+
+![Usuário Externo - Tela Principal](../../_static/images/Usuário Externo - Tela do Formulário .png)
+<p style="text-align: center;"> Figura 1 – Tela de Formulário de Usuários Externos</p>
+
 
 **Nome:** Campo obrigatório, destinado ao preenchimento do nome do Usuário Externo; 
 
@@ -42,21 +47,18 @@ Verificar a atualização do link:
 Pronto, o Usuário Externo está criado.
 O Administrador do Super.BR já poderá acessar, editar e limitar as concessões que o Usuário Externo poderá exercer dentro do Super.BR, como se pode verificar adiante.
  
-
- 
-
 ## Tela de Usuário Externo
-
 
 Após a criação do Usuário Externo, o Administrador do Sistema poderá ter acesso à tela de Usuários Externos criados e realizar comandos de gestão. 
 
 
 ![Usuário Externo - Tela Principal](../../_static/images/Usuário Externo - Tela Principal.png)
 
-Figura 3 – Tela de Usuários Externos do Super.BR 
+<p style="text-align: center;"> Figura 2 – Tela de Usuários Externos Cadastrados no Super.BR</p>
 
 
-Seguem indicadores dos botões na Tela de Usuários (Figura 3):
+
+Seguem indicadores dos botões na Tela de Usuários (Figura 2):
 
 1) Colunas. Por esta opção será possível gerenciar as colunas que serão disponibilizadas na tela; 
 
@@ -70,7 +72,7 @@ Seguem indicadores dos botões na Tela de Usuários (Figura 3):
 
 6) Opção permite configurar a quantidade de registros a serem mostrados em tela.
 
-7) Tarja indica a quantidade de páginas relacionadas a consulta em tela. A navegação entre as páginas poderá ser feita por meio do uso das setas disponíveis
+7) Tarja indica a quantidade de páginas relacionadas a consulta em tela. A navegação entre as páginas poderá ser feita por meio do uso das setas disponíveis.
 
 
 

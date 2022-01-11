@@ -5,18 +5,20 @@ Definição de Usuário pode ser de uma pessoa que utiliza um Sistema de Informa
 
 O acesso e utilização do sistema é feita por meio de Login (CPF do Usuário) e uma senha. 
 
-<<<<<<< HEAD
+
 ![Usuários - Tela de Login Super](../../_static/images/Usuários - Tela de Login Super.png)
 
-Figura 1 – Tela de Acesso do Usuário do Super.BR
+
+<p style="text-align: center;"> Figura 1 – Tela de Acesso do Usuário do Super.BR </p> 
 
 
 A criação do Usuário, bem como a permissão de acesso e senha é concedida pelo Administrador do Super.BR, cujo procedimento será detalhado a seguir. É necessário também reforçar a importância de realizar o cadastro de [Pessoas](configuraçao/Pessoas.md) antes de realizar o cadastro de Usuário.
   
-=======
+
+
 <img src="../../_static/images/Usuários - Tela de Login Super.png"/>
-Figura 1 – Tela de Login SUPP
->>>>>>> 10c2d9132b841953869255b0c5b3782306791612
+ </p> 
+<p style="text-align: center;"> Figura 2 – Tela de Login SUPP</p> 
 
 ## Níveis de Acesso/Perfis e Privilégios 
 
@@ -134,20 +136,16 @@ Com o perfil de Administrador, a tela Usuários permite visualizar os Usuários 
 
  
 
-<<<<<<< HEAD
 ![Usuários - Tela principal](../../_static/images/Usuários - Tela principal.png)
 
-Figura 2 – Tela de Usuários do Super.BR 
-=======
-<img src="../../_static/images/Usuários - Tela principal.png"/>
-<p style="text-align: center;">Figura 2 – Tela de Usuários SUPP</p> 
->>>>>>> 10c2d9132b841953869255b0c5b3782306791612
+
+<p style="text-align: center;">Figura 3 – Tela de Usuários SUPP</p> 
 
  
 
  
 
-Seguem indicadores dos botões na Tela de Usuários (Figura 2): 
+Seguem indicadores dos botões na Tela de Usuários (Figura 3): 
 
 1) Criar um registro de novo Usuário 
 
@@ -185,6 +183,11 @@ Feito isso, para criar um novo usuário, o Administrador de Sistemas deve seguir
 
 01\. Acessar o menu de Usuários e clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> localizado na parte superior esquerda da tela; 
 
+
+
+
+
+
 02\. Em seguida, deverá preencher os campos disponíveis no formulário com as informações referentes ao Usuário a ser cadastrado; 
 
 ```{note}
@@ -195,7 +198,11 @@ Nota: Todos os campos marcados com * são de preenchimento obrigatório.
 
  
 
-- Tela de Usuário: 
+- Tela de Usuário:
+
+
+![Usuários - Formulário Tela Usuário](../../_static/images/Usuários - Formulário Tela Usuário.png)
+<p style="text-align: center;"> Figura 4 – Tela de Formulário do Usuário do Super.BR </p> 
 
 **Nome:** Campo obrigatório, destinado ao preenchimento do nome do Usuário;  
 
@@ -215,6 +222,12 @@ Erro: O Super.BR apresenta números negativos para esses níveis de acesso
 
 
 04\. Após salvar novamente, a Tela de Colaborador é habilitada com novos campos:  
+
+
+![Usuários - Formulário Tela Colaborador](../../_static/images/Usuários - Formulário Tela Colaborador.png)
+<p style="text-align: center;"> Figura 5 – Tela do Formulário do Colaborador do Super.BR </p> 
+
+
 
 **Modalidade:** Campo obrigatório, destinado à modalidade que o usuário lhe é atribuída (Membro, Servidor, Estagiário, Terceirizado); 
 

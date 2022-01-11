@@ -4,6 +4,9 @@
 
 ·   As espécies cadastradas estarão disponíveis para seleção durante o cadastro de um processo no SUPER.br.
 
+·   Necessário também reforçar a importância de realizar o cadastro de [Classificações](configuraçao/Classificacoes.md) antes de realizar o cadastro de Espécie de processos.
+
+
 ### Tela Espécies de Processos No SUPER.br
 
 <img src="../../_static/images/Especies_Processos - Tela principal.png"/>
@@ -27,10 +30,10 @@
 
 ### Como Cadastrar uma Espécie de Processo
 
-1. Para criação de uma nova Espécie de Processo no Super.BR, o usuário deverá acessar o Menu “Espécies de Processos”, existente na visão Administrador, e clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom:50%;" />  , localizado na parte superior esquerda da tela.
+01/. Para criação de uma nova Espécie de Processo no Super.BR, o usuário deverá acessar o Menu “Espécies de Processos”, existente na visão Administrador, e clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom:50%;" />  , localizado na parte superior esquerda da tela.
 
 
-2. Em seguida, deverá preencher os campos disponíveis no formulário de cadastro de espécie de Processo.
+02/. Em seguida, deverá preencher os campos disponíveis no formulário de cadastro de espécie de Processo.
  
 ```{note}
 Nota:  Todos os campos marcados com * são de preenchimento obrigatório.
@@ -55,7 +58,7 @@ Nota: Os campos “Nome” e “Descrição” são de livre preenchimento, com 
 ```{waring}
 Dúvida: Onde cadastramos os gêneros a serem disponibilizados neste campo? O gênero tem ligação com o módulo utilizado no Super?
 ```
-* **Classificação Processo:** campo opcional destinado a classificação da Gestão Arquivística dos documentos e informações relacionados à espécie de processo. Essa classificação define o tempo de guarda e os períodos de Temporalidade e Destinação.
+* **Classificação Processo:** campo opcional destinado a classificação da Gestão Arquivística dos documentos e informações relacionados à espécie de processo. Essa classificação define o tempo de guarda e os períodos de Temporalidade e Destinação. Veja como cadastrar uma nova  classificação [clicando aqui](configuraçao/Classificacoes.md).
 
 ```{waring}
 Ponto de Atenção: Verificar se o campo classificação é obrigatório na criação de um processo. Caso não seja, sugerir que o campo classificação do processo desta tela seja obrigatório.
@@ -72,3 +75,8 @@ Nota: Os campos Título, Modalidade Meio e Classificação Processo preenchidos 
 ```
 * **Ativo:** Flag que indicará se a espécie está disponível para uso no cadastro de setores ou não. 
 Caso esteja marcada estará ativa e disponível. Caso contrário, estará inativa e indisponível no cadastro de setores.
+Espécies de Processos Ativos são aqueles que se encontram válidos, disponíveis e em uso para especificar os tipos de processos. 
+
+03/. Clicar em Salvar.
+
+Pronto, a Espécie de Processos está criada e pronta para ser utilizada na Criação de Workflows. Para entender melhor sobre a criação de Workflows, [clique aqui](configuraçao/Workflow.md).

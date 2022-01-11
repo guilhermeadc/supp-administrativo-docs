@@ -10,7 +10,7 @@ Com o perfil de Administrador, a tela de Cargos permite visualizar os Cargos cad
 
 ![Cargos - Tela principal](../../_static/images/Cargos - Tela principal.png)
 
-Figura 1 – Tela de Cargos do Super.BR
+<p style="text-align: center;"> Figura 1 – Tela de Cargos do Super.BR </p> 
 
 Seguem indicadores dos botões na Tela de Cargos (Figura 1):
 
@@ -42,6 +42,12 @@ Para criar um novo Cargo, o usuário com perfil de Administrador de Sistemas dev
 Nota: Todos os campos marcados com * são de preenchimento obrigatório.
 ```
 
+![Cargos - Tela principal](../../_static/images/Cargos - Tela do Formulário.png)
+
+<p style="text-align: center;"> Figura 1 – Tela do Formulário</p>
+
+
+
 **Ativo:** Flag que indica se o Cargo está Ativo ou Inativo. Cargo Ativo indica se aquele cargo ainda é existente e funcional dentro do Órgão.
 
 **Nome:** Campo obrigatório, destinado ao preenchimento do nome do Cargo;
@@ -50,4 +56,4 @@ Nota: Todos os campos marcados com * são de preenchimento obrigatório.
 
 3\.	Clicar em “Salvar”.
 
-Após criação do novo Cargo, ele ficará disponível para utilização no cadastro de [Usuários](configuraçao/Usuários.md)., na tela de Colaborador. 
+Após criação do novo Cargo, ele ficará disponível para utilização no cadastro de [Usuários](configuraçao/Usuários.md), na tela de Colaborador. 
