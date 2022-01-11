@@ -4,7 +4,9 @@ A opção Espécie de Setor destina-se ao cadastro de categorias/tipos que quali
 
 As espécies cadastradas estarão disponíveis para seleção na visão de cadastro de setores de uma unidade. 
 
-As espécies “Protocolo” e “Arquivo” estão disponíveis por padrão na ferramenta e não poderão ser editados ou excluídos, tendo em vista que estas espécies fazem parte da estrutura básica de uma Unidade. Todo Unidade nasce automaticamente com um setor de protocolo e um setor de arquivo. 
+As espécies “Protocolo” e “Arquivo” estão disponíveis por padrão na ferramenta e não poderão ser editados ou excluídos, tendo em vista que estas espécies fazem parte da estrutura básica de uma Unidade. Todo Unidade nasce automaticamente com um setor de protocolo e um setor de arquivo.
+
+
  
 
 ## Tela Espécies de Setores No SUPER.br 
@@ -41,15 +43,19 @@ As espécies “Protocolo” e “Arquivo” estão disponíveis por padrão na 
 ## Como Cadastrar uma Espécie de Setor 
 
 
-1. Para criação de uma nova Espécie de Setor no Super.BR, o usuário deverá acessar o Menu “Espécie de Setores”, existente na visão Administrador, e clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" style="zoom: 50%;"/>, localizado na parte superior esquerda da tela;
+01\. Para criação de uma nova Espécie de Setor no Super.BR, o usuário deverá acessar o Menu “Espécie de Setores”, existente na visão Administrador, e clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" style="zoom: 50%;"/>, localizado na parte superior esquerda da tela;
 
 
-2. Em seguida, deverá preencher os campos disponíveis no formulário de cadastro de espécie de setor.
+02\. Em seguida, deverá preencher os campos disponíveis no formulário de cadastro de espécie de setor.
 
  
 ````{note}
 Nota: Todos os campos marcados com * são de preenchimento obrigatório. 
 ````
+
+![Espécie de Setores - Tela de Cadastro](../../_static/images/Espécie de Setores - Tela de Cadastro.png)
+
+<p style="text-align: center;"> Figura 2 - Tela de Cadastro: Espécie de Setores</p> 
 
  
 ```{warning}
@@ -77,4 +83,13 @@ Dúvida: Onde cadastramos os gêneros a serem disponibilizados neste campo? O g�
  
 
 **Ativo**: Flag que indicará se a espécie está disponível para uso no cadastro de setores ou não.  
-Caso esteja marcada estará ativa e disponível. Caso contrário, estará inativa e indisponível no cadastro de setores. 
+Caso esteja marcada estará ativa e disponível. Caso contrário, estará inativa e indisponível no cadastro de setores.
+Espécies de Setores ativos são aqueles que se encontram válidos, disponíveis e em uso para especificar os tipos de setores.
+
+
+
+03\. Clicar em Salvar
+
+Pronto, a Espécie de Setores está criada. Após essa criação, está habilitado a seguir os próximos passos da Configuração Inicial do Super.BR. 
+
+É sugerido continuar com a criação de [Setores](configuraçao/Setor.md).
