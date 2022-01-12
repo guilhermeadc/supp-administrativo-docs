@@ -1,7 +1,7 @@
 # Avisos
 
 
-Aviso é uma forma de comunicação que o Super.BR faz aos seus Usuários. Essas comunicações aparecem na caixa de Avisos no Painel dos Usuários e podem ser direcionadas aos grupos competentes de cada nível hierárquico do Super (Órgão, Unidade ou Setor) ou relacionados ao Sistema. Entre outros exemplos de avisos, temos atualização do sistema, novas funcionalidades, novos cadastros (áreas, documentos), facilitando e direcionando um melhor uso da ferramenta.
+Aviso é uma forma de comunicação que o Super.BR (por meio do Administrador e dos Coordenadores) faz aos seus Usuários. Essas comunicações aparecem na caixa de Avisos no Painel dos Usuários e podem ser direcionadas aos grupos competentes de cada nível hierárquico do Super (Órgão, Unidade ou Setor) ou relacionados ao Sistema. Entre outros exemplos de avisos, temos atualização do sistema, novas funcionalidades, novos cadastros (áreas, documentos), novos processos para facilitar e direcionar o melhor uso da ferramenta.
  
 
 ## Tela de Avisos
@@ -36,9 +36,14 @@ Para criar novos avisos, os usuários com perfis de Administrador do Super.BR e 
 
 No caso do Administrador do Super.BR deve seguir os seguintes passos no Super.BR: 
 
-1. Acessar a tela  de Avisos (Menu Administrador > Avisos) e clicar no botão “Mais” <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> ,  localizado na parte superior esquerda da tela (indicado como 1 na Tela de Avisos); 
+01\. Acessar a tela  de Avisos (Menu Administrador > Avisos) e clicar no botão "Novo" <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> ,  localizado na parte superior esquerda da tela (indicado como 1 na Tela de Avisos); 
 
-2. Em seguida, deverá preencher os campos disponíveis no formulário com as informações referentes à Aviso a ser cadastrada; 
+02\. Em seguida, deverá preencher os campos disponíveis no formulário com as informações referentes à Aviso a ser cadastrada; 
+
+
+![Avisos - Tela de Cadastro](../../_static/images/Avisos - Tela de Cadastro.png)
+
+<p style="text-align: center;">Figura 3 – Quadro de Avisos (em vermelho) no Painel Principal</p> 
 
 ```{note}
 Nota: Todos os campos marcados com * são de preenchimento obrigatório. 
@@ -61,8 +66,14 @@ Nota: Todos os campos marcados com * são de preenchimento obrigatório.
 
 * **Ativo:** Flag que indica se a Aviso está Ativa ou Inativa. 
 
-Após criação do novo Aviso, ele ficará disponível para visualização no Quadro de Avisos. 
 
- 
+
+03\. Clicar em Salvar.
+
+Pronto, seu Aviso está cadastrado. Ele ficará disponível para visualização no Quadro de Avisos dos Usuários que o remetente direcionou. 
+
+![Avisos - Quadro de Avisos no Painel](../../_static/images/Avisos - Quadro de Avisos no Painel.png)
+
+<p style="text-align: center;">Figura 3 – Quadro de Avisos (em vermelho) no Painel Principal</p> 
 
 Para o caso do Usuário com perfil de Coordenador, [clique aqui](configuraçao/Avisos-Coord.md).
