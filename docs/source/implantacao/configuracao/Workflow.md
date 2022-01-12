@@ -24,16 +24,21 @@ O SUPER.br permite, ainda, executar mais de uma atividade para cada tarefa. No e
 Essa forma de organizar o trabalho possibilita a utilização de fluxos pré-definidos, ou seja, de sequências de tarefas e atividades estabelecidas previamente e associadas a um determinado tema, o que permitirá que o usuário se concentre na atividade de análise técnica e não precise se preocupar com qual documento deve ser inserido em um processo de determinado tipo ou para onde deve enviar determinado processo depois de realizar seu trabalho. 
 
 
-É uma boa prática ter cadastrado previamente os tipos de documentos, templates, espécies de processos, espécies de atividades e espécies de tarefas relacionadas ao Workflow a ser cadastrado. 
+É uma boa prática ter cadastrado previamente os tipos de documentos, templates, espécies de processos, espécies de atividades e espécies de tarefas relacionadas ao Workflow a ser cadastrado.
+
+
  
 
 ## Tela Workflow no SUPER.br
 
 
 <img src="../../_static/images/Workflow - Tela principal.png"/>
+<p style=""text-align: center;""> Figura 1 - Tela de Workflow </p>
 
 
 1) Novo. Utilizado para criar um Workflow; 
+
+
 
 
 2) Colunas. Por esta opção será possível gerenciar as colunas que serão disponibilizadas em tela; 
@@ -52,6 +57,7 @@ Essa forma de organizar o trabalho possibilita a utilização de fluxos pré-def
 
 
 <img src="../../_static/images/Workflow - Exemplo fluxo.png"/>
+<p style=""text-align: center;""> Figura 2 - Exemplo de Workflow </p>
 
 
 7) Transições – Opção de acesso ao cadastro das transições/fase do workflow;
@@ -72,10 +78,14 @@ Essa forma de organizar o trabalho possibilita a utilização de fluxos pré-def
 
 ### 1. Como Cadastrar um Workflow 
 
- 
+Para o Cadastro do Workflow, é necessário que já tenha sido cadastrado as [Classificações](configuraçao/Classificacoes.md), [Espécies de Atividades](configuraçao/Especies_de_Atividades.md), [Espécies de Processos](configuraçao/Especies_de_Processos.md) e [Espécies de Tarefas](configuraçao/Especies_de_Tarefas.md) 
+(Para maiores detalhamentos, clique nos respectivos links disponibilizados).
 
-1.1 Para criação de um Workflow no SUPER.br, o usuário deverá acessar o Menu “Workflow”, existente na visão Administrador, e clicar no botão “Novo” , localizado na parte superior esquerda da tela. 
- 
+
+
+1.1 Para criação de um Workflow no SUPER.br, o usuário deverá acessar o Menu “Workflow”, existente na visão Administrador, e clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png"alt="Botão de Inclusão (+)"style="zoom: 50%;"/> , localizado na parte superior esquerda da tela. 
+
+
 
 1.2 Em seguida, deverá preencher os campos disponíveis no formulário de cadastro, conforme orientações abaixo.  
 
@@ -84,6 +94,8 @@ Nota: Todos os campos marcados com * são de preenchimento obrigatório.
 ```
 
 <img src="../../_static/images/Assuntos - Tela com a Lista de Campos.png"/>
+<p style=""text-align: center;""> Figura 3 - Tela de Cadastro do Workflow</p>
+
 
 
 **Nome:** campo obrigatório para registro nome do Workflow em questão; 
@@ -101,7 +113,8 @@ Nota: Todos os campos marcados com * são de preenchimento obrigatório.
 
  
 <img src="../../_static/images/Workflow - Visualizar Espécie de processo.png"/>
- 
+
+<p style=""text-align: center;""> Figura 3 - Tela de Espécie de Processo </p> 
 
 Ao acessar a opção visualizar espécie de processo, poderá:  
 
@@ -121,7 +134,7 @@ Nota: As transições são a descrição da ordem lógica do Workflow desenhado 
 ```
  
 
-3.1 Para criar uma transição, o usuário deverá acessar o menu “Transições” <img src="../../_static/images/Botão de Transição.png" alt="Botão de Transição" style="zoom: 70%;" /> e em seguida clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> , localizado na parte superior esquerda da tela. 
+3.1 Para criar uma transição, o usuário deverá acessar o menu “Transições” <img src="../../_static/images/Botão de Transição.png" alt="Botão de Transição" style="zoom: 70%;" /> e em seguida clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> , localizado na parte superior esquerda da tela.
 
  
 **Espécie Atividade Lançada:** campo para registro da Atividade gerada nesta transição;  
@@ -135,7 +148,7 @@ Nota: As transições são a descrição da ordem lógica do Workflow desenhado 
 3.2 Após a criação da transição, ficará disponível ao usuário 4 novas opções para gerenciamento do registro criado. 
 
 <img src="../../_static/images/Workflow - Transições_opções em tela.png"/>
-
+<p style="text-align: center;"> Figura 4 - Tela de Transições de Processo </p> 
 
 1) Editar. Permite editar a transição cadastrada. 
 
@@ -145,7 +158,7 @@ Nota: As transições são a descrição da ordem lógica do Workflow desenhado 
 
 - Gera automaticamente um ofício na tarefa
 
-<img src="../../_static/images/Workflow - Transições_Opções_Ofício.png"/>
+<img src="../../_static/images/Workflow - Transições_Opções_Ofício.png"/><p style="text-align: center;"> Figura 5 - Tela de Ofício de Processo </p> 
 
 
 **COMPARTILHAMENTO**
@@ -153,6 +166,7 @@ Nota: As transições são a descrição da ordem lógica do Workflow desenhado 
 - Compartilha a tarefa entre usuários
 
 <img src="../../_static/images/Workflow - Transições_Opções_Compartilhamento.png"/>
+><p style="text-align: center;"> Figura 6 - Exemplo de Compartilhamento de Processos</p> 
 
 
 **DISTRIBUIÇÃO AUTOMÁTICA**
@@ -160,13 +174,13 @@ Nota: As transições são a descrição da ordem lógica do Workflow desenhado 
 - Distribui as tarefas de forma automática ou por responsável
 
 <img src="../../_static/images/Workflow - Transições_Opções_Distribuição automática.png"/>
-
+><p style="text-align: center;"> Figura 7 - Tela de Distribuição de Tarefa</p> 
 
 **MINUTA**
 
 Gera automaticamente uma minuta na tarefa de acordo com o modelo pré-selecionado 
 
-<img src="../../_static/images/Workflow - Transições_Opções_Minuta.png"/>
+<img src="../../_static/images/Workflow - Transições_Opções_Minuta.png"/>><p style="text-align: center;"> Figura 8 - Tela de Minuta de Processos</p> 
 
 
 3) Remover. Permite excluir o registro. 
@@ -177,25 +191,29 @@ Gera automaticamente uma minuta na tarefa de acordo com o modelo pré-selecionad
 **UNIDADE**
 
 <img src="../../_static/images/Workflow - Transições_Validações_Unidade.png"/>
-
+><p style="text-align: center;"> Figura 9 - ******** </p> 
 
 **ATRIBUIDO PARA**
 
 <img src="../../_static/images/Workflow - Transições_Validações_Atribuído para.png"/>
-
+><p style="text-align: center;"> Figura 10 - Tela de de Validação de Atribuição </p> 
  
 
 **CRIADO POR**
 
 <img src="../../_static/images/Workflow - Transições_Validações_Criado por.png"/>
-
+><p style="text-align: center;"> Figura 11 - Tela de de Validação de Criado por</p> 
  
 **SETOR DE ORIGEM**
 
 <img src="../../_static/images/Workflow - Transições_Validações_Setor de Origem.png"/>
-
+><p style="text-align: center;"> Figura 12 - Tela de Validação do Setor de Origem</p> 
  
 
 **TIPO DE DOCUMENTO**
 
 <img src="../../_static/images/Workflow - Transições_Validações_Tipo de Documento.png"/>
+><p style="text-align: center;"> Figura 13 - Tela de Validação do tipo de Documento</p> 
+
+
+Pronto, o seu Workflow está criado e pronto para ser utilizado. 
