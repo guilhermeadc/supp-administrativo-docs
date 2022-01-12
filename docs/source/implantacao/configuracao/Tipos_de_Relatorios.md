@@ -24,7 +24,9 @@ Opção permite que o usuário administrador cadastre ou edite os relatórios qu
 6) Editar o cadastro de Tipo de Relatório; 
 
 7) Visibilidade;
-```Dúvida: Para que serve este botão? Sempre que clico nele retorna uma mensagem de acesso negado.
+```
+Dúvida: Para que serve este botão?
+```
 
 8) Opção permite configurar a quantidade de registro a serem mostrados em tela;
 
@@ -34,9 +36,9 @@ Opção permite que o usuário administrador cadastre ou edite os relatórios qu
 
 ## Como Cadastrar um Tipo de Relatório
 
-Para criação de um Tipo de Relatório no SUPER.br, o usuário deverá acessar o Menu “Tipos de Relatório”, existente na visão Administrador, e clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" />, localizado na parte superior esquerda da tela. 
+01\. Para criação de um Tipo de Relatório no SUPER.br, o usuário deverá acessar o Menu “Tipos de Relatório”, existente na visão Administrador, e clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" />, localizado na parte superior esquerda da tela. 
  
-Em seguida, deverá preencher os campos disponíveis no formulário para o cadastro do Tipo de Relatório desejado.  
+02\. Em seguida, deverá preencher os campos disponíveis no formulário para o cadastro do Tipo de Relatório desejado.  
 
  
 ```{note}
@@ -80,10 +82,19 @@ Dúvida: Este campo é para registro do caminho ou modelo do relatório?
 * **Parâmetros:** campo obrigatório para indicação das colunas (campos) que serão disponibilizadas no relatório.    
 
 ```
-Essa explicação sobre o campo Parâmetros estava destacada no documento original (word) por algum motivo?
+Dúvida: Essa explicação sobre o campo Parâmetros estava destacada no documento original (word) por algum motivo?
 ```
 
 * **DQL:** campo obrigatório para registro do código da consulta a ser aplicada no relatório. 
 
 
-* **Ativo:** Flag que indicará se o Tipo de Relatório está disponível para uso ou não.Caso esteja marcada estará ativa e disponível. Caso contrário, estará inativa e indisponível. 
+* **Ativo:** Flag que indicará se o Tipo de Relatório está disponível para uso ou não. Caso esteja marcada estará ativa e disponível. Caso contrário, estará inativa e indisponível. 
+
+03\. Clicar em Salvar. 
+
+Pronto, o novo Tipo de Relatório está cadastrado.
+Ele poderá ser utilizado para a a Criação de Relatórios no Super.BR. A criação de Relatórios pode ser vista [clicando aqui](configuraçao/Criar Relatório.md).
+
+```{warning}
+Documentação de Criação de Relatórios ainda não elaborada.
+```
