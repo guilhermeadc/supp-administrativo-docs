@@ -4,7 +4,7 @@ Após a realização da coleta de informações, contexto e forma de trabalho da
 
 As configurações da base SUPP serão realizadas pelo usuário com perfil de Administração do Sistema.
 
-Os tópicos de configuração do sistema estão disponíveis abaixo para conhecimento. O detalhamento de cada um destes itens poderá ser acessado por meio de *click* em cada topico.
+Os tópicos de configuração do sistema estão disponíveis abaixo, para conhecimento. O detalhamento de cada um destes itens poderá ser acessado por meio de *click* no tema desejado ou pela menu de acesso lateral.
 
 
 * [Assuntos](https://supp-administrativo-docs-dfhkdiush.readthedocs.io/pt_BR/latest/implantacao/configuracao/Assuntos.html)
