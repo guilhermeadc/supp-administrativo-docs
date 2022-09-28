@@ -23,32 +23,29 @@ Dúvida: Onde levantar o código arquivístico?
 
 1) Novo. Utilizado para criar um registro de Classificação;
 
-2) Aba Lista. Visão em lista dos cadastros de Classificação;
+2) Colunas. Por esta opção será possível gerenciar as colunas que serão disponibilizadas na tela;
 
-3) Aba Árvore: Visão que demonstra a árvore de associações entre as Classificações cadastrados;
+3) Recarregar. Opção permite a atualização dos registros apresentados em tela; 
 
-4) Colunas. Por esta opção será possível gerenciar as colunas que serão disponibilizadas na tela;
+4) Filtro. Opção possibilita filtrar um intervalo de dados com base em critérios definidos;
 
-5) Recarregar. Opção permite a atualização dos registros apresentados em tela; 
+5) Mostrar Inativos. Permite configura a visão da tela para mostrar, também, registros inativos;
 
-6) Filtro. Opção possibilita filtrar um intervalo de dados com base em critérios definidos;
+6) Editar o cadastro de uma Classificação;
 
-7) Mostrar Inativos. Permite configura a visão da tela para mostrar, também, registros inativos;
+7) Acessos.
 
-8) Editar o cadastro de uma Classificação;
+8) Remover. Opção permite à exclusão do registro.
 
-9) Acessos.
+9) Opção permite configurar a quantidade de registro a serem mostrados em tela;
 
-10) Opção permite configurar a quantidade de registro a serem mostrados em tela;
-
-11) Tarja indica a quantidade de páginas relacionadas a consulta em tela. A navegação entre as páginas poderá ser feita por meio do uso das setas disponíveis. 
+10) Tarja indica a quantidade de páginas relacionadas a consulta em tela. A navegação entre as páginas poderá ser feita por meio do uso das setas disponíveis. 
 
 
 ```{comm}
 Dúvida: Para que serve esta funcionalidade? Quando tento acessá-la fica com carregamento infinito;
 ```
 
-12) Remover. Opção permite à exclusão do registro.
 
 ```{Note}
 Nota: Ao editar um registro de classificação, o botão Histórico, existente do lado direito de cada campo, ficará disponível para visualização do histórico de alterações do campo, indicando quando o conteúdo foi alterado e quem o alterou.
@@ -118,4 +115,8 @@ Nota:O preenchimento dos campos seguirá os mesmos critérios indicados no item 
 ```
 
 <img src="../../_static/images/Classificações - Tela aba árvore - campos para cadastro.png"/>
+<<<<<<< Updated upstream
 <p style="text-align: center;">Figura 3 – Tela de Cadastro, Visão em Árvore SUPP</p>
+=======
+<p style="text-align: center;">Figura 2 – Tela de Cadastro, Visão em Árvore SUPP</p>
+>>>>>>> Stashed changes

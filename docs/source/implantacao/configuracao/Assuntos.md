@@ -17,7 +17,11 @@ O usuário com perfil de Administrador SUPER.br terá as autorizações necessá
 
 2) Aba Lista. Visão em lista dos cadastros de Assuntos;
 
+<<<<<<< Updated upstream
 3) Aba Árvore: Visão que demonstra a árvore de associações entre os Assuntos cadastrados. Por este caminho será possível cadastrar um assunto vinculado hierarquicamente a outro já cadastrado;
+=======
+3) Aba Árvore: Visão que demonstra a árvore de associações entre os Assuntos cadastrados. Por este caminho é possível editar os assuntos cadastrados;
+>>>>>>> Stashed changes
 
 4) Colunas. Por esta opção será possível gerenciar as colunas que serão disponibilizadas na tela;
 

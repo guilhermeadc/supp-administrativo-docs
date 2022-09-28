@@ -26,9 +26,11 @@ Seguem indicadores dos botões na Tela de Aviso:
 
 6. Editar o cadastro de um Aviso;
 
-7. Opção permite configurar a quantidade de registro a serem mostrados em tela;
+7. Remover o cadastro de um aviso;
 
-8. Tarja indica a quantidade de páginas relacionadas a consulta em tela. A navegação entre as páginas poderá ser feita por meio do uso das setas disponíveis. 
+8. Opção permite configurar a quantidade de registro a serem mostrados em tela;
+
+9. Tarja indica a quantidade de páginas relacionadas a consulta em tela. A navegação entre as páginas poderá ser feita por meio do uso das setas disponíveis. 
 
 ## Como Criar umo novo Aviso no Super.BR 
 
