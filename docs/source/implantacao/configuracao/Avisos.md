@@ -79,6 +79,3 @@ Pronto, seu Aviso está cadastrado. Ele ficará disponível para visualização 
 <p style="text-align: center;">Figura 3 – Quadro de Avisos (em vermelho) no Painel Principal</p> 
 
 Para o caso do Usuário com perfil de Coordenador, [clique aqui](configuraçao/Avisos-Coord.md).
-
-
-Teste Monica
