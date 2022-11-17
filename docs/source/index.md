@@ -7,6 +7,7 @@
 visao_geral
 implantacao/index
 examples
+manual
 ```
 
 ## Indices and tables
