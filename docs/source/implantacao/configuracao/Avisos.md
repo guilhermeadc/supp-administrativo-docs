@@ -10,7 +10,7 @@ Com o perfil de Administrador ou de Coordenador, a tela de Avisos permite visual
 
 
 <img src="../../_static/images/Avisos - Tela Principal.png"/>
-<p style="text-align: center;">Figura 1 – Tela de Avisos SUPP</p> 
+<p style="text-align: center;">Figura 1 – Tela de Avisos SUPER.GOV.BR 2.0</p> 
 
 Seguem indicadores dos botões na Tela de Aviso:
 
