@@ -1,7 +1,7 @@
 # Avisos
 
 
-Aviso é uma forma de comunicação que o Super.BR (por meio do Administrador e dos Coordenadores) faz aos seus Usuários. Essas comunicações aparecem na caixa de Avisos no Painel dos Usuários e podem ser direcionadas aos grupos competentes de cada nível hierárquico do Super (Órgão, Unidade ou Setor) ou relacionados ao Sistema. Entre outros exemplos de avisos, temos atualização do sistema, novas funcionalidades, novos cadastros (áreas, documentos), novos processos para facilitar e direcionar o melhor uso da ferramenta.
+Aviso é uma forma de comunicação que o SUPER.GOV.BR 2.0 (por meio do Administrador e dos Coordenadores) faz aos seus Usuários. Essas comunicações aparecem na caixa de Avisos no Painel dos Usuários e podem ser direcionadas aos grupos competentes de cada nível hierárquico do Super (Órgão, Unidade ou Setor) ou relacionados ao Sistema. Entre outros exemplos de avisos, temos atualização do sistema, novas funcionalidades, novos cadastros (áreas, documentos), novos processos para facilitar e direcionar o melhor uso da ferramenta.
  
 
 ## Tela de Avisos
@@ -32,11 +32,11 @@ Seguem indicadores dos botões na Tela de Aviso:
 
 9. Tarja indica a quantidade de páginas relacionadas a consulta em tela. A navegação entre as páginas poderá ser feita por meio do uso das setas disponíveis. 
 
-## Como Criar umo novo Aviso no Super.BR 
+## Como Criar umo novo Aviso no SUPER.GOV.BR 2.0 
 
-Para criar novos avisos, os usuários com perfis de Administrador do Super.BR e o de Coordenador são habilitados para essa função. 
+Para criar novos avisos, os usuários com perfis de Administrador do SUPER.GOV.BR 2.0 e o de Coordenador são habilitados para essa função. 
 
-No caso do Administrador do Super.BR deve seguir os seguintes passos no Super.BR: 
+No caso do Administrador do SUPER.GOV.BR 2.0 deve seguir os seguintes passos no SUPER.GOV.BR 2.0: 
 
 01\. Acessar a tela  de Avisos (Menu Administrador > Avisos) e clicar no botão "Novo" <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> ,  localizado na parte superior esquerda da tela (indicado como 1 na Tela de Avisos); 
 
