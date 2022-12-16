@@ -42,7 +42,7 @@ Nota: Todos os campos marcados com * (asterísco) são de preenchimento obrigat�
 ```
 
 <img src="../../_static/images/Assuntos - Tela com a Lista de Campos.png"/>
-<p style="text-align: center;">Figura 2 – Tela de Cadastro de Assuntos SUPP</p>
+<p style="text-align: center;">Figura 2 – Tela de Cadastro de Assuntos SUPER.GOV.BR 2.0</p>
 
 * **Nome:** campo obrigatório para registro nome do Assunto em questão;
 
@@ -71,7 +71,7 @@ Pronto, o seu Assunto está cadastrado. Após essa criação, os processos proto
 
 
 <img src="../../_static/images/Assuntos - Tela aba árvore.png"/>
-<p style="text-align: center;">Figura 3 – Tela de Assuntos - Aba Árvore SUPP</p> 
+<p style="text-align: center;">Figura 3 – Tela de Assuntos - Aba Árvore SUPER.GOV.BR 2.0</p> 
 
 1) Botão para maximizar a árvore de assuntos.
 
@@ -84,4 +84,4 @@ Pronto, o seu Assunto está cadastrado. Após essa criação, os processos proto
 * Este botão ficará disponível em todos os níveis da árvore de assuntos.
 
 <img src="../../_static/images/Assuntos - Tela aba árvore - campos para cadastro.png"/>
-<p style="text-align: center;">Figura 4 – Tela de Assuntos - Aba Árvore - Cadastro de Assuntos SUPP</p> 
+<p style="text-align: center;">Figura 4 – Tela de Assuntos - Aba Árvore - Cadastro de Assuntos SUPER.GOV.BR 2.0</p> 
