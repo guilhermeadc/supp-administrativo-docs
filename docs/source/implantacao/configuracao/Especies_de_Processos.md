@@ -1,16 +1,16 @@
 # Espécies de Processos
 
-·   A opção Espécies de Processos destina-se ao cadastro de categorias/tipos que qualificarão os processos que irão tramitar por meio do SUPER.br.
+·   A opção Espécies de Processos destina-se ao cadastro de categorias/tipos que qualificarão os processos que irão tramitar por meio do SUPER.GOV.BR 2.0.
 
-·   As espécies cadastradas estarão disponíveis para seleção durante o cadastro de um processo no SUPER.br.
+·   As espécies cadastradas estarão disponíveis para seleção durante o cadastro de um processo no SUPER.GOV.BR 2.0.
 
 ·   Necessário também reforçar a importância de realizar o cadastro de [Classificações](configuraçao/Classificacoes.md) antes de realizar o cadastro de Espécie de processos.
 
 
-### Tela Espécies de Processos No SUPER.br
+### Tela Espécies de Processos No SUPER.GOV.BR 2.0
 
 <img src="../../_static/images/Especies_Processos - Tela principal.png"/>
-<p style="text-align: center;">Figura 1 – Tela Espécies de Processos SUPP</p>
+<p style="text-align: center;">Figura 1 – Tela Espécies de Processos SUPER.GOV.BR 2.0</p>
 
 1) Novo. Utilizado para criar um registro de Espécie de Processo;
 
@@ -30,7 +30,7 @@
 
 ### Como Cadastrar uma Espécie de Processo
 
-01/. Para criação de uma nova Espécie de Processo no Super.BR, o usuário deverá acessar o Menu “Espécies de Processos”, existente na visão Administrador, e clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom:50%;" />  , localizado na parte superior esquerda da tela.
+01/. Para criação de uma nova Espécie de Processo no SUPER.GOV.BR 2.0, o usuário deverá acessar o Menu “Espécies de Processos”, existente na visão Administrador, e clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom:50%;" />  , localizado na parte superior esquerda da tela.
 
 
 02/. Em seguida, deverá preencher os campos disponíveis no formulário de cadastro de espécie de Processo.
@@ -40,7 +40,7 @@ Nota:  Todos os campos marcados com * são de preenchimento obrigatório.
 ```
 
 <img src="../../_static/images/Especies_Processos - Tela aba árvore - campos para cadastro.png"/>
-<p style="text-align: center;">Figura 2 – Tela de Cadastro de Espécie de Processo SUPP</p> 
+<p style="text-align: center;">Figura 2 – Tela de Cadastro de Espécie de Processo SUPER.GOV.BR 2.0</p> 
 
 
 ```{waring}
