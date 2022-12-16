@@ -20,7 +20,7 @@ Com o perfil de Administrador, a tela de Tipos de Documentos permite visualizar 
  
 
 <img src="../../_static/images/Tipos de Documentos - Tela Principal.png"/>
-<p style="text-align: center;">Figura 1 – Tela de Tipo de Documentos SUPP</p> 
+<p style="text-align: center;">Figura 1 – Tela de Tipo de Documentos SUPER.GOV.BR 2.0</p> 
 
 Seguem indicadores dos botões na Tela de Usuários: 
 
@@ -46,7 +46,7 @@ Seguem indicadores dos botões na Tela de Usuários:
 Além dos tipos de Documentos já descritos anteriormente, faz se necessária a criação de novos tipos de documentos, de acordo com as necessidades do Órgão. 
 
 <img src="../../_static/images/Tipos de Documentos - Tela de cadastro.png"/>
-<p style="text-align: center;">Figura 2 – Tela de Cadastro de Tipo de Documentos SUPP</p>
+<p style="text-align: center;">Figura 2 – Tela de Cadastro de Tipo de Documentos SUPER.GOV.BR 2.0</p>
 
 01\. Para criação de um novo tipo de Documento no SUPER.GOV.BR 2.0, o usuário com perfil de Administrador do Sistema deverá acessar o Menu Administrador > Tipos de Documentos e clicar no botão <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> no canto superior esquerdo da lista de tipos de documentos. 
 
