@@ -103,22 +103,22 @@ Homologação: https://homolog.gestopen.processoeletronico.gov.br/
 Produção: https://gestopen.processoeletronico.gov.br/ 
 
  
-Para garantir o correto funcionamento do Barramento de Serviços, será necessário realizar a confirmação/execução de parametrizações no SUPER.br. São elas: 
+Para garantir o correto funcionamento do Barramento de Serviços, será necessário realizar a confirmação/execução de parametrizações no SUPER.GOV.BR 2.0. São elas: 
 
 
-* Para que seja possível o recebimento de processos por Unidades previamente cadastradas no barramento de serviços, é necessário que a sigla da Unidade cadastrada no SUPER.br seja a mesma sigla habilitada no Barramento de Serviços.
+* Para que seja possível o recebimento de processos por Unidades previamente cadastradas no barramento de serviços, é necessário que a sigla da Unidade cadastrada no SUPER.GOV.BR 2.0 seja a mesma sigla habilitada no Barramento de Serviços.
 
  
 * Para visualizar as siglas previamente habilitadas no Barramento de Serviços, acesse a página de cadastro do Comitê Gestor de Protocolo da sua instituição.
 
  
-A visualização das siglas cadastradas no menu Unidades do SUPER.br poderá ser realizado pelo usuário com perfil Administrador, por meio do caminho: Administrador > Unidades. 
+A visualização das siglas cadastradas no menu Unidades do SUPER.GOV.BR 2.0 poderá ser realizado pelo usuário com perfil Administrador, por meio do caminho: Administrador > Unidades. 
 
  
 Maiores informações relacionadas ao menu Unidades poderão ser acessadas na seção Unidades. (link) 
 
  
-Para envio de processo via Barramento de Serviços é necessário que as Unidades Externas estejam previamente cadastradas como contatos no SUPER.br. 
+Para envio de processo via Barramento de Serviços é necessário que as Unidades Externas estejam previamente cadastradas como contatos no SUPER.GOV.BR 2.0. 
 
 
 O cadastramento de contatos deverá ser feito pelo usuário com o perfil Administrador por meio do menu: Administrador > Pessoas. (link para a seção)
