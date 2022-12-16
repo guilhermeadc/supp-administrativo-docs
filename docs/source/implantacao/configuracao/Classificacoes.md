@@ -1,6 +1,6 @@
 # Classificações
 
-O registro de Classificação é algo primordial no SUPER.br pois está relacionado a Gestão Arquivística de documentos.
+O registro de Classificação é algo primordial no SUPER.GOV.BR 2.0 pois está relacionado a Gestão Arquivística de documentos.
 
  Gestão documental é o conjunto de procedimentos e operações técnicas referentes à produção, tramitação, uso, avaliação e arquivamento em fase corrente e intermediária, visando a sua eliminação ou recolhimento para guarda permanente.
 
@@ -8,7 +8,7 @@ O registro de Classificação é algo primordial no SUPER.br pois está relacion
 
  Os documentos na fase intermediária são aqueles cuja frequência de consulta é bem menor, mas que precisam ser mantidos sob guarda devido a questões administrativas, financeiras e legais que justificam a manutenção desse acervo.
 
- As classificações documentais definem o tempo de guarda e os períodos de Temporalidade e Destinação dos documentos e informações frutos dos fluxos tramitados no SUPER.br.
+ As classificações documentais definem o tempo de guarda e os períodos de Temporalidade e Destinação dos documentos e informações frutos dos fluxos tramitados no SUPER.GOV.BR 2.0.
 
  O “Código de classificação de documentos de arquivo para a administração pública: atividades-meio” e a “Tabela básica de temporalidade e destinação de documentos de arquivo relativos às atividades-meio da administração pública” aprovados pelo CONARQ são instrumentos fundamentais para a implementação da gestão arquivística de documentos e são utilizados pelo Sistema.
 
@@ -16,7 +16,7 @@ O registro de Classificação é algo primordial no SUPER.br pois está relacion
 Dúvida: Onde levantar o código arquivístico?
 ```
 
-## Tela Classificações no SUPER.br
+## Tela Classificações no SUPER.GOV.BR 2.0
 
 <img src="../../_static/images/Classificações - Tela Principal.png"/>
 <p style="text-align: center;">Figura 1 – Tela de Classificações SUPP</p>
