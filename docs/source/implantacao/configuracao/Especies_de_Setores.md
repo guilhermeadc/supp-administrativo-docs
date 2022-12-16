@@ -9,11 +9,11 @@ As espécies “Protocolo” e “Arquivo” estão disponíveis por padrão na 
 
  
 
-## Tela Espécies de Setores No SUPER.br 
+## Tela Espécies de Setores No SUPER.GOV.BR 2.0 
 
  
 <img src="../../_static/images/Espécies de Setores - Tela Principal.png"/>
-<p style="text-align: center;">Figura 1 – Tela Espécies de Setores SUPP</p>
+<p style="text-align: center;">Figura 1 – Tela Espécies de Setores SUPER.GOV.BR 2.0</p>
  
 
 1) Novo. Utilizado para criar um registro de Espécie de Setor; 
@@ -43,7 +43,7 @@ As espécies “Protocolo” e “Arquivo” estão disponíveis por padrão na 
 ## Como Cadastrar uma Espécie de Setor 
 
 
-01\. Para criação de uma nova Espécie de Setor no Super.BR, o usuário deverá acessar o Menu “Espécie de Setores”, existente na visão Administrador, e clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" style="zoom: 50%;"/>, localizado na parte superior esquerda da tela;
+01\. Para criação de uma nova Espécie de Setor no SUPER.GOV.BR 2.0, o usuário deverá acessar o Menu “Espécie de Setores”, existente na visão Administrador, e clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" style="zoom: 50%;"/>, localizado na parte superior esquerda da tela;
 
 
 02\. Em seguida, deverá preencher os campos disponíveis no formulário de cadastro de espécie de setor.
@@ -90,6 +90,6 @@ Espécies de Setores ativos são aqueles que se encontram válidos, disponíveis
 
 03\. Clicar em Salvar
 
-Pronto, a Espécie de Setores está criada. Após essa criação, está habilitado a seguir os próximos passos da Configuração Inicial do Super.BR. 
+Pronto, a Espécie de Setores está criada. Após essa criação, está habilitado a seguir os próximos passos da Configuração Inicial do SUPER.GOV.BR 2.0. 
 
 É sugerido continuar com a criação de [Setores](configuraçao/Setor.md).
