@@ -1,10 +1,10 @@
 # Preparação as Configurações do Sistema
 
-Estágio do projeto que haverá a preparação e levantamento prévio de todas as informações que serão configuradas no SUPER.br. Será realizado conforme os passo indicados abaixo: 
+Estágio do projeto que haverá a preparação e levantamento prévio de todas as informações que serão configuradas no SUPER.GOV.BR 2.0. Será realizado conforme os passo indicados abaixo: 
 
 ## Identificação dos fluxos de trabalho utilizados pelos setores que irão participar do projeto piloto
 
-Etapa de levantamento e entendimento dos processos de trabalho atuais da unidade a fim de verificar a melhor forma de configuração do SUPER.br para execução e suportar deste processos. 
+Etapa de levantamento e entendimento dos processos de trabalho atuais da unidade a fim de verificar a melhor forma de configuração do SUPER.GOV.BR 2.0 para execução e suportar deste processos. 
 
 ## Informações sobre órgão, unidades organizacionais, setores, coordenadores
 
@@ -18,9 +18,9 @@ Realização o levantamento de todos os modelos básicos das principais espécie
 
 ## Definição de espécie de processos e tarefas relacionadas
 
-Etapa em que serão colecionadas as espécies de processo finalístico da Instituição, bem como as suas tarefas, junto aos setores e sistema legado, servindo de base para a posterior configuração do SUPER.br. 
+Etapa em que serão colecionadas as espécies de processo finalístico da Instituição, bem como as suas tarefas, junto aos setores e sistema legado, servindo de base para a posterior configuração do SUPER.GOV.BR 2.0. 
 
-O SUPER.br está pré-configurado com as principais espécies de processos e tarefas comuns a todas as áreas governamentais (processos “meio”). 
+O SUPER.GOV.BR 2.0 está pré-configurado com as principais espécies de processos e tarefas comuns a todas as áreas governamentais (processos “meio”). 
 
 ## Tabelas de classificação arquivística e temporalidade
 
@@ -28,7 +28,7 @@ Fase em que será pesquisada a tabela de classificação arquivística e de temp
 
 ## Levantamento de fluxo de trabalho entre setores
 
-Momento em que serão Identificados os fluxos básicos de trabalho em que haja trocas de informações entre setores, servindo de referência para a configuração de fluxos de trabalho/workflow no SUPER.br. 
+Momento em que serão Identificados os fluxos básicos de trabalho em que haja trocas de informações entre setores, servindo de referência para a configuração de fluxos de trabalho/workflow no SUPER.GOV.BR 2.0. 
 
 ## Cadastro de contatos da instituição
 
