@@ -3,14 +3,14 @@
 
 O Cargo é uma classificação atribuída ao servidor-usuário de acordo com as suas funções e qualificações.
 
-Dentro do Super.BR, esse campo baliza o perfil de Usuário e confere reponsabilidades do meio. 
+Dentro do SUPER.GOV.BR 2.0, esse campo baliza o perfil de Usuário e confere reponsabilidades do meio. 
 
 ## Tela de Cargos
 Com o perfil de Administrador, a tela de Cargos permite visualizar os Cargos cadastrados no Sistema, além de editar os já existentes.
 
 ![Cargos - Tela principal](../../_static/images/Cargos - Tela principal.png)
 
-<p style="text-align: center;"> Figura 1 – Tela de Cargos do Super.BR </p> 
+<p style="text-align: center;"> Figura 1 – Tela de Cargos do SUPER.GOV.BR 2.0 </p> 
 
 Seguem indicadores dos botões na Tela de Cargos (Figura 1):
 
@@ -30,9 +30,9 @@ Seguem indicadores dos botões na Tela de Cargos (Figura 1):
 
 8)	Tarja indica a quantidade de páginas relacionadas a consulta em tela. A navegação entre as páginas poderá ser feita por meio do uso das setas disponíveis
 
-## Como Criar um novo Cargo no Super.BR
+## Como Criar um novo Cargo no SUPER.GOV.BR 2.0
 
-Para criar um novo Cargo, o usuário com perfil de Administrador de Sistemas deve seguir os seguintes passos  no Super.BR: 
+Para criar um novo Cargo, o usuário com perfil de Administrador de Sistemas deve seguir os seguintes passos no SUPER.GOV.BR 2.0: 
 
 1\.	Acessar a tela de Cargos (Menu Administrador > Cargos) e clicar no botão “Novo”  <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> (indicado como 1 na Tela de Cargos);
 
