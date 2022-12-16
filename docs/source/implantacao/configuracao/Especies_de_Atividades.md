@@ -13,7 +13,7 @@ Mais informações sobre Atividades são abordadas em clique aqui.
 Com o perfil de Administrador, a tela de Espécie de Atividades permite visualizar as Espécies de Atividades cadastradas no Sistema, além de editar suas informações. 
 
 <img src="../../_static/images/Espécies de Atividades - Tela Principal.png"/>
-<p style="text-align: center;">Figura 1 – Tela de Espécie de Atividades SUPP</p> 
+<p style="text-align: center;">Figura 1 – Tela de Espécie de Atividades SUPER.GOV.BR 2.0</p> 
 
 Seguem indicadores dos botões na Tela de Usuários: 
 
@@ -42,7 +42,7 @@ Seguem indicadores dos botões na Tela de Usuários:
 02\. Em seguida, deverá preencher os campos disponíveis no formulário com as informações referentes à Espécie de Atividade a ser cadastrada.
 
 <img src="../../_static/images/Espécies de Atividades - Tela de Cadastro.png"/>
-<p style="text-align: center;">Figura 2 – Tela de Cadastro de Espécie de Atividades SUPP</p>
+<p style="text-align: center;">Figura 2 – Tela de Cadastro de Espécie de Atividades SUPER.GOV.BR 2.0</p>
 
 ```{note}
 Nota: Todos os campos marcados com * são de preenchimento obrigatório. 
