@@ -4,10 +4,10 @@ O campo Assunto servirá para indicar o tema sobre o qual um processo ou documen
 
 Todos os processos protocolados devem, obrigatoriamente, conter ao menos um assunto. Este registro possibilitará a extração de relatórios mais fidedignos, além de aumentar o grau de identificação do processo/documento avulso.
 
-O usuário com perfil de Administrador SUPER.br terá as autorizações necessários para cadastrar'' os Assuntos utilizados em seu Órgão de atuação.
+O usuário com perfil de Administrador SUPER.GOV.BR 2.0 terá as autorizações necessários para cadastrar'' os Assuntos utilizados em seu Órgão de atuação.
 
 
-## Tela Assuntos No SUPER.br
+## Tela Assuntos No SUPER.GOV.BR 2.0
 
 <img src="../../_static/images/Assuntos - Tela principal.png"/>
 <p style="text-align: center;">Figura 1 – Tela de Assuntos</p> 
@@ -33,7 +33,7 @@ O usuário com perfil de Administrador SUPER.br terá as autorizações necessá
 
 ## Como Cadastrar um Assunto
 
-01\. Para criação de um Assunto no Super.BR, o usuário  do Super deverá acessar o Menu “Assuntos”, existente na visão Administrador, selecionar a guia “Lista” e clicar no botão “Novo”  <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> , localizado na parte superior esquerda da tela.
+01\. Para criação de um Assunto no Super.GOV.BR 2.0, o usuário do Super deverá acessar o Menu “Assuntos”, existente na visão Administrador, selecionar a guia “Lista” e clicar no botão “Novo”  <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> , localizado na parte superior esquerda da tela.
 
 02\. Em seguida, deverá ser preenchido os campos disponíveis no formulário para cadastro de Assunto. 
 
