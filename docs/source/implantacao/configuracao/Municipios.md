@@ -3,14 +3,14 @@
 
 Opção utilizada para adicionar ou editar Municípios. 
 
-Essa funcionalidade será utilizada primordialmente para ajuste de possíveis erros no cadastro geral, tendo em vista que os municípios já estarão cadastrados no SUPER.br quando da sua instalação. 
+Essa funcionalidade será utilizada primordialmente para ajuste de possíveis erros no cadastro geral, tendo em vista que os municípios já estarão cadastrados no SUPER.GOV.BR 2.0 quando da sua instalação. 
 
 
-## Tela Município no SUPER.br
+## Tela Município no SUPER.GOV.BR 2.0
 
 
 <img src="../../_static/images/Municípios - Tela Principal.png"/>
-<p style="text-align: center;">Figura 1 – Tela de Municípios SUPP</p>
+<p style="text-align: center;">Figura 1 – Tela de Municípios SUPER.GOV.BR 2.0</p>
 
 
 1)Novo. Utilizado para criar um registro de Município; 
@@ -32,7 +32,7 @@ Essa funcionalidade será utilizada primordialmente para ajuste de possíveis er
 
 ## Como Cadastrar um Município 
 
-01\. Para cadastrar um Município no SUPER.BR, o usuário deverá acessar o Menu “Municípios”, existente na visão Administrador, e clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" />  , localizado na parte superior esquerda da tela.
+01\. Para cadastrar um Município no SUPER.GOV.BR 2.0, o usuário deverá acessar o Menu “Municípios”, existente na visão Administrador, e clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" />  , localizado na parte superior esquerda da tela.
 
 02\.Em seguida, deverão ser preenchidos os campos disponíveis no formulário de cadastro.
 
@@ -42,7 +42,7 @@ Nota: Todos os campos marcados com * são de preenchimento obrigatório.
 ```
  
 <img src="../../_static/images/Municípios - Tela com a Lista de Campos.png"/>
-<p style="text-align: center;">Figura 2 – Tela de Cadastro de Municípios SUPP</p> 
+<p style="text-align: center;">Figura 2 – Tela de Cadastro de Municípios SUPER.GOV.BR 2.0</p> 
 
 * **Nome:** campo obrigatório. Utilizado para registro do município a ser cadastrado; 
 
