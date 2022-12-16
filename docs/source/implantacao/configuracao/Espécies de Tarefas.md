@@ -1,6 +1,6 @@
 # Espécies de Tarefas
 
-Tarefas são as ações base do workflow do Super.BR.  
+Tarefas são as ações base do workflow do SUPER.GOV.BR 2.0.  
 
 Espécies de Tarefas são um montante de todas as ações de processos a executar. Esse montante é definido pelos fluxos de trabalho que cada processo detém para a produção de atividades. Essas espécies de tarefas possuem dois gêneros: Administrativo e Arquivístico. 
 
@@ -14,7 +14,7 @@ Com o perfil de Administrador, a tela de Espécie de Tarefas permite visualizar 
 
  
 <img src="../../_static/images/Espécies de Tarefas - Tela Principal.png"/>
-<p style="text-align: center;">Figura 1 – Tela Espécies de Tarefas SUPP</p> 
+<p style="text-align: center;">Figura 1 – Tela Espécies de Tarefas SUPER.GOV.BR 2.0</p> 
 
 Seguem indicadores dos botões na Tela de Usuários: 
 
@@ -36,17 +36,17 @@ Seguem indicadores dos botões na Tela de Usuários:
 
  
 
-## Como criar uma Espécie de Tarefa no Super.BR 
+## Como criar uma Espécie de Tarefa no SUPER.GOV.BR 2.0
 
  
 
-01\.Para criação de uma nova Espécie de Tarefas no Super.BR, o usuário com perfil de Administrador do Sistema deverá acessar o a tela de Espécie de Tarefas por meio do Menu Administrador > Espécie de Tarefas e clicar no botão <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> no canto superior esquerdo da lista de tipos de documentos. 
+01\.Para criação de uma nova Espécie de Tarefas no SUPER.GOV.BR 2.0, o usuário com perfil de Administrador do Sistema deverá acessar o a tela de Espécie de Tarefas por meio do Menu Administrador > Espécie de Tarefas e clicar no botão <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> no canto superior esquerdo da lista de tipos de documentos. 
 
 
 02\.Em seguida, deverá preencher os campos disponíveis no formulário com as informações referentes à Unidade a ser cadastrada.   
 
 <img src="../../_static/images/Espécies de Tarefas - Tela de Cadastro.png"/>
-<p style="text-align: center;">Figura 2 – Tela de Cadastro de Espécies de Tarefas SUPP</p>
+<p style="text-align: center;">Figura 2 – Tela de Cadastro de Espécies de Tarefas SUPER.GOV.BR 2.0</p>
 
 
 ```{note}
