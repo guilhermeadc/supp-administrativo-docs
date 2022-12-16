@@ -55,7 +55,7 @@ Nota: Ao editar um registro de classificação, o botão Histórico, existente d
 ## Como Cadastrar uma Classificação
 
 
-01\. Para criação de uma nova Classificação no SUPER.br, o usuário deverá acessar o Menu “Classificações”, aba Lista, existente na visão Administrador, e clicar no botão “Novo”  <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom:50%;" /> , localizado na parte superior esquerda da tela.
+01\. Para criação de uma nova Classificação no SUPER.GOV.BR 2.0, o usuário deverá acessar o Menu “Classificações”, aba Lista, existente na visão Administrador, e clicar no botão “Novo”  <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom:50%;" /> , localizado na parte superior esquerda da tela.
 
 02\. Em seguida, deverá preencher os campos disponíveis no formulário de cadastro.
 ```{Note}
@@ -77,7 +77,7 @@ Nota: Os campos “Nome” e “Descrição” são de livre preenchimento, com 
 * **Classificação Pai:** campo opcional utilizado para associação do assunto a ser cadastrado com ou outro assunto de hierarquia superior. 
 
 ```{Note}
-Nota: Tais associações irão definir a árvore de Classificações do SUPER.br. 
+Nota: Tais associações irão definir a árvore de Classificações do SUPER.GOV.BR 2.0. 
 ```
 * **Ativo:** Flag que indicará se o registro em questão está disponível para uso ou não. Caso esteja marcada estará ativa e disponível. Caso contrário, estará inativa e indisponível.
 Classificação Ativa é aquela que continua válida, disponível e possivelmente em uso para realizar classificações de processos. 
@@ -108,7 +108,7 @@ Dúvida: Este botão serve para isso mesmo? Não consegui testar.
 Pronto, a sua classificação está cadastrada e pode ser utilizada para qualificar os documentos arquivísticos.
 
 
-Por meio da Aba Árvore será possível visualizar a hierarquia entre as classificações existentes no SUPER.br. Caso seja necessário editar algum registro, será possível por meio de clique no botão  <img src="../../_static/images/Botão Mais - Árvore Classificação.png" alt="Botão Mais - Árvore Classificação"/> , existente no lado direito de cada classificação;
+Por meio da Aba Árvore será possível visualizar a hierarquia entre as classificações existentes no SUPER.GOV.BR 2.0. Caso seja necessário editar algum registro, será possível por meio de clique no botão  <img src="../../_static/images/Botão Mais - Árvore Classificação.png" alt="Botão Mais - Árvore Classificação"/> , existente no lado direito de cada classificação;
 
 ```{Note}
 Nota:O preenchimento dos campos seguirá os mesmos critérios indicados no item 2 deste documento.
