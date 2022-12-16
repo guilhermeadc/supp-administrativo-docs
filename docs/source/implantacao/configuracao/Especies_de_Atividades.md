@@ -1,7 +1,7 @@
 # Espécies de Atividades
 
 
-Atividades são os produtos base das ações do workflow do Super.BR.
+Atividades são os produtos base das ações do workflow do SUPER.GOV.BR 2.0.
 
 Espécies de Atividades são um montante de produtos que um setor é designado a produzir, conforme cada uma das tarefas. Essas espécies de atividades possuem dois gêneros: Administrativo e Arquivístico. 
 
@@ -34,10 +34,10 @@ Seguem indicadores dos botões na Tela de Usuários:
 8) Tarja indica a quantidade de páginas relacionadas a consulta em tela. A navegação entre as páginas poderá ser feita por meio do uso das setas disponíveis. 
  
 
-## Como criar uma Espécie de Atividade no Super.BR 
+## Como criar uma Espécie de Atividade no SUPER.GOV.BR 2.0 
 
 
-01\. Para criação de uma nova Espécie de Atividades no Super.BR, o usuário com perfil de Administrador do Sistema deverá acessar o a tela de Espécie de Atividades por meio do Menu Administrador > Espécie de Atividades e clicar no botão <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> , no canto superior esquerdo da lista de tipos de documentos;
+01\. Para criação de uma nova Espécie de Atividades no SUPER.GOV.BR 2.0, o usuário com perfil de Administrador do Sistema deverá acessar o a tela de Espécie de Atividades por meio do Menu Administrador > Espécie de Atividades e clicar no botão <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> , no canto superior esquerdo da lista de tipos de documentos;
 
 02\. Em seguida, deverá preencher os campos disponíveis no formulário com as informações referentes à Espécie de Atividade a ser cadastrada.
 
