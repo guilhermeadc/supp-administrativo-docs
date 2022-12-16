@@ -4,10 +4,10 @@
 ## O que é o Barramento de Serviços 
 
  
-O Barramento de Serviços é uma plataforma centralizada, desenvolvida pelo Ministério da Economia, que permite que processos e/ou documentos tramitem de forma 100% digital entre o SUPER.BR e outras aplicações utilizadas na administração como: o SEI, o SAPIENS, o eDOC, o SIPAC, o SUAP, entre outros. Desta forma, os Órgãos e entidades que possuam diferentes sistemas de gestão e tramitação processual poderão atuar de forma horizontal no tratamento de suas demandas mantendo a segurança, a transparência, a confiabilidade e a rastreabilidade das informações/documentos. 
+O Barramento de Serviços é uma plataforma centralizada, desenvolvida pelo Ministério da Economia, que permite que processos e/ou documentos tramitem de forma 100% digital entre o SUPER.GOV.BR 2.0 e outras aplicações utilizadas na administração como: o SEI, o SAPIENS, o eDOC, o SIPAC, o SUAP, entre outros. Desta forma, os Órgãos e entidades que possuam diferentes sistemas de gestão e tramitação processual poderão atuar de forma horizontal no tratamento de suas demandas mantendo a segurança, a transparência, a confiabilidade e a rastreabilidade das informações/documentos. 
 
 
-## Pré-requisitos para utilização do barramento em conjunto com o SUPER.br 
+## Pré-requisitos para utilização do barramento em conjunto com o SUPER.GOV.BR 2.0 
 
  
 O primeiro passo para aderir ao Barramento de Serviços é solicitar a criação do Comitê Gestor de Protocolo em ambiente de homologação no Portal do Barramento (link para o portal). Esta etapa é obrigatória antes de entrar em produção. 
@@ -34,25 +34,25 @@ A instituição/órgão que aderir ao Barramento de Serviços deverá ter ao men
 5. Proceder na homologação do trâmite dos processos dentro do seu órgão ou entidade. 
 
  
-Abaixo seguem algumas condições fundamentais para a utilização do SUPER.BR: 
+Abaixo seguem algumas condições fundamentais para a utilização do SUPER.GOV.BR 2.0: 
 
  
-* Ter instalada minimamente a versão 1.6.(...) do SUPER.br (Confirmar a versão a ser utilizada) 
+* Ter instalada minimamente a versão 1.6.(...) do SUPER.GOV.BR 2.0 (Confirmar a versão a ser utilizada) 
 
  
-* Ter usuário de acesso ao banco de dados do SUPER.br e SIP com permissões para criar estruturas no banco de dados. (Como fazer para ter estas permissões?) 
+* Ter usuário de acesso ao banco de dados do SUPER.GOV.BR 2.0 e SIP com permissões para criar estruturas no banco de dados. (Como fazer para ter estas permissões?) 
 
  
 * Ter certificado digital de autenticação de sistema no Barramento do PEN emitido pela equipe do processo Eletrônico Nacional após aprovação do comitê Gestor de protocolo; 
 
 
-Para iniciar os procedimentos de configuração, será necessário registrar no Barramento de Serviços do PEN às unidades administrativas que poderão realizar o envio e recebimento de processos externos no SUPER.br. (link para o passo a passo do portal de barramento):
+Para iniciar os procedimentos de configuração, será necessário registrar no Barramento de Serviços do PEN às unidades administrativas que poderão realizar o envio e recebimento de processos externos no SUPER.GOV.BR 2.0. (link para o passo a passo do portal de barramento):
 
  
 Este procedimento precisa ser realizado pelo Gestor de Protocolo previamente habilitado no portal de Barramento de Serviços. Lembrando que os testes devem ser feitos primeiro em ambiente de homologação, para posteriormente a utilização em produção ser liberada. 
  
 
-É necessário que o Gestor/Área de TI Responsável pela Infraestrutura do Sistema habilite os devidos parâmetros de conexão da instância do SUPER.BR com o Barramento de Serviços, informando dentro do arquivo php-secret.yaml (caso esteja sendo utilizado kubernetes) ou nas environments (caso esteja sendo utilizado somente docker com docker-compose) as informações indicadas abaixo: 
+É necessário que o Gestor/Área de TI Responsável pela Infraestrutura do Sistema habilite os devidos parâmetros de conexão da instância do SUPER.GOV.BR 2.0 com o Barramento de Serviços, informando dentro do arquivo php-secret.yaml (caso esteja sendo utilizado kubernetes) ou nas environments (caso esteja sendo utilizado somente docker com docker-compose) as informações indicadas abaixo: 
 
 
 ## BARRAMENTO 
@@ -70,7 +70,7 @@ BARRAMENTO_URL_SOAP=https://homolog.api.processoeletronico.gov.br/interoperabili
 BARRAMENTO_CERT='/caminho/completo/exemploAll.pem' (localização do arquivo de certificado digital (certificado e chave privada no mesmo arquivo no padrão .pem) 
 
 
-Para o correto funcionamento do barramento, é necessário que as espécies documentais cadastradas no Barramento de Serviços sejam idênticas aos tipos de documentos cadastrados no SUPER.br.  
+Para o correto funcionamento do barramento, é necessário que as espécies documentais cadastradas no Barramento de Serviços sejam idênticas aos tipos de documentos cadastrados no SUPER.GOV.BR 2.0.  
 
  
 A manutenção/incremento das configurações relativas ao barramento de Serviços, inclusive relativas às espécies de documentos, poderá ser feita pelo Órgão Responsável da Infraestrutura, por meio do arquivo config/services.yaml (disponível por meio do link). A partir da linha 92, se inicia o bloco de configurações de integracao_barramento, não é necessário ajustá-las por padrão, somente se o órgão tiver particularidades. 
