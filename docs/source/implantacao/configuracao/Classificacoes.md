@@ -19,7 +19,7 @@ Dúvida: Onde levantar o código arquivístico?
 ## Tela Classificações no SUPER.GOV.BR 2.0
 
 <img src="../../_static/images/Classificações - Tela Principal.png"/>
-<p style="text-align: center;">Figura 1 – Tela de Classificações SUPP</p>
+<p style="text-align: center;">Figura 1 – Tela de Classificações SUPER.GOV.BR 2.0</p>
 
 1) Novo. Utilizado para criar um registro de Classificação;
 
@@ -116,7 +116,7 @@ Nota:O preenchimento dos campos seguirá os mesmos critérios indicados no item 
 
 <img src="../../_static/images/Classificações - Tela aba árvore - campos para cadastro.png"/>
 <<<<<<< Updated upstream
-<p style="text-align: center;">Figura 3 – Tela de Cadastro, Visão em Árvore SUPP</p>
+<p style="text-align: center;">Figura 3 – Tela de Cadastro, Visão em Árvore SUPER.GOV.BR 2.0</p>
 =======
-<p style="text-align: center;">Figura 2 – Tela de Cadastro, Visão em Árvore SUPP</p>
+<p style="text-align: center;">Figura 2 – Tela de Cadastro, Visão em Árvore SUPER.GOV.BR 2.0</p>
 >>>>>>> Stashed changes
