@@ -23,9 +23,9 @@ Abaixo segue figura que demonstra o relacionamento entre Órgãos, Unidades e Se
 <p style="text-align: center;">Figura 1 - Esquema relacional entre Órgão Central, Unidade e Setores</p> 
 
 
-As demandas encaminhadas a uma Unidade poderão ser direcionadas ao protocolo desta unidade ou diretamente a um de seus setores. Esta definição ficará a cargo da Unidade demandada, e será concretizada via configuração no Super.BR.  
+As demandas encaminhadas a uma Unidade poderão ser direcionadas ao protocolo desta unidade ou diretamente a um de seus setores. Esta definição ficará a cargo da Unidade demandada, e será concretizada via configuração no Super.GOV.BR 2.0.  
 
-Somente os usuários com perfil Administrador no Super.BR têm autorização para criação ou edição de uma Unidade. Para ter acesso à criação e edição de Unidade, é necessária a criação inicial do Órgão Central. O procedimento da criação do Órgão pode ser encontrado clicando [aqui](configuraçao/Orgaos.md).
+Somente os usuários com perfil Administrador no Super.GOV.BR 2.0 têm autorização para criação ou edição de uma Unidade. Para ter acesso à criação e edição de Unidade, é necessária a criação inicial do Órgão Central. O procedimento da criação do Órgão pode ser encontrado clicando [aqui](configuraçao/Orgaos.md).
 
 
 
@@ -64,7 +64,7 @@ Ao optar por visualizar os setores, uma grid é aberto, onde é possível editar
 8) Tarja indica a quantidade de páginas relacionadas a consulta em tela. A navegação entre as páginas poderá ser feita por meio do uso das setas disponíveis. 
  
 
-## Como Criar uma nova UNIDADE no Super.BR 
+## Como Criar uma nova UNIDADE no Super.GOV.BR 2.0 
 
 
 
@@ -96,7 +96,7 @@ Nota: Todos os campos marcados com * são de preenchimento obrigatório.
 Nota: As áreas de gestão documental dos órgãos poderão informar os prefixos NUP da Unidade, caso seja necessário. 
 ```
 
-**NUP Inicial:** campo opcional, utilizado para definir o número a partir do qual o sequencial NUP da unidade se iniciará. Usado para os casos em que já existem processos anteriores à ativação desta Unidade (que estejam em tramitação ou concluídos) e a Unidade deseja preservar a continuidade desta sequência no SUPER.BR. 
+**NUP Inicial:** campo opcional, utilizado para definir o número a partir do qual o sequencial NUP da unidade se iniciará. Usado para os casos em que já existem processos anteriores à ativação desta Unidade (que estejam em tramitação ou concluídos) e a Unidade deseja preservar a continuidade desta sequência no Super.GOV.BR 2.0. 
 
 ```{note}
 Notas: 
@@ -121,7 +121,7 @@ Notas:
 
 ```{note}
 
-Nota: O campo Unidade Pai não afeta ou interfere nas funcionalidades do Super.BR. 
+Nota: O campo Unidade Pai não afeta ou interfere nas funcionalidades do Super.GOV.BR 2.0. 
 ```
 
 
@@ -151,6 +151,6 @@ Nota: Os documentos gerados nesta Unidade terão uma numeração sequencial base
 
 03\. Clicar em Salvar
 
-Pronto, a nova Unidade está criada. Após esse cadastro, está habilitado a seguir os próximos passos da Configuração Inicial do Super.BR.
+Pronto, a nova Unidade está criada. Após esse cadastro, está habilitado a seguir os próximos passos da Configuração Inicial do Super.GOV.BR 2.0.
 
 É sugerido continuar com a criação de [Setores](configuraçao/Setor.md) e Lotações (que é um segmento do documento inserido em Setores).
