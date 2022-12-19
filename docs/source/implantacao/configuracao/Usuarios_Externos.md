@@ -1,6 +1,6 @@
 # Usuários Externos
 
-O Usuário Externo é um usuário fora do domínio do Órgão, mas que possui interações com o Órgão e precisam ter funções (ainda que limitadas) dentro do Super.BR.
+O Usuário Externo é um usuário fora do domínio do Órgão, mas que possui interações com o Órgão e precisam ter funções (ainda que limitadas) dentro do Super.GOV.BR 2.0.
 
 Para informações detalhadas sobre o Usuário não-Externo (ou Usuário ou Usuário Comum), [clique aqui](configuraçao/Usuários.md). 
 
@@ -11,7 +11,7 @@ Para informações detalhadas sobre o Usuário não-Externo (ou Usuário ou Usu�
 A criação de um Usuário Externo deve seguir os seguintes passos:
 
 
-1\. Acessar [o site do Super.BR](configuraçao/https://superbr-dev.dth.nuvem.gov.br/auth/login)  
+1\. Acessar [o site do Super.GOV.BR 2.0](configuraçao/https://superbr-dev.dth.nuvem.gov.br/auth/login)  
 
 ```{warning}
 Verificar a atualização do link: 
@@ -33,7 +33,7 @@ Verificar a atualização do link:
 
 ```Sugestão de novo campo: "Confirmar Email"```
 
-**CPF:** Campo obrigatório, destinado ao preenchimento do CPF do Usuário Externo. Essa informação será utilizada como identificação do usuário ao acesso no Super.BR 
+**CPF:** Campo obrigatório, destinado ao preenchimento do CPF do Usuário Externo. Essa informação será utilizada como identificação do usuário ao acesso no Super.GOV.BR 2.0 
 
 **Senha:** Campo obrigatório, destinado ao preenchimento da Senha do Usuário Externo. 
 
@@ -45,7 +45,7 @@ Verificar a atualização do link:
 
 
 Pronto, o Usuário Externo está criado.
-O Administrador do Super.BR já poderá acessar, editar e limitar as concessões que o Usuário Externo poderá exercer dentro do Super.BR, como se pode verificar adiante.
+O Administrador do Super.GOV.BR 2.0 já poderá acessar, editar e limitar as concessões que o Usuário Externo poderá exercer dentro do Super.GOV.BR 2.0, como se pode verificar adiante.
  
 ## Tela de Usuário Externo
 
@@ -54,7 +54,7 @@ Após a criação do Usuário Externo, o Administrador do Sistema poderá ter ac
 
 ![Usuário Externo - Tela Principal](../../_static/images/Usuário Externo - Tela Principal.png)
 
-<p style="text-align: center;"> Figura 2 – Tela de Usuários Externos Cadastrados no Super.BR</p>
+<p style="text-align: center;"> Figura 2 – Tela de Usuários Externos Cadastrados no Super.GOV.BR 2.0</p>
 
 
 
