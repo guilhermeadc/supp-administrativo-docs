@@ -2,7 +2,7 @@
 
 Após a realização da coleta de informações, contexto e forma de trabalho das áreas envolvidas, será necessário realizar a configuração do sistema.
 
-As configurações da base SUPP serão realizadas pelo usuário com perfil de Administração do Sistema.
+As configurações da base Super.GOV.BR 2.0 serão realizadas pelo usuário com perfil de Administração do Sistema.
 
 Os tópicos de configuração do sistema estão disponíveis abaixo, para conhecimento. O detalhamento de cada um destes itens poderá ser acessado por meio de *click* no tema desejado ou pela menu de acesso lateral.
 
@@ -31,4 +31,4 @@ Os tópicos de configuração do sistema estão disponíveis abaixo, para conhec
 Em alguns casos, o preenhcimento das configurações poderá seguir uma sequência relacional. A figura abaixo demonstra o modelo relacional entre os itens de configuração. 
 
 <img src="../../_static/images/Mapa mental para Configuração SUPER.png"/>
-<p style="text-align: center;">Figura 1 – Mapa de Relacionamento Entre a Estrutura de Configurações SUPP</p> 
+<p style="text-align: center;">Figura 1 – Mapa de Relacionamento Entre a Estrutura de Configurações Super.GOV.BR 2.0</p> 
