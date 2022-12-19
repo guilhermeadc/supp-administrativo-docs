@@ -1,15 +1,15 @@
 # Tipos de Relatórios
 
 
-Opção permite que o usuário administrador cadastre ou edite os relatórios que ficarão disponíveis no SUPER.br. 
+Opção permite que o usuário administrador cadastre ou edite os relatórios que ficarão disponíveis no Super.GOV.BR 2.0. 
 
  
 
-## Tela Tipos de Relatório no SUPER.br 
+## Tela Tipos de Relatório no Super.GOV.BR 2.0 
 
 
 <img src="../../_static/images/Tipos de Relatórios - Tela Principal.png"/>
- <p style="text-align: center;">Figura 1 – Tela Tipos de Relatório SUPP</p>
+ <p style="text-align: center;">Figura 1 – Tela Tipos de Relatório Super.GOV.BR 2.0</p>
 
 1) Novo. Utilizado para criar um registro de Tipo de Relatório; 
 
@@ -41,7 +41,7 @@ Dúvida: Para que serve este botão?
 
 ## Como Cadastrar um Tipo de Relatório
 
-01\. Para criação de um Tipo de Relatório no SUPER.br, o usuário deverá acessar o Menu “Tipos de Relatório”, existente na visão Administrador, e clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" />, localizado na parte superior esquerda da tela. 
+01\. Para criação de um Tipo de Relatório no Super.GOV.BR 2.0, o usuário deverá acessar o Menu “Tipos de Relatório”, existente na visão Administrador, e clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" />, localizado na parte superior esquerda da tela. 
  
 02\. Em seguida, deverá preencher os campos disponíveis no formulário para o cadastro do Tipo de Relatório desejado.  
 
@@ -51,7 +51,7 @@ Nota: Todos os campos marcados com * são de preenchimento obrigatório.
 ```
 
 <img src="../../_static/images/Tipos de Relatórios - Tela com a Lista de Campos.png"/>
-<p style="text-align: center;">Figura 2 – Tela com os campos Tipos de Relatório SUPP</p> 
+<p style="text-align: center;">Figura 2 – Tela com os campos Tipos de Relatório Super.GOV.BR 2.0</p> 
 
 * **Nome:** campo obrigatório para registro nome do Tipo de Relatório em questão; 
 
@@ -98,7 +98,7 @@ Dúvida: Essa explicação sobre o campo Parâmetros estava destacada no documen
 03\. Clicar em Salvar. 
 
 Pronto, o novo Tipo de Relatório está cadastrado.
-Ele poderá ser utilizado para a a Criação de Relatórios no Super.BR. A criação de Relatórios pode ser vista [clicando aqui](configuraçao/Criar Relatório.md).
+Ele poderá ser utilizado para a a Criação de Relatórios no Super.GOV.BR 2.0. A criação de Relatórios pode ser vista [clicando aqui](configuraçao/Criar Relatório.md).
 
 ```{warning}
 Documentação de Criação de Relatórios ainda não elaborada.
