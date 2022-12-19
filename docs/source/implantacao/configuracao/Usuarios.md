@@ -1,7 +1,7 @@
 # Usuários
 
 
-Definição de Usuário pode ser de uma pessoa que utiliza um Sistema de Informação (no caso, o Super.BR) ou a informação que ele produz. A permissão de uso do Super.BR é dada pelo Administrador do Sistema. 
+Definição de Usuário pode ser de uma pessoa que utiliza um Sistema de Informação (no caso, o Super.GOV.BR 2.0) ou a informação que ele produz. A permissão de uso do Super.GOV.BR 2.0 é dada pelo Administrador do Sistema. 
 
 O acesso e utilização do sistema é feita por meio de Login (CPF do Usuário) e uma senha. 
 
@@ -9,20 +9,20 @@ O acesso e utilização do sistema é feita por meio de Login (CPF do Usuário) 
 ![Usuários - Tela de Login Super](../../_static/images/Usuários - Tela de Login Super.png)
 
 
-<p style="text-align: center;"> Figura 1 – Tela de Acesso do Usuário do Super.BR </p> 
+<p style="text-align: center;"> Figura 1 – Tela de Acesso do Usuário do Super.GOV.BR 2.0 </p> 
 
 
-A criação do Usuário, bem como a permissão de acesso e senha é concedida pelo Administrador do Super.BR, cujo procedimento será detalhado a seguir. É necessário também reforçar a importância de realizar o cadastro de [Pessoas](configuraçao/Pessoas.md) antes de realizar o cadastro de Usuário.
+A criação do Usuário, bem como a permissão de acesso e senha é concedida pelo Administrador do Super.GOV.BR 2.0, cujo procedimento será detalhado a seguir. É necessário também reforçar a importância de realizar o cadastro de [Pessoas](configuraçao/Pessoas.md) antes de realizar o cadastro de Usuário.
   
 
 
 <img src="../../_static/images/Usuários - Tela de Login Super.png"/>
  </p> 
-<p style="text-align: center;"> Figura 2 – Tela de Login SUPP</p> 
+<p style="text-align: center;"> Figura 2 – Tela de Login Super.GOV.BR 2.0</p> 
 
 ## Níveis de Acesso/Perfis e Privilégios 
 
-Em sistemas operacionais multi-usuário, costuma-se utilizar a separação de privilégios. Cada usuário executa com seus privilégios específicos e pode executar apenas um número limitado de tarefas. Isso também ocorre no Super.BR, onde podemos ter os seguintes perfis, cada um com sua respectiva gama de responsabilidades e níveis de acesso. 
+Em sistemas operacionais multi-usuário, costuma-se utilizar a separação de privilégios. Cada usuário executa com seus privilégios específicos e pode executar apenas um número limitado de tarefas. Isso também ocorre no Super.GOV.BR 2.0, onde podemos ter os seguintes perfis, cada um com sua respectiva gama de responsabilidades e níveis de acesso. 
 
  
 
@@ -48,9 +48,9 @@ O sistema contempla 5 Níveis de Acesso, variando de 0 a 4, de acordo com a resp
 
  
 
-### Administrador do Super.BR 
+### Administrador do Super.GOV.BR 2.0 
 
-Toda a unidade do SUPER.BR deve possuir um administrador, responsável pela gestão dos usuários, dos setores e seus Localizadores, bem como das Lotações. 
+Toda a unidade do Super.GOV.BR 2.0 deve possuir um administrador, responsável pela gestão dos usuários, dos setores e seus Localizadores, bem como das Lotações. 
 
 Para maiores informações sobre as funções do Administrador de Sistemas, clique aqui.
 ``` {warning}
@@ -59,7 +59,7 @@ Inserir Hyperlink após criação do manual do Administrador
 
 ### Coordenador de Unidade
 
-Esse perfil possibilita a criação e gestão de modelos nacionais de documentos, bem como dos repositórios nacionais de conhecimento do SUPER.BR.  
+Esse perfil possibilita a criação e gestão de modelos nacionais de documentos, bem como dos repositórios nacionais de conhecimento do Super.GOV.BR 2.0.  
 
 Para maiores informações sobre as funções do Coordenador de Unidade, clique aqui. 
 ``` {warning}
@@ -79,7 +79,7 @@ Inserir Hyperlink após criação do manual do Coordenador de Setor
 
 ### Arquivista 
 
-Todo setor de arquivo, de cada uma das unidades do SUPER.BR, deve possuir ao menos um usuário com perfil arquivista, responsável por fazer as transições arquivísticas dos processos/documentos avulsos (transferência, desarquivamento, etc.). 
+Todo setor de arquivo, de cada uma das unidades do Super.GOV.BR 2.0, deve possuir ao menos um usuário com perfil arquivista, responsável por fazer as transições arquivísticas dos processos/documentos avulsos (transferência, desarquivamento, etc.). 
 
 Para maiores informações sobre as funções do Arquivista, clique aqui. 
 ```{warning}
@@ -139,7 +139,7 @@ Com o perfil de Administrador, a tela Usuários permite visualizar os Usuários 
 ![Usuários - Tela principal](../../_static/images/Usuários - Tela principal.png)
 
 
-<p style="text-align: center;">Figura 3 – Tela de Usuários SUPP</p> 
+<p style="text-align: center;">Figura 3 – Tela de Usuários Super.GOV.BR 2.0</p> 
 
  
 
@@ -161,7 +161,7 @@ Seguem indicadores dos botões na Tela de Usuários (Figura 3):
 
 7) Afastamentos. Opção permite abrir a tela de Afastamento de Usuários. 
 
-8) Reseta Senha. Opção permite resetar a senha do Usuário para o Super.BR 
+8) Reseta Senha. Opção permite resetar a senha do Usuário para o Super.GOV.BR 2.0. 
 
 9) Coordenações. Opção permite abrir a tela de Coordenadores de Usuários. 
 
@@ -175,7 +175,7 @@ Seguem indicadores dos botões na Tela de Usuários (Figura 3):
 
  
 
-## Como Criar um novo USUÁRIO no Super.BR 
+## Como Criar um novo USUÁRIO no Super.GOV.BR 2.0 
 
 Antes da criação de um novo Usuário, é preciso fazer a criação de Pessoas. Para isso, o procedimento se encontra neste [link](configuraçao/Pessoas.md).
 
@@ -194,7 +194,7 @@ Feito isso, para criar um novo usuário, o Administrador de Sistemas deve seguir
 Nota: Todos os campos marcados com * são de preenchimento obrigatório. 
 ```
 
-**CPF:** Campo obrigatório, destinado ao preenchimento do número do CPF do Usuário. Esse campo servirá de identificação “user” para acesso ao Super.BR. Após preencher os 11 caracteres do CPF (sem traços ou pontos), o sistema irá trazer novos campos a serem preenchidos em duas telas: 
+**CPF:** Campo obrigatório, destinado ao preenchimento do número do CPF do Usuário. Esse campo servirá de identificação “user” para acesso ao Super.GOV.BR 2.0. Após preencher os 11 caracteres do CPF (sem traços ou pontos), o sistema irá trazer novos campos a serem preenchidos em duas telas: 
 
  
 
@@ -202,7 +202,7 @@ Nota: Todos os campos marcados com * são de preenchimento obrigatório.
 
 
 ![Usuários - Formulário Tela Usuário](../../_static/images/Usuários - Formulário Tela Usuário.png)
-<p style="text-align: center;"> Figura 4 – Tela de Formulário do Usuário do Super.BR </p> 
+<p style="text-align: center;"> Figura 4 – Tela de Formulário do Usuário do Super.GOV.BR 2.0 </p> 
 
 **Nome:** Campo obrigatório, destinado ao preenchimento do nome do Usuário;  
 
@@ -217,7 +217,7 @@ Nota: Todos os campos marcados com * são de preenchimento obrigatório.
 **Nível de Acesso:** Campo Opcional, numérico (de 0 a 4) que mostra o nível de Acesso que o Usuário criado poderá ter de privilégios, conforme descrito na seção Nível de Acesso.
 
 ```{warning}
-Erro: O Super.BR apresenta números negativos para esses níveis de acesso
+Erro: O Super.GOV.BR 2.0 apresenta números negativos para esses níveis de acesso
 ```
 
 
@@ -225,7 +225,7 @@ Erro: O Super.BR apresenta números negativos para esses níveis de acesso
 
 
 ![Usuários - Formulário Tela Colaborador](../../_static/images/Usuários - Formulário Tela Colaborador.png)
-<p style="text-align: center;"> Figura 5 – Tela do Formulário do Colaborador do Super.BR </p> 
+<p style="text-align: center;"> Figura 5 – Tela do Formulário do Colaborador do Super.GOV.BR 2.0 </p> 
 
 
 
@@ -236,6 +236,6 @@ Erro: O Super.BR apresenta números negativos para esses níveis de acesso
 O flag Ativo também está disponível para seleção.
 
 
-Pronto, o novo Usuário está criado. Após esse cadastro, está habilitado a seguir os próximos passos da Configuração Inicial do Super.BR.
+Pronto, o novo Usuário está criado. Após esse cadastro, está habilitado a seguir os próximos passos da Configuração Inicial do Super.GOV.BR 2.0.
 
 É sugerido continuar com a criação de Lotações (que é um segmento do documento inserido em [Setores](configuraçao/Setor.md).
