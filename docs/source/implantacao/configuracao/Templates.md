@@ -6,14 +6,14 @@ Template é um modelo que poderá ser utilizado na elaboração de documen
 
 Todo Template ficará associado a pelo menos um tipo de documento, assim sendo, é preciso realizar cadastro dos tipos de documentos. Maiores informações sobre cadastro de tipos de documentos, [clique aqui](configuraçao/Especies_de_Documentos.md)
 
-O cadastro dos Templates poderá ser realizado pelo Administrador do Super.br. 
+O cadastro dos Templates poderá ser realizado pelo Administrador do Super.GOV.BR 2.0. 
  
 
-## Tela Templates no SUPER.br 
+## Tela Templates no Super.GOV.BR 2.0 
 
 
 <img src="../../_static/images/Templates - Tela Principal.png"/>
-<p style="text-align: center;">Figura 1 – Tela de Templates SUPP</p> 
+<p style="text-align: center;">Figura 1 – Tela de Templates Super.GOV.BR 2.0</p> 
  
 
 1) Novo. Utilizado para criar um Template; 
@@ -37,7 +37,7 @@ O cadastro dos Templates poderá ser realizado pelo Administrador do Super.br.
 
 ## Como Cadastrar um Template 
  
-01\. Para criação de um novo Template no Super.BR, o usuário deverá acessar o Menu “Templates”, existente na visão Administrador, e clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> , localizado na parte superior esquerda da tela. 
+01\. Para criação de um novo Template no Super.GOV.BR 2.0, o usuário deverá acessar o Menu “Templates”, existente na visão Administrador, e clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> , localizado na parte superior esquerda da tela. 
  
 
 02\. Em seguida, deverá preencher os campos disponíveis no formulário de cadastro.
@@ -47,7 +47,7 @@ Nota: Todos os campos marcados com * são de preenchimento obrigatório.
 ```
  
 <img src="../../_static/images/Templates - Tela com a Lista de Campos.png"/>
-<p style="text-align: center;">Figura 2 – Tela de Cadastro de Templates SUPP</p> 
+<p style="text-align: center;">Figura 2 – Tela de Cadastro de Templates Super.GOV.BR 2.0</p> 
 
 * **Nome:** Campo obrigatório destinado ao cadastro do nome/qualificação do tipo de processo a ser executada por um setor. 
 
@@ -69,5 +69,5 @@ Nesta opção será possível criar/editar o modelo de documento relacionado ao 
 
 
 <img src="../../_static/images/Templates - Tela de exemplo de documento.png"/>
-<p style="text-align: center;">Figura 3 – Tela com Exemplo de Template Documento Criado SUPP</p> 
+<p style="text-align: center;">Figura 3 – Tela com Exemplo de Template Documento Criado Super.GOV.BR 2.0</p> 
 
