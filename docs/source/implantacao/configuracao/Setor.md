@@ -1,23 +1,23 @@
 # Setor
 
 
-Entende-se por SETOR no Super.BR um grupo de usuários (membros/servidores) que trabalham, em equipe, para o exercício de um conjunto de atribuições. Um usuário pode ser lotado em mais de um setor, inclusive exercendo funções diferentes em cada um deles. Cada setor deve ter pelo menos um Coordenador, que será responsável pela gestão dos modelos locais de documentos, dos repositórios locais de conhecimento e dos critérios de visibilidade dos processos/documentos avulsos. O acesso de Coordenador de Setor é concedido pelo Administrador de Sistema.
+Entende-se por SETOR no Super.GOV.BR 2.0 um grupo de usuários (membros/servidores) que trabalham, em equipe, para o exercício de um conjunto de atribuições. Um usuário pode ser lotado em mais de um setor, inclusive exercendo funções diferentes em cada um deles. Cada setor deve ter pelo menos um Coordenador, que será responsável pela gestão dos modelos locais de documentos, dos repositórios locais de conhecimento e dos critérios de visibilidade dos processos/documentos avulsos. O acesso de Coordenador de Setor é concedido pelo Administrador de Sistema.
 
 Relacionado à hierarquia dos grupos de pessoas, o Setor está abaixo da Unidade (e esta, por sua vez, abaixo de Órgão). Portanto, é sugerido a criação de Unidades, do Órgão Central, bem como, da Espécie de Setores. Essas etapas são detalhadas em [Unidade](configuraçao/Unidades.md) e em [Espécies de Setores](configuração/Espécies de Setores.md)
 
 
 ## Tela de Setores
 
-Logo, para acessar um setor dentro do Super.BR, é necessário que o Órgão e a Unidade acima daquele Setor já tenham sido criados pelo Administrador do Sistema. O acesso à tela de Setor será descrito a seguir e permitirá desencadear outras ações.
+Logo, para acessar um setor dentro do Super.GOV.BR 2.0, é necessário que o Órgão e a Unidade acima daquele Setor já tenham sido criados pelo Administrador do Sistema. O acesso à tela de Setor será descrito a seguir e permitirá desencadear outras ações.
 
 <img src="../../_static/images/Setores - Tela de acesso ao cadastro via Unidades.png"/>
-<p style="text-align: center;">Figura 1 – Tela  Unidades SUPP</p>
+<p style="text-align: center;">Figura 1 – Tela  Unidades Super.GOV.BR 2.0</p>
 
 Com acesso de Coordenador de Unidade (ou acesso superior Coordenador de Órgão ou de Administrador do sistema), acessar a lista de Unidades e, na respectiva Unidade que se deseja acessar o setor, clicar no botão de Setores (Número 1, indicado na Figura 1). 
 A partir da tela de Setores, é possível realizar as ações de Criar, Editar, Lotar, Criar Localizador e Transferir Processos para o Protocolo.
 
 <img src="../../_static/images/Setores - Tela Principal.png"/>
-<p style="text-align: center;">Figura 2 – Tela Setores SUPP</p>
+<p style="text-align: center;">Figura 2 – Tela Setores Super.GOV.BR 2.0</p>
 
 
 1) Novo. Utilizado para criar um Workflow;
@@ -52,7 +52,7 @@ Nota: Todos os campos marcados com * são de preenchimento obrigatório.
 01.	Clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> e preencher todos os campos que aparecerem na tela subsequente:
 
 <img src="../../_static/images/Setores - Tela de Cadsatro de Setores.png"/>
-<p style="text-align: center;">Figura 3 – Tela de Cadastro de Setores SUPP</p>
+<p style="text-align: center;">Figura 3 – Tela de Cadastro de Setores Super.GOV.BR 2.0</p>
 
 **Nome:** Campo obrigatório, destinado ao preenchimento do nome do Setor;
 
@@ -111,7 +111,7 @@ Para cada lotação, há configurações destinadas para cada usuário, descrita
 Dentro de um setor é possível criar, editar e remover as respectivas lotações para cada um dos usuários. Para isso, o Coordenador de unidade (ou o Administrador de Sistema) deve acessar a lotação respectiva ao setor, clicar no botão de Lotações <img src="../../_static/images/Botão de Lotação.png" alt="Botão de Lotação" style="zoom: 50%;" /> (indicado como 3 na Figura 2) referente ao setor a ser lotado. 
  
 <img src="../../_static/images/Setores - Tela de cadastro de Lotações.png"/>
-<p style="text-align: center;">Figura 4 – Tela de Lotações SUPP</p> 
+<p style="text-align: center;">Figura 4 – Tela de Lotações Super.GOV.BR 2.0</p> 
 
 
 ### Criar Lotação
@@ -162,7 +162,7 @@ Os localizadores são configurações dos Setores destinadas a localizar fisicam
 Dentro de um setor é possível criar, editar e remover os respectivos localizadores. Para isso, deve-se acessar a lotação respectiva ao setor, clicar no botão de Localizadores (indicado como 4 na Figura 2) referente ao setor.
 
 <img src="../../_static/images/Setores - Tela de cadastro de Localizadores.png"/>
-<p style="text-align: center;">Figura 5 – Tela de Localizadores SUPP</p>
+<p style="text-align: center;">Figura 5 – Tela de Localizadores Super.GOV.BR 2.0</p>
 
 ### Criar Localizadores: 
 
