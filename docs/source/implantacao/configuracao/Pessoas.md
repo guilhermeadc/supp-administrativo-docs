@@ -5,12 +5,12 @@ Nesta opção é possível cadastrar pessoas Instituições, Órgãos, Pessoas F
 
 Todo processo ou tarefa terá ao menos uma pessoa envolvida.
 
-Todas as pessoas envolvidas em processos ou tarefas deverão estar cadastradas no SUPER.br, tendo em vista que não há como cadastrar uma pessoa durante o cadastro de um processo ou tarefa.
+Todas as pessoas envolvidas em processos ou tarefas deverão estar cadastradas no Super.GOV.BR 2.0, tendo em vista que não há como cadastrar uma pessoa durante o cadastro de um processo ou tarefa.
 
 O Administrador tem o perfil para cadastro e manutenção do registro de Pessoas. 
  
 
-## Tela de Pessoas No SUPER.br 
+## Tela de Pessoas No Super.GOV.BR 2.0 
 
 
 <img src="../../_static/images/Pessoas - Tela Principal.png"/>
@@ -36,11 +36,11 @@ O Administrador tem o perfil para cadastro e manutenção do registro de Pessoas
 ## Como Cadastrar uma pessoa 
 
 
-01\. Para criação de uma nova Pessoa no Super.BR, o usuário deverá acessar o Menu Pessoa, existente na visão Administrador, e clicar no botão “Novo” <img src="../../_static/images/Botão lápis (inclusão pessoas).png" style="zoom: 50%"/>, localizado na parte superior esquerda da tela. 
+01\. Para criação de uma nova Pessoa no Super.GOV.BR 2.0, o usuário deverá acessar o Menu Pessoa, existente na visão Administrador, e clicar no botão “Novo” <img src="../../_static/images/Botão lápis (inclusão pessoas).png" style="zoom: 50%"/>, localizado na parte superior esquerda da tela. 
 
  
 ```{note}
-Dúvida: O cadastro de pessoas será unificado para todo o SUPER.br ou cada Órgão fará o seu cadastro? 
+Dúvida: O cadastro de pessoas será unificado para todo o Super.GOV.BR 2.0 ou cada Órgão fará o seu cadastro? 
 ```
 
 02\. Em seguida, deverá preencher os campos disponíveis no formulário com as informações referentes à Pessoa a ser cadastrada.
@@ -112,7 +112,7 @@ Dúvida: Há interesse em ampliar este campo para registro da natureza de ativid
 * **Pessoa Validada:** A validação de um usuário externo permite que, sem Certificado Digital, estes utilizem o Protocolo Eletrônico do sistema, podendo provocar a ação do órgão ao realizar requisições. 
 
 03\. Clicar em Salvar.
-Pronto. o nova Pessoa está cadastrada. Após esse cadastro, está habilitado a seguir os próximos passos da Configuração Inicial do Super.BR.
+Pronto. o nova Pessoa está cadastrada. Após esse cadastro, está habilitado a seguir os próximos passos da Configuração Inicial do Super.GOV.BR 2.0.
 
 É sugerido continuar com a criação de [Usuário](configuraçao/Usuarios.md), bem como complementar o dados da pessoa seguindo os passos abaixo.
 
@@ -123,7 +123,7 @@ Pronto. o nova Pessoa está cadastrada. Após esse cadastro, está habilitado a 
 Após a criação da Pessoa, o Usuário Administrador poderá complementar o cadastro da Pessoa, incluindo informações/parâmetros como: 
  
 
-01\. Para edição de uma Pessoa no Super.BR, o usuário deverá acessar o Menu Pessoa, existente na visão Administrador, e clicar no botão “Editar” <img src="../../_static/images/Botão lápis (editar).png" style=" zoom: 75%"/> , localizado na parte direita do registro da pessoa; 
+01\. Para edição de uma Pessoa no Super.GOV.BR 2.0, o usuário deverá acessar o Menu Pessoa, existente na visão Administrador, e clicar no botão “Editar” <img src="../../_static/images/Botão lápis (editar).png" style=" zoom: 75%"/> , localizado na parte direita do registro da pessoa; 
 
 
 02\. Será possível editar e/ou inserir os dados relativos podendo incluir informações/parâmetros como: 
@@ -152,7 +152,7 @@ A edição dos dados básicos seguirá os mesmos passos e premissas descritos no
 ### Documentos
 
 
-Para cadastrar uma Documento relacionado a uma Pessoa no Super.BR, o usuário deverá clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> e em seguida preencher os campos: 
+Para cadastrar uma Documento relacionado a uma Pessoa no Super.GOV.BR 2.0, o usuário deverá clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> e em seguida preencher os campos: 
 
 <img src="../../_static/images/Pessoas - Tela com a Lista de Campos _Documentos.png"/>
 
@@ -170,7 +170,7 @@ Para cadastrar uma Documento relacionado a uma Pessoa no Super.BR, o usuário de
 
 ### Endereços
 
-Para cadastrar um Endereço relacionado a uma Pessoa no Super.BR, o usuário deverá clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> e em seguida preencher os campos:
+Para cadastrar um Endereço relacionado a uma Pessoa no Super.GOV.BR 2.0, o usuário deverá clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> e em seguida preencher os campos:
 
 <img src="../../_static/images/Pessoas - Tela com a Lista de Campos _Endereço.png"/>
 
@@ -220,7 +220,7 @@ Nota: Este campo também conta com preenchimento inteligente, de forma que se à
 
 ### Outros Nomes
 
-Para cadastrar Outros Nomes relacionados a uma Pessoa no Super.BR, o usuário deverá clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> e em seguida preencher o campo: 
+Para cadastrar Outros Nomes relacionados a uma Pessoa no Super.GOV.BR 2.0, o usuário deverá clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> e em seguida preencher o campo: 
  
 <img src="../../_static/images/Pessoas - Tela com a Lista de Campos _Outros Nomes.png"/>
 <p style="text-align: center;"> Figura 6 - Tela de Edição de Outros Nomes de Pessoas </p>
@@ -231,7 +231,7 @@ Para cadastrar Outros Nomes relacionados a uma Pessoa no Super.BR, o usuário de
 
 ### Relacionamentos
 
-Para cadastrar os Relacionamentos relativos a uma Pessoa no Super.BR, o usuário deverá clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> e em seguida preencher o campo: 
+Para cadastrar os Relacionamentos relativos a uma Pessoa no Super.GOV.BR 2.0, o usuário deverá clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> e em seguida preencher o campo: 
 
 <img src="../../_static/images/Pessoas - Tela com a Lista de Campos _Relacionamentos.png"/>
 <p style="text-align: center;"> Figura 7 - Tela de Relacionamentos de Pessoas </p>
@@ -240,7 +240,7 @@ Para cadastrar os Relacionamentos relativos a uma Pessoa no Super.BR, o usuário
 * **Pessoa Relacionada:** campo destinado ao registro da pessoa relacionada, podendo ser física ou jurídica. O usuário poderá selecionar a pessoa relacionada por meio do botão “Procurar” (lado direito do campo) ou digitando o nome da pessoa no campo. 
  
 ```{note}
-Nota: Este campo terá como opção de seleção as pessoas cadastradas na base SUPER.br do Órgão. 
+Nota: Este campo terá como opção de seleção as pessoas cadastradas na base Super.GOV.BR 2.0 do Órgão. 
 ```
  
 ```{note}
@@ -256,7 +256,7 @@ Dúvida: Onde serão cadastradas as modalidades disponíveis neste campo?
 
 ### Vinculação Pessoa Barramento
 
-Para cadastrar a Vinculação de Pessoa ao Barramento no Super.BR, o usuário deverá clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> e em seguida preencher o campo: 
+Para cadastrar a Vinculação de Pessoa ao Barramento no Super.GOV.BR 2.0, o usuário deverá clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" alt="Botão de Inclusão (+)" style="zoom: 50%;" /> e em seguida preencher o campo: 
 
 <img src="../../_static/images/Pessoas - Tela com a Lista de Campos _Vinculo Pessoa Barramento.png"/>
 <p style="text-align: center;"> Figura 8 - Tela de Edição Vinculação de Pessoas com o Barramento</p>
