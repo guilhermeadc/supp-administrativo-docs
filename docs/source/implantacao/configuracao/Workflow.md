@@ -6,10 +6,10 @@
 Workflow é o método usado para organizar o fluxo de trabalho. Consiste na disposição e realização de tarefas em uma sequência lógica. Em outras palavras, é o passo a passo mais eficiente e prático para a execução de um trabalho. 
 
 
-O SUPER.br permite a construção de Workflows personalizados que permitem, de maneira automatizada, segura e rastreável, suportar os processo de trabalho da Administração. 
+O Super.GOV.BR 2.0 permite a construção de Workflows personalizados que permitem, de maneira automatizada, segura e rastreável, suportar os processo de trabalho da Administração. 
 
 
-O Worflow SUPER.br é composto basicamente de dois artefatos: Tarefas e Atividades. 
+O Worflow Super.GOV.BR 2.0 é composto basicamente de dois artefatos: Tarefas e Atividades. 
  
 
 Uma tarefa nada mais é do que a indicação de uma ação a ser executada pelo usuário no sistema. A tarefa aparece no sistema como uma sentença simples, composta por um verbo no infinitivo, que descreve a ação a ser executada, e pelo objeto sobre o qual se deve executar a ação. 
@@ -18,7 +18,7 @@ Uma tarefa nada mais é do que a indicação de uma ação a ser executada pelo 
 Já as atividades, por sua vez, se referem às ações já realizadas em cumprimento àquela tarefa. São registradas normalmente da seguinte maneira: o objeto que sofre a ação, seguido do verbo no particípio. 
  
 
-O SUPER.br permite, ainda, executar mais de uma atividade para cada tarefa. No exemplo acima, poderiam ser registradas, hipoteticamente, as atividades “Pesquisa de atos pregressos realizada”, “Consulta ao jurídico realizada”, entre outras, até que julgue que a tarefa recebida possa ser dada por cumprida. 
+O Super.GOV.BR 2.0 permite, ainda, executar mais de uma atividade para cada tarefa. No exemplo acima, poderiam ser registradas, hipoteticamente, as atividades “Pesquisa de atos pregressos realizada”, “Consulta ao jurídico realizada”, entre outras, até que julgue que a tarefa recebida possa ser dada por cumprida. 
 
 
 Essa forma de organizar o trabalho possibilita a utilização de fluxos pré-definidos, ou seja, de sequências de tarefas e atividades estabelecidas previamente e associadas a um determinado tema, o que permitirá que o usuário se concentre na atividade de análise técnica e não precise se preocupar com qual documento deve ser inserido em um processo de determinado tipo ou para onde deve enviar determinado processo depois de realizar seu trabalho. 
@@ -29,7 +29,7 @@ Essa forma de organizar o trabalho possibilita a utilização de fluxos pré-def
 
  
 
-## Tela Workflow no SUPER.br
+## Tela Workflow no Super.GOV.BR 2.0
 
 
 <img src="../../_static/images/Workflow - Tela principal.png"/>
@@ -83,7 +83,7 @@ Para o Cadastro do Workflow, é necessário que já tenha sido cadastrado as [Cl
 
 
 
-1.1 Para criação de um Workflow no SUPER.br, o usuário deverá acessar o Menu “Workflow”, existente na visão Administrador, e clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png"alt="Botão de Inclusão (+)"style="zoom: 50%;"/> , localizado na parte superior esquerda da tela. 
+1.1 Para criação de um Workflow no Super.GOV.BR 2.0, o usuário deverá acessar o Menu “Workflow”, existente na visão Administrador, e clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png"alt="Botão de Inclusão (+)"style="zoom: 50%;"/> , localizado na parte superior esquerda da tela. 
 
 
 
@@ -152,7 +152,7 @@ Nota: As transições são a descrição da ordem lógica do Workflow desenhado 
 
 1) Editar. Permite editar a transição cadastrada. 
 
-2) Ações. Permite incluir ações relacionadas a “Tarefa DE” da transição. Abaixo seguem as ações disponíveis no SUPER.br. 
+2) Ações. Permite incluir ações relacionadas a “Tarefa DE” da transição. Abaixo seguem as ações disponíveis no Super.GOV.BR 2.0. 
 
 **OFÍCIO**
 
@@ -185,7 +185,7 @@ Gera automaticamente uma minuta na tarefa de acordo com o modelo pré-selecionad
 
 3) Remover. Permite excluir o registro. 
 
-4) Validações. Permite que o usuário indique se a tarefa DE deverá ser validada. Abaixo seguem as opções de validação disponíveis no SUPER.br.  
+4) Validações. Permite que o usuário indique se a tarefa DE deverá ser validada. Abaixo seguem as opções de validação disponíveis no Super.GOV.BR 2.0.  
 
 
 **UNIDADE**
