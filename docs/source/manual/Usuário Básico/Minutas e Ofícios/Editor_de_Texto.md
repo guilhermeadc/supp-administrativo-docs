@@ -6,6 +6,16 @@ Os comandos de criação e edição de documentos são ações necessárias no t
 
 O Editor de texto contempla comandos e facilidades que deixam o trabalho do Usuário Básico mais eficiente e seguro. O objetivo desse documento é apresentar esses comandos e facilidades. Tanto para a criação de Ofício, quanto para a elaboração de Minutas, os comandos são os mesmos, contemplados na Tela do Editor de Texto, apresentado a seguir.  
 
+### Outros documentos relacionados
+
+Já que se este se trata de um documento referente a recursos que o Super.GOV.BR 2.0 apresenta e certamente auxilia a criação de conteúdo dos documentos, seguem outros documentos relacionados: 
+- Criar Minuta;
+- Editar Minuta (edição de metadados das minutas);
+- Criar Ofício.
+
+
+
+
 ## Tela do Editor de Texto
 
 <img src="../../manual/figuras/Editor_Texto.png"/><p style="text-align: center;">*Figura 1 – Editor de Texto com destaque para os comandos*</p>
