@@ -91,7 +91,7 @@ Ao acessar a tela do Formulário para Criação do Processo, deve-se seguir com 
 
 4. Inserir documentos anexos da guia de Documentos: 
 
-	O formulário de Documentos é opcional para o Cadastro de Dados Básicos do processo cadastrado. Abaixo é apresentada a tela da Guia de Juntada de documentos, bem como os comandos principais:  
+	O formulário de Documentos é opcional para o Cadastro de Dados Básicos do processo. Ele faz a Juntada de Documentos que serão incluídos  no processo. Abaixo é apresentada a tela da Guia de Juntada de documentos, bem como os comandos principais:  
 	
 	<img src="../../manual/figuras/Tela_Guia_Juntada.png"/><p style="text-align: center;">*Figura 2 – Tela da Guia de Juntada de Documentos*</p>
 	
@@ -109,7 +109,7 @@ Ao acessar a tela do Formulário para Criação do Processo, deve-se seguir com 
 
 	Caso o Usuário Básico entenda que há documentos a serem anexados ao processo, deve seguir com os seguintes passos: 
 	
-	4.1. Clicar no "clipe" <img src="../../manual/figuras/Botao_Clipe.png" style="zoom: 50%;" />;
+	4.1. Clicar no "clipe" <img src="../../manual/figuras/Botao_Clipe.png" style="zoom: 50%;" />,  (indicador 1 da Figura 1);
 	
 	4.2. Selecionar o documento salvo na máquina; 
 
@@ -125,47 +125,54 @@ Ao acessar a tela do Formulário para Criação do Processo, deve-se seguir com 
 
 	4.5. Finalizar o procedimento clicando em “Iniciar” <img src="../../manual/figuras/Botao_Iniciar.png" style="zoom: 50%;" />;.
 
-	Pronto, o documento está juntado ao processo. 
+	Pronto, o documento está juntado ao processo. Caso seja necessário incluir novos documentos, repetir a operação. 
 	
 5. Preencher os campos da guia de Vinculações: 
 
-	A guia de Vinculações realiza vinculações de outros processos já criados. 
+	O formulário de Vinculações também é opcional para o Cadastro de Dados Básicos do processo. A guia de Vinculações realiza vinculações de outros processos já criados. 
 
+	```{note}
+	Nota: Para maiores informações sobre vinculações de processos, há um documento 
+	      com detalhes desse comando - que pode acontecer tanto na criação de um processo
+          (objetivo principal desse documento), quanto na edição de um processo -, 
+          o documento é o Vincular Processo. Clique aqui para acessar. 
+	```
 
-* **Processo Vinculado***: Campo que indicará o processo que terá vinculação ao processo que está sendo aberto; 
+	<img src="../../manual/figuras/Tela_Guia_Vinculacao_Processos.png"/><p style="text-align: center;">*Figura 3 – Tela da Guia de Vinculação de Processos*</p>
 
-* **Modalidade***: Seleção obrigatória, que permite a escolha entre as opções: Apensamento, Anexação e Remissão. 
+	Seguem indicadores da tela para Vinculação de Processos (Figura 3):
+	1. Novo. Criar um registro de nova Vinculação de Processos;
+	2. Colunas. Por esta opção será possível gerenciar as colunas que serão disponibilizadas na tela;
+	3. Recarregar. Opção permite a atualização dos registros apresentados em tela;
+	4. Filtrar. Opção possibilita filtrar um intervalo de dados com base em critérios;
+	5. Excluir. Opção realiza desvinculação do processo principal com o processo indicado;
+	6. Opção permite configurar a quantidade de registros a serem mostrados em tela;
+	7. Tarja indica a quantidade de páginas relacionadas a consulta em tela. A navegação entre as páginas poderá ser feita por meio do uso das setas disponíveis.
 
-```{note}
-Nota:  Diferenças entre Modalidades de Vinculações:
+	Caso o Usuário Básico entenda que há documentos a serem anexados ao processo, deve seguir com os seguintes passos:
+	
+	5.1. Clicar no botão “Novo” <img src="../../_static/images/Botão de Inclusão (+).png" style="zoom: 50%;" /> localizado na parte superior esquerda da tela (indicado como 1 na Figura 3);
+	
+	5.2. Preencher os campos:
 
-	1. Anexação:?
+	```{note}
+	Nota: Os campos assinalados com * tem preenchimento obrigatório.
+	```
+	
+	* **Processo Vinculado***: Campo que indicará o processo que terá vinculação ao processo que está sendo aberto; 
 
-		A vinculação por anexação une, em caráter definitivo e irreversível, 
-		um processo ou documento avulso a outro processo, desde que referente
-		ao mesmo interessado ou assunto, visando a continuidade da ação 
-		administrativa ou judicial. 
+	* **Modalidade***: Seleção obrigatória, que permite a escolha entre as opções: Apensamento, Anexação e Remissão;
+	
+	* **Observação**: Campo opcional, que permite inserções de informações complementares acerca do Processo vinculado.
 
-	2. Apensamento: 
+	5.3. Clicar em “Salvar”.
+	
+	Pronto, o processo indicado foi vinculado ao original com sucesso. 
 
-		A juntada por apensamento é a união, em caráter temporário, 
-		de um processo a outro, destinada ao estudo, instrução e 
-		à uniformidade de tratamento em matéria semelhante, 
-		além de servir de documento elucidativo para instrução deste 
-		pertencente ao mesmo "Interessado" ou não.  
-
-	3. Remissão:
-
-		A juntada por remissão une, em caráter temporário, um processo a outro, 
-		destinado a instrução e à uniformidade de tratamento em matéria 
-		semelhante e servindo de documento elucidativo para a instrução deste, 
-		pertencente a um mesmo interessado e assunto, na continuidade da ação 
-		administrativa ou judicial. 
-```
 
 6. Preencher os campos da guia de Distribuição: 
 
-	O preenchimento da guia de Distribuição é o mesmo que criar uma tarefa. Para acessar esse procedimento, clique aqui. O documento mostrará as diferentes formas de criação de tarefas, bem como algumas das suas diferenciações. 
+	O preenchimento da guia de Distribuição é o mesmo que criar uma tarefa. Para acessar esse procedimento, <ins>clique aqui</ins>. O documento mostrará as diferentes formas de criação de tarefas, bem como algumas das suas diferenciações. 
 
-Pronto, seguindo esses 6 passos, o seu processo está criado e está pronto para ser tramitado. Ele pode ser editado conforme necessidade e, enriquecido com outras informações complementares. Para maiores informações de como editar o processo, clique aqui. 
+Pronto, seguindo esses 6 passos, o seu processo está criado e está pronto para ser tramitado. Ele pode ser editado conforme necessidade e, enriquecido com outras informações complementares. Para maiores informações de como editar o processo, <ins>clique aqui</ins>. 
  
